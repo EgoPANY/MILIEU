@@ -1,0 +1,1921 @@
+dataset_key,dataset_label,method_key,method_label,seed,tier_metric,tier_metric_label,k,value
+d3,Hippocampus,ours,Ours,23,panel,Panel@K,50,0.5202469559
+d3,Hippocampus,ours,Ours,23,panel,Panel@K,200,0.4706698739
+d3,Hippocampus,ours,Ours,23,panel,Panel@K,500,0.3436077356
+d3,Hippocampus,ours,Ours,23,panel,Panel@K,1000,0.2587874116
+d3,Hippocampus,ours,Ours,23,deg,DEG Top-K@K,50,0.3957142857
+d3,Hippocampus,ours,Ours,23,deg,DEG Top-K@K,100,0.3892857143
+d3,Hippocampus,ours,Ours,23,deg,DEG Top-K@K,200,0.395
+d3,Hippocampus,ours,Ours,23,deg,DEG Top-K@K,500,0.4468571429
+d3,Hippocampus,ours,Ours,23,celleval,CellEval@K,50,0.4814285714
+d3,Hippocampus,ours,Ours,23,celleval,CellEval@K,100,0.5592857143
+d3,Hippocampus,ours,Ours,23,celleval,CellEval@K,200,0.5878571429
+d3,Hippocampus,ours,Ours,23,celleval,CellEval@K,500,0.586
+d3,Hippocampus,ours,Ours,0,panel,Panel@K,50,0.5236906191
+d3,Hippocampus,ours,Ours,0,panel,Panel@K,200,0.4651494144
+d3,Hippocampus,ours,Ours,0,panel,Panel@K,500,0.3492926726
+d3,Hippocampus,ours,Ours,0,panel,Panel@K,1000,0.2611949338
+d3,Hippocampus,ours,Ours,0,deg,DEG Top-K@K,50,0.4
+d3,Hippocampus,ours,Ours,0,deg,DEG Top-K@K,100,0.3885714286
+d3,Hippocampus,ours,Ours,0,deg,DEG Top-K@K,200,0.3975
+d3,Hippocampus,ours,Ours,0,deg,DEG Top-K@K,500,0.4464285714
+d3,Hippocampus,ours,Ours,0,celleval,CellEval@K,50,0.4957142857
+d3,Hippocampus,ours,Ours,0,celleval,CellEval@K,100,0.5728571429
+d3,Hippocampus,ours,Ours,0,celleval,CellEval@K,200,0.6017857143
+d3,Hippocampus,ours,Ours,0,celleval,CellEval@K,500,0.5854285714
+d3,Hippocampus,ours,Ours,1,panel,Panel@K,50,0.5159458069
+d3,Hippocampus,ours,Ours,1,panel,Panel@K,200,0.4650837342
+d3,Hippocampus,ours,Ours,1,panel,Panel@K,500,0.3374379349
+d3,Hippocampus,ours,Ours,1,panel,Panel@K,1000,0.2501283701
+d3,Hippocampus,ours,Ours,1,deg,DEG Top-K@K,50,0.3857142857
+d3,Hippocampus,ours,Ours,1,deg,DEG Top-K@K,100,0.3764285714
+d3,Hippocampus,ours,Ours,1,deg,DEG Top-K@K,200,0.3882142857
+d3,Hippocampus,ours,Ours,1,deg,DEG Top-K@K,500,0.4445714286
+d3,Hippocampus,ours,Ours,1,celleval,CellEval@K,50,0.4742857143
+d3,Hippocampus,ours,Ours,1,celleval,CellEval@K,100,0.5435714286
+d3,Hippocampus,ours,Ours,1,celleval,CellEval@K,200,0.5825
+d3,Hippocampus,ours,Ours,1,celleval,CellEval@K,500,0.5827142857
+d3,Hippocampus,ours,Ours,2,panel,Panel@K,50,0.5330132053
+d3,Hippocampus,ours,Ours,2,panel,Panel@K,200,0.4615940041
+d3,Hippocampus,ours,Ours,2,panel,Panel@K,500,0.3510510499
+d3,Hippocampus,ours,Ours,2,panel,Panel@K,1000,0.2603894081
+d3,Hippocampus,ours,Ours,2,deg,DEG Top-K@K,50,0.4028571429
+d3,Hippocampus,ours,Ours,2,deg,DEG Top-K@K,100,0.3935714286
+d3,Hippocampus,ours,Ours,2,deg,DEG Top-K@K,200,0.3907142857
+d3,Hippocampus,ours,Ours,2,deg,DEG Top-K@K,500,0.4465714286
+d3,Hippocampus,ours,Ours,2,celleval,CellEval@K,50,0.4914285714
+d3,Hippocampus,ours,Ours,2,celleval,CellEval@K,100,0.5642857143
+d3,Hippocampus,ours,Ours,2,celleval,CellEval@K,200,0.5907142857
+d3,Hippocampus,ours,Ours,2,celleval,CellEval@K,500,0.5857142857
+d3,Hippocampus,ours,Ours,3,panel,Panel@K,50,0.5038106671
+d3,Hippocampus,ours,Ours,3,panel,Panel@K,200,0.4544396824
+d3,Hippocampus,ours,Ours,3,panel,Panel@K,500,0.3403570391
+d3,Hippocampus,ours,Ours,3,panel,Panel@K,1000,0.2574657063
+d3,Hippocampus,ours,Ours,3,deg,DEG Top-K@K,50,0.39
+d3,Hippocampus,ours,Ours,3,deg,DEG Top-K@K,100,0.3707142857
+d3,Hippocampus,ours,Ours,3,deg,DEG Top-K@K,200,0.3825
+d3,Hippocampus,ours,Ours,3,deg,DEG Top-K@K,500,0.4461428571
+d3,Hippocampus,ours,Ours,3,celleval,CellEval@K,50,0.49
+d3,Hippocampus,ours,Ours,3,celleval,CellEval@K,100,0.5485714286
+d3,Hippocampus,ours,Ours,3,celleval,CellEval@K,200,0.5892857143
+d3,Hippocampus,ours,Ours,3,celleval,CellEval@K,500,0.5868571429
+d3,Hippocampus,ours,Ours,4,panel,Panel@K,50,0.5034676728
+d3,Hippocampus,ours,Ours,4,panel,Panel@K,200,0.4496196333
+d3,Hippocampus,ours,Ours,4,panel,Panel@K,500,0.3412030768
+d3,Hippocampus,ours,Ours,4,panel,Panel@K,1000,0.2574571897
+d3,Hippocampus,ours,Ours,4,deg,DEG Top-K@K,50,0.3971428571
+d3,Hippocampus,ours,Ours,4,deg,DEG Top-K@K,100,0.3921428571
+d3,Hippocampus,ours,Ours,4,deg,DEG Top-K@K,200,0.3857142857
+d3,Hippocampus,ours,Ours,4,deg,DEG Top-K@K,500,0.4428571429
+d3,Hippocampus,ours,Ours,4,celleval,CellEval@K,50,0.4842857143
+d3,Hippocampus,ours,Ours,4,celleval,CellEval@K,100,0.5471428571
+d3,Hippocampus,ours,Ours,4,celleval,CellEval@K,200,0.5871428571
+d3,Hippocampus,ours,Ours,4,celleval,CellEval@K,500,0.5788571429
+d3,Hippocampus,ours,Ours,5,panel,Panel@K,50,0.5292265478
+d3,Hippocampus,ours,Ours,5,panel,Panel@K,200,0.4720283721
+d3,Hippocampus,ours,Ours,5,panel,Panel@K,500,0.3390554659
+d3,Hippocampus,ours,Ours,5,panel,Panel@K,1000,0.2517449432
+d3,Hippocampus,ours,Ours,5,deg,DEG Top-K@K,50,0.3928571429
+d3,Hippocampus,ours,Ours,5,deg,DEG Top-K@K,100,0.3978571429
+d3,Hippocampus,ours,Ours,5,deg,DEG Top-K@K,200,0.3960714286
+d3,Hippocampus,ours,Ours,5,deg,DEG Top-K@K,500,0.4422857143
+d3,Hippocampus,ours,Ours,5,celleval,CellEval@K,50,0.4628571429
+d3,Hippocampus,ours,Ours,5,celleval,CellEval@K,100,0.5621428571
+d3,Hippocampus,ours,Ours,5,celleval,CellEval@K,200,0.5903571429
+d3,Hippocampus,ours,Ours,5,celleval,CellEval@K,500,0.588
+d3,Hippocampus,ours,Ours,6,panel,Panel@K,50,0.5049905677
+d3,Hippocampus,ours,Ours,6,panel,Panel@K,200,0.464778048
+d3,Hippocampus,ours,Ours,6,panel,Panel@K,500,0.3373333356
+d3,Hippocampus,ours,Ours,6,panel,Panel@K,1000,0.2507953771
+d3,Hippocampus,ours,Ours,6,deg,DEG Top-K@K,50,0.4028571429
+d3,Hippocampus,ours,Ours,6,deg,DEG Top-K@K,100,0.4014285714
+d3,Hippocampus,ours,Ours,6,deg,DEG Top-K@K,200,0.3982142857
+d3,Hippocampus,ours,Ours,6,deg,DEG Top-K@K,500,0.4538571429
+d3,Hippocampus,ours,Ours,6,celleval,CellEval@K,50,0.51
+d3,Hippocampus,ours,Ours,6,celleval,CellEval@K,100,0.5478571429
+d3,Hippocampus,ours,Ours,6,celleval,CellEval@K,200,0.5946428571
+d3,Hippocampus,ours,Ours,6,celleval,CellEval@K,500,0.5885714286
+d3,Hippocampus,ours,Ours,7,panel,Panel@K,50,0.5200754588
+d3,Hippocampus,ours,Ours,7,panel,Panel@K,200,0.4580454511
+d3,Hippocampus,ours,Ours,7,panel,Panel@K,500,0.3305227049
+d3,Hippocampus,ours,Ours,7,panel,Panel@K,1000,0.2497943121
+d3,Hippocampus,ours,Ours,7,deg,DEG Top-K@K,50,0.3871428571
+d3,Hippocampus,ours,Ours,7,deg,DEG Top-K@K,100,0.3792857143
+d3,Hippocampus,ours,Ours,7,deg,DEG Top-K@K,200,0.3957142857
+d3,Hippocampus,ours,Ours,7,deg,DEG Top-K@K,500,0.4515714286
+d3,Hippocampus,ours,Ours,7,celleval,CellEval@K,50,0.4914285714
+d3,Hippocampus,ours,Ours,7,celleval,CellEval@K,100,0.5671428571
+d3,Hippocampus,ours,Ours,7,celleval,CellEval@K,200,0.5953571429
+d3,Hippocampus,ours,Ours,7,celleval,CellEval@K,500,0.5915714286
+d3,Hippocampus,ours,Ours,8,panel,Panel@K,50,0.5245686846
+d3,Hippocampus,ours,Ours,8,panel,Panel@K,200,0.4624240606
+d3,Hippocampus,ours,Ours,8,panel,Panel@K,500,0.3327547344
+d3,Hippocampus,ours,Ours,8,panel,Panel@K,1000,0.2481695902
+d3,Hippocampus,ours,Ours,8,deg,DEG Top-K@K,50,0.4042857143
+d3,Hippocampus,ours,Ours,8,deg,DEG Top-K@K,100,0.4
+d3,Hippocampus,ours,Ours,8,deg,DEG Top-K@K,200,0.3964285714
+d3,Hippocampus,ours,Ours,8,deg,DEG Top-K@K,500,0.449
+d3,Hippocampus,ours,Ours,8,celleval,CellEval@K,50,0.5028571429
+d3,Hippocampus,ours,Ours,8,celleval,CellEval@K,100,0.5585714286
+d3,Hippocampus,ours,Ours,8,celleval,CellEval@K,200,0.5857142857
+d3,Hippocampus,ours,Ours,8,celleval,CellEval@K,500,0.5957142857
+d3,Hippocampus,ours,Ours,9,panel,Panel@K,50,0.4998525124
+d3,Hippocampus,ours,Ours,9,panel,Panel@K,200,0.4484902123
+d3,Hippocampus,ours,Ours,9,panel,Panel@K,500,0.3265416993
+d3,Hippocampus,ours,Ours,9,panel,Panel@K,1000,0.2463530729
+d3,Hippocampus,ours,Ours,9,deg,DEG Top-K@K,50,0.39
+d3,Hippocampus,ours,Ours,9,deg,DEG Top-K@K,100,0.3971428571
+d3,Hippocampus,ours,Ours,9,deg,DEG Top-K@K,200,0.3928571429
+d3,Hippocampus,ours,Ours,9,deg,DEG Top-K@K,500,0.4544285714
+d3,Hippocampus,ours,Ours,9,celleval,CellEval@K,50,0.4957142857
+d3,Hippocampus,ours,Ours,9,celleval,CellEval@K,100,0.5692857143
+d3,Hippocampus,ours,Ours,9,celleval,CellEval@K,200,0.5889285714
+d3,Hippocampus,ours,Ours,9,celleval,CellEval@K,500,0.5942857143
+d3,Hippocampus,ours,Ours,10,panel,Panel@K,50,0.5049356886
+d3,Hippocampus,ours,Ours,10,panel,Panel@K,200,0.4625337776
+d3,Hippocampus,ours,Ours,10,panel,Panel@K,500,0.3430849175
+d3,Hippocampus,ours,Ours,10,panel,Panel@K,1000,0.2569701855
+d3,Hippocampus,ours,Ours,10,deg,DEG Top-K@K,50,0.4142857143
+d3,Hippocampus,ours,Ours,10,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,ours,Ours,10,deg,DEG Top-K@K,200,0.3928571429
+d3,Hippocampus,ours,Ours,10,deg,DEG Top-K@K,500,0.449
+d3,Hippocampus,ours,Ours,10,celleval,CellEval@K,50,0.5142857143
+d3,Hippocampus,ours,Ours,10,celleval,CellEval@K,100,0.5685714286
+d3,Hippocampus,ours,Ours,10,celleval,CellEval@K,200,0.5953571429
+d3,Hippocampus,ours,Ours,10,celleval,CellEval@K,500,0.591
+d3,Hippocampus,ours,Ours,11,panel,Panel@K,50,0.5325124335
+d3,Hippocampus,ours,Ours,11,panel,Panel@K,200,0.4646087581
+d3,Hippocampus,ours,Ours,11,panel,Panel@K,500,0.3501795379
+d3,Hippocampus,ours,Ours,11,panel,Panel@K,1000,0.2617141306
+d3,Hippocampus,ours,Ours,11,deg,DEG Top-K@K,50,0.4
+d3,Hippocampus,ours,Ours,11,deg,DEG Top-K@K,100,0.3892857143
+d3,Hippocampus,ours,Ours,11,deg,DEG Top-K@K,200,0.385
+d3,Hippocampus,ours,Ours,11,deg,DEG Top-K@K,500,0.4424285714
+d3,Hippocampus,ours,Ours,11,celleval,CellEval@K,50,0.5157142857
+d3,Hippocampus,ours,Ours,11,celleval,CellEval@K,100,0.5657142857
+d3,Hippocampus,ours,Ours,11,celleval,CellEval@K,200,0.5932142857
+d3,Hippocampus,ours,Ours,11,celleval,CellEval@K,500,0.5784285714
+d3,Hippocampus,ours,Ours,12,panel,Panel@K,50,0.556906191
+d3,Hippocampus,ours,Ours,12,panel,Panel@K,200,0.4703012932
+d3,Hippocampus,ours,Ours,12,panel,Panel@K,500,0.3514435955
+d3,Hippocampus,ours,Ours,12,panel,Panel@K,1000,0.2610760402
+d3,Hippocampus,ours,Ours,12,deg,DEG Top-K@K,50,0.4085714286
+d3,Hippocampus,ours,Ours,12,deg,DEG Top-K@K,100,0.3957142857
+d3,Hippocampus,ours,Ours,12,deg,DEG Top-K@K,200,0.3967857143
+d3,Hippocampus,ours,Ours,12,deg,DEG Top-K@K,500,0.4517142857
+d3,Hippocampus,ours,Ours,12,celleval,CellEval@K,50,0.4914285714
+d3,Hippocampus,ours,Ours,12,celleval,CellEval@K,100,0.5492857143
+d3,Hippocampus,ours,Ours,12,celleval,CellEval@K,200,0.6014285714
+d3,Hippocampus,ours,Ours,12,celleval,CellEval@K,500,0.5957142857
+d3,Hippocampus,ours,Ours,13,panel,Panel@K,50,0.521941348
+d3,Hippocampus,ours,Ours,13,panel,Panel@K,200,0.4794713439
+d3,Hippocampus,ours,Ours,13,panel,Panel@K,500,0.3568383714
+d3,Hippocampus,ours,Ours,13,panel,Panel@K,1000,0.2650438545
+d3,Hippocampus,ours,Ours,13,deg,DEG Top-K@K,50,0.4028571429
+d3,Hippocampus,ours,Ours,13,deg,DEG Top-K@K,100,0.3921428571
+d3,Hippocampus,ours,Ours,13,deg,DEG Top-K@K,200,0.3942857143
+d3,Hippocampus,ours,Ours,13,deg,DEG Top-K@K,500,0.4491428571
+d3,Hippocampus,ours,Ours,13,celleval,CellEval@K,50,0.5028571429
+d3,Hippocampus,ours,Ours,13,celleval,CellEval@K,100,0.5557142857
+d3,Hippocampus,ours,Ours,13,celleval,CellEval@K,200,0.5925
+d3,Hippocampus,ours,Ours,13,celleval,CellEval@K,500,0.5901428571
+d3,Hippocampus,ours,Ours,14,panel,Panel@K,50,0.5070485337
+d3,Hippocampus,ours,Ours,14,panel,Panel@K,200,0.4682999218
+d3,Hippocampus,ours,Ours,14,panel,Panel@K,500,0.3510393653
+d3,Hippocampus,ours,Ours,14,panel,Panel@K,1000,0.2630837639
+d3,Hippocampus,ours,Ours,14,deg,DEG Top-K@K,50,0.4071428571
+d3,Hippocampus,ours,Ours,14,deg,DEG Top-K@K,100,0.4028571429
+d3,Hippocampus,ours,Ours,14,deg,DEG Top-K@K,200,0.3957142857
+d3,Hippocampus,ours,Ours,14,deg,DEG Top-K@K,500,0.4505714286
+d3,Hippocampus,ours,Ours,14,celleval,CellEval@K,50,0.4928571429
+d3,Hippocampus,ours,Ours,14,celleval,CellEval@K,100,0.5742857143
+d3,Hippocampus,ours,Ours,14,celleval,CellEval@K,200,0.61
+d3,Hippocampus,ours,Ours,14,celleval,CellEval@K,500,0.5928571429
+d3,Hippocampus,mean,Mean,23,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,23,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,23,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,23,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,23,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,23,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,23,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,23,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,23,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,23,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,23,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,23,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,0,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,0,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,0,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,0,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,0,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,0,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,0,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,0,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,0,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,0,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,0,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,0,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,1,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,1,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,1,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,1,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,1,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,1,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,1,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,1,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,1,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,1,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,1,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,1,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,2,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,2,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,2,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,2,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,2,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,2,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,2,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,2,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,2,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,2,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,2,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,2,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,3,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,3,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,3,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,3,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,3,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,3,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,3,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,3,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,3,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,3,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,3,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,3,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,4,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,4,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,4,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,4,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,4,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,4,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,4,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,4,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,4,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,4,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,4,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,4,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,5,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,5,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,5,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,5,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,5,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,5,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,5,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,5,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,5,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,5,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,5,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,5,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,6,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,6,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,6,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,6,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,6,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,6,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,6,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,6,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,6,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,6,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,6,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,6,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,7,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,7,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,7,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,7,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,7,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,7,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,7,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,7,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,7,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,7,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,7,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,7,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,8,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,8,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,8,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,8,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,8,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,8,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,8,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,8,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,8,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,8,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,8,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,8,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,9,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,9,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,9,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,9,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,9,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,9,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,9,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,9,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,9,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,9,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,9,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,9,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,10,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,10,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,10,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,10,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,10,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,10,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,10,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,10,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,10,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,10,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,10,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,10,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,11,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,11,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,11,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,11,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,11,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,11,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,11,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,11,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,11,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,11,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,11,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,11,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,12,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,12,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,12,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,12,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,12,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,12,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,12,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,12,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,12,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,12,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,12,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,12,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,13,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,13,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,13,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,13,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,13,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,13,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,13,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,13,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,13,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,13,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,13,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,13,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,mean,Mean,14,panel,Panel@K,50,0.1547110273
+d3,Hippocampus,mean,Mean,14,panel,Panel@K,200,0.1586263942
+d3,Hippocampus,mean,Mean,14,panel,Panel@K,500,0.08075264987
+d3,Hippocampus,mean,Mean,14,panel,Panel@K,1000,0.07066660752
+d3,Hippocampus,mean,Mean,14,deg,DEG Top-K@K,50,0.3785714286
+d3,Hippocampus,mean,Mean,14,deg,DEG Top-K@K,100,0.3964285714
+d3,Hippocampus,mean,Mean,14,deg,DEG Top-K@K,200,0.4107142857
+d3,Hippocampus,mean,Mean,14,deg,DEG Top-K@K,500,0.4932857143
+d3,Hippocampus,mean,Mean,14,celleval,CellEval@K,50,0.8
+d3,Hippocampus,mean,Mean,14,celleval,CellEval@K,100,0.8007142857
+d3,Hippocampus,mean,Mean,14,celleval,CellEval@K,200,0.7610714286
+d3,Hippocampus,mean,Mean,14,celleval,CellEval@K,500,0.7364285714
+d3,Hippocampus,ridge,Ridge,23,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,23,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,23,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,23,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,23,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,23,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,23,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,23,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,23,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,23,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,23,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,23,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,0,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,0,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,0,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,0,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,0,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,0,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,0,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,0,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,0,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,0,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,0,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,0,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,1,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,1,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,1,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,1,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,1,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,1,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,1,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,1,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,1,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,1,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,1,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,1,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,2,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,2,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,2,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,2,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,2,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,2,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,2,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,2,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,2,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,2,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,2,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,2,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,3,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,3,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,3,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,3,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,3,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,3,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,3,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,3,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,3,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,3,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,3,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,3,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,4,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,4,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,4,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,4,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,4,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,4,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,4,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,4,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,4,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,4,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,4,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,4,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,5,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,5,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,5,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,5,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,5,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,5,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,5,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,5,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,5,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,5,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,5,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,5,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,6,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,6,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,6,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,6,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,6,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,6,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,6,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,6,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,6,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,6,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,6,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,6,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,7,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,7,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,7,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,7,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,7,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,7,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,7,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,7,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,7,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,7,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,7,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,7,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,8,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,8,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,8,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,8,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,8,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,8,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,8,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,8,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,8,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,8,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,8,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,8,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,9,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,9,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,9,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,9,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,9,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,9,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,9,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,9,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,9,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,9,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,9,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,9,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,10,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,10,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,10,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,10,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,10,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,10,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,10,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,10,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,10,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,10,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,10,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,10,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,11,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,11,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,11,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,11,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,11,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,11,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,11,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,11,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,11,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,11,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,11,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,11,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,12,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,12,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,12,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,12,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,12,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,12,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,12,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,12,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,12,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,12,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,12,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,12,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,13,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,13,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,13,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,13,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,13,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,13,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,13,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,13,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,13,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,13,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,13,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,13,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,ridge,Ridge,14,panel,Panel@K,50,0.126365975
+d3,Hippocampus,ridge,Ridge,14,panel,Panel@K,200,0.1577793016
+d3,Hippocampus,ridge,Ridge,14,panel,Panel@K,500,0.09301754921
+d3,Hippocampus,ridge,Ridge,14,panel,Panel@K,1000,0.07817406446
+d3,Hippocampus,ridge,Ridge,14,deg,DEG Top-K@K,50,0.3314285714
+d3,Hippocampus,ridge,Ridge,14,deg,DEG Top-K@K,100,0.3628571429
+d3,Hippocampus,ridge,Ridge,14,deg,DEG Top-K@K,200,0.3714285714
+d3,Hippocampus,ridge,Ridge,14,deg,DEG Top-K@K,500,0.4522857143
+d3,Hippocampus,ridge,Ridge,14,celleval,CellEval@K,50,0.9557142857
+d3,Hippocampus,ridge,Ridge,14,celleval,CellEval@K,100,0.9521428571
+d3,Hippocampus,ridge,Ridge,14,celleval,CellEval@K,200,0.9496428571
+d3,Hippocampus,ridge,Ridge,14,celleval,CellEval@K,500,0.9491428571
+d3,Hippocampus,celcomen,Celcomen,23,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,23,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,23,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,23,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,23,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,23,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,23,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,23,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,23,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,23,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,23,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,23,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,0,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,0,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,0,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,0,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,0,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,0,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,0,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,0,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,0,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,0,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,0,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,0,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,1,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,1,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,1,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,1,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,1,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,1,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,1,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,1,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,1,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,1,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,1,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,1,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,2,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,2,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,2,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,2,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,2,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,2,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,2,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,2,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,2,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,2,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,2,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,2,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,3,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,3,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,3,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,3,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,3,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,3,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,3,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,3,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,3,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,3,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,3,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,3,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,4,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,4,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,4,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,4,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,4,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,4,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,4,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,4,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,4,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,4,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,4,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,4,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,5,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,5,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,5,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,5,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,5,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,5,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,5,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,5,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,5,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,5,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,5,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,5,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,6,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,6,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,6,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,6,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,6,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,6,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,6,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,6,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,6,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,6,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,6,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,6,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,7,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,7,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,7,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,7,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,7,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,7,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,7,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,7,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,7,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,7,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,7,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,7,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,8,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,8,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,8,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,8,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,8,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,8,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,8,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,8,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,8,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,8,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,8,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,8,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,9,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,9,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,9,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,9,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,9,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,9,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,9,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,9,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,9,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,9,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,9,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,9,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,10,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,10,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,10,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,10,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,10,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,10,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,10,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,10,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,10,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,10,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,10,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,10,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,11,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,11,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,11,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,11,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,11,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,11,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,11,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,11,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,11,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,11,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,11,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,11,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,12,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,12,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,12,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,12,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,12,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,12,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,12,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,12,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,12,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,12,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,12,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,12,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,13,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,13,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,13,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,13,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,13,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,13,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,13,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,13,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,13,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,13,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,13,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,13,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,celcomen,Celcomen,14,panel,Panel@K,50,0
+d3,Hippocampus,celcomen,Celcomen,14,panel,Panel@K,200,-0.7331752044
+d3,Hippocampus,celcomen,Celcomen,14,panel,Panel@K,500,0.2049150877
+d3,Hippocampus,celcomen,Celcomen,14,panel,Panel@K,1000,0.373511985
+d3,Hippocampus,celcomen,Celcomen,14,deg,DEG Top-K@K,50,0.025
+d3,Hippocampus,celcomen,Celcomen,14,deg,DEG Top-K@K,100,0.14875
+d3,Hippocampus,celcomen,Celcomen,14,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,celcomen,Celcomen,14,deg,DEG Top-K@K,500,0.442
+d3,Hippocampus,celcomen,Celcomen,14,celleval,CellEval@K,50,0.06
+d3,Hippocampus,celcomen,Celcomen,14,celleval,CellEval@K,100,0.26875
+d3,Hippocampus,celcomen,Celcomen,14,celleval,CellEval@K,200,0.53375
+d3,Hippocampus,celcomen,Celcomen,14,celleval,CellEval@K,500,0.6805
+d3,Hippocampus,concert,CONCERT,23,panel,Panel@K,50,-0.03541896759
+d3,Hippocampus,concert,CONCERT,23,panel,Panel@K,200,-0.2117572939
+d3,Hippocampus,concert,CONCERT,23,panel,Panel@K,500,0.06000815043
+d3,Hippocampus,concert,CONCERT,23,panel,Panel@K,1000,0.1167756328
+d3,Hippocampus,concert,CONCERT,23,deg,DEG Top-K@K,50,0.254
+d3,Hippocampus,concert,CONCERT,23,deg,DEG Top-K@K,100,0.274
+d3,Hippocampus,concert,CONCERT,23,deg,DEG Top-K@K,200,0.283
+d3,Hippocampus,concert,CONCERT,23,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,23,celleval,CellEval@K,50,0.306
+d3,Hippocampus,concert,CONCERT,23,celleval,CellEval@K,100,0.436
+d3,Hippocampus,concert,CONCERT,23,celleval,CellEval@K,200,0.436
+d3,Hippocampus,concert,CONCERT,23,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,0,panel,Panel@K,50,-0.0361392557
+d3,Hippocampus,concert,CONCERT,0,panel,Panel@K,200,-0.2119279982
+d3,Hippocampus,concert,CONCERT,0,panel,Panel@K,500,0.05983608894
+d3,Hippocampus,concert,CONCERT,0,panel,Panel@K,1000,0.1166588643
+d3,Hippocampus,concert,CONCERT,0,deg,DEG Top-K@K,50,0.25
+d3,Hippocampus,concert,CONCERT,0,deg,DEG Top-K@K,100,0.276
+d3,Hippocampus,concert,CONCERT,0,deg,DEG Top-K@K,200,0.2835
+d3,Hippocampus,concert,CONCERT,0,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,0,celleval,CellEval@K,50,0.304
+d3,Hippocampus,concert,CONCERT,0,celleval,CellEval@K,100,0.442
+d3,Hippocampus,concert,CONCERT,0,celleval,CellEval@K,200,0.4405
+d3,Hippocampus,concert,CONCERT,0,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,1,panel,Panel@K,50,-0.03418967587
+d3,Hippocampus,concert,CONCERT,1,panel,Panel@K,200,-0.211881647
+d3,Hippocampus,concert,CONCERT,1,panel,Panel@K,500,0.05970195721
+d3,Hippocampus,concert,CONCERT,1,panel,Panel@K,1000,0.1166871855
+d3,Hippocampus,concert,CONCERT,1,deg,DEG Top-K@K,50,0.254
+d3,Hippocampus,concert,CONCERT,1,deg,DEG Top-K@K,100,0.274
+d3,Hippocampus,concert,CONCERT,1,deg,DEG Top-K@K,200,0.283
+d3,Hippocampus,concert,CONCERT,1,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,1,celleval,CellEval@K,50,0.306
+d3,Hippocampus,concert,CONCERT,1,celleval,CellEval@K,100,0.436
+d3,Hippocampus,concert,CONCERT,1,celleval,CellEval@K,200,0.4365
+d3,Hippocampus,concert,CONCERT,1,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,2,panel,Panel@K,50,-0.0359759904
+d3,Hippocampus,concert,CONCERT,2,panel,Panel@K,200,-0.2117796445
+d3,Hippocampus,concert,CONCERT,2,panel,Panel@K,500,0.06002800331
+d3,Hippocampus,concert,CONCERT,2,panel,Panel@K,1000,0.1166933667
+d3,Hippocampus,concert,CONCERT,2,deg,DEG Top-K@K,50,0.264
+d3,Hippocampus,concert,CONCERT,2,deg,DEG Top-K@K,100,0.274
+d3,Hippocampus,concert,CONCERT,2,deg,DEG Top-K@K,200,0.285
+d3,Hippocampus,concert,CONCERT,2,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,2,celleval,CellEval@K,50,0.32
+d3,Hippocampus,concert,CONCERT,2,celleval,CellEval@K,100,0.436
+d3,Hippocampus,concert,CONCERT,2,celleval,CellEval@K,200,0.4405
+d3,Hippocampus,concert,CONCERT,2,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,3,panel,Panel@K,50,-0.03502521008
+d3,Hippocampus,concert,CONCERT,3,panel,Panel@K,200,-0.2150513763
+d3,Hippocampus,concert,CONCERT,3,panel,Panel@K,500,0.06006663387
+d3,Hippocampus,concert,CONCERT,3,panel,Panel@K,1000,0.1206355314
+d3,Hippocampus,concert,CONCERT,3,deg,DEG Top-K@K,50,0.254
+d3,Hippocampus,concert,CONCERT,3,deg,DEG Top-K@K,100,0.278
+d3,Hippocampus,concert,CONCERT,3,deg,DEG Top-K@K,200,0.2855
+d3,Hippocampus,concert,CONCERT,3,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,3,celleval,CellEval@K,50,0.306
+d3,Hippocampus,concert,CONCERT,3,celleval,CellEval@K,100,0.444
+d3,Hippocampus,concert,CONCERT,3,celleval,CellEval@K,200,0.441
+d3,Hippocampus,concert,CONCERT,3,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,4,panel,Panel@K,50,-0.03422809124
+d3,Hippocampus,concert,CONCERT,4,panel,Panel@K,200,-0.2118772969
+d3,Hippocampus,concert,CONCERT,4,panel,Panel@K,500,0.06006156505
+d3,Hippocampus,concert,CONCERT,4,panel,Panel@K,1000,0.1166733615
+d3,Hippocampus,concert,CONCERT,4,deg,DEG Top-K@K,50,0.256
+d3,Hippocampus,concert,CONCERT,4,deg,DEG Top-K@K,100,0.278
+d3,Hippocampus,concert,CONCERT,4,deg,DEG Top-K@K,200,0.283
+d3,Hippocampus,concert,CONCERT,4,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,4,celleval,CellEval@K,50,0.306
+d3,Hippocampus,concert,CONCERT,4,celleval,CellEval@K,100,0.444
+d3,Hippocampus,concert,CONCERT,4,celleval,CellEval@K,200,0.436
+d3,Hippocampus,concert,CONCERT,4,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,5,panel,Panel@K,50,-0.03471788715
+d3,Hippocampus,concert,CONCERT,5,panel,Panel@K,200,-0.2119291982
+d3,Hippocampus,concert,CONCERT,5,panel,Panel@K,500,0.06000888004
+d3,Hippocampus,concert,CONCERT,5,panel,Panel@K,1000,0.1166943207
+d3,Hippocampus,concert,CONCERT,5,deg,DEG Top-K@K,50,0.262
+d3,Hippocampus,concert,CONCERT,5,deg,DEG Top-K@K,100,0.274
+d3,Hippocampus,concert,CONCERT,5,deg,DEG Top-K@K,200,0.2835
+d3,Hippocampus,concert,CONCERT,5,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,5,celleval,CellEval@K,50,0.32
+d3,Hippocampus,concert,CONCERT,5,celleval,CellEval@K,100,0.436
+d3,Hippocampus,concert,CONCERT,5,celleval,CellEval@K,200,0.4365
+d3,Hippocampus,concert,CONCERT,5,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,6,panel,Panel@K,50,-0.03612965186
+d3,Hippocampus,concert,CONCERT,6,panel,Panel@K,200,-0.21200015
+d3,Hippocampus,concert,CONCERT,6,panel,Panel@K,500,0.05935890944
+d3,Hippocampus,concert,CONCERT,6,panel,Panel@K,1000,0.1221141345
+d3,Hippocampus,concert,CONCERT,6,deg,DEG Top-K@K,50,0.258
+d3,Hippocampus,concert,CONCERT,6,deg,DEG Top-K@K,100,0.275
+d3,Hippocampus,concert,CONCERT,6,deg,DEG Top-K@K,200,0.283
+d3,Hippocampus,concert,CONCERT,6,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,6,celleval,CellEval@K,50,0.306
+d3,Hippocampus,concert,CONCERT,6,celleval,CellEval@K,100,0.434
+d3,Hippocampus,concert,CONCERT,6,celleval,CellEval@K,200,0.4365
+d3,Hippocampus,concert,CONCERT,6,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,7,panel,Panel@K,50,-0.03882833133
+d3,Hippocampus,concert,CONCERT,7,panel,Panel@K,200,-0.2140486012
+d3,Hippocampus,concert,CONCERT,7,panel,Panel@K,500,0.05922140809
+d3,Hippocampus,concert,CONCERT,7,panel,Panel@K,1000,0.1180785365
+d3,Hippocampus,concert,CONCERT,7,deg,DEG Top-K@K,50,0.258
+d3,Hippocampus,concert,CONCERT,7,deg,DEG Top-K@K,100,0.275
+d3,Hippocampus,concert,CONCERT,7,deg,DEG Top-K@K,200,0.286
+d3,Hippocampus,concert,CONCERT,7,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,7,celleval,CellEval@K,50,0.318
+d3,Hippocampus,concert,CONCERT,7,celleval,CellEval@K,100,0.436
+d3,Hippocampus,concert,CONCERT,7,celleval,CellEval@K,200,0.441
+d3,Hippocampus,concert,CONCERT,7,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,8,panel,Panel@K,50,-0.03579351741
+d3,Hippocampus,concert,CONCERT,8,panel,Panel@K,200,-0.2120234006
+d3,Hippocampus,concert,CONCERT,8,panel,Panel@K,500,0.05951633087
+d3,Hippocampus,concert,CONCERT,8,panel,Panel@K,1000,0.1166640123
+d3,Hippocampus,concert,CONCERT,8,deg,DEG Top-K@K,50,0.254
+d3,Hippocampus,concert,CONCERT,8,deg,DEG Top-K@K,100,0.276
+d3,Hippocampus,concert,CONCERT,8,deg,DEG Top-K@K,200,0.2835
+d3,Hippocampus,concert,CONCERT,8,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,8,celleval,CellEval@K,50,0.312
+d3,Hippocampus,concert,CONCERT,8,celleval,CellEval@K,100,0.442
+d3,Hippocampus,concert,CONCERT,8,celleval,CellEval@K,200,0.436
+d3,Hippocampus,concert,CONCERT,8,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,9,panel,Panel@K,50,-0.03701320528
+d3,Hippocampus,concert,CONCERT,9,panel,Panel@K,200,-0.2139812495
+d3,Hippocampus,concert,CONCERT,9,panel,Panel@K,500,0.05945598502
+d3,Hippocampus,concert,CONCERT,9,panel,Panel@K,1000,0.1180655885
+d3,Hippocampus,concert,CONCERT,9,deg,DEG Top-K@K,50,0.256
+d3,Hippocampus,concert,CONCERT,9,deg,DEG Top-K@K,100,0.278
+d3,Hippocampus,concert,CONCERT,9,deg,DEG Top-K@K,200,0.2845
+d3,Hippocampus,concert,CONCERT,9,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,9,celleval,CellEval@K,50,0.306
+d3,Hippocampus,concert,CONCERT,9,celleval,CellEval@K,100,0.444
+d3,Hippocampus,concert,CONCERT,9,celleval,CellEval@K,200,0.441
+d3,Hippocampus,concert,CONCERT,9,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,10,panel,Panel@K,50,-0.03502521008
+d3,Hippocampus,concert,CONCERT,10,panel,Panel@K,200,-0.2081054526
+d3,Hippocampus,concert,CONCERT,10,panel,Panel@K,500,0.05964692979
+d3,Hippocampus,concert,CONCERT,10,panel,Panel@K,1000,0.1187166827
+d3,Hippocampus,concert,CONCERT,10,deg,DEG Top-K@K,50,0.258
+d3,Hippocampus,concert,CONCERT,10,deg,DEG Top-K@K,100,0.274
+d3,Hippocampus,concert,CONCERT,10,deg,DEG Top-K@K,200,0.2835
+d3,Hippocampus,concert,CONCERT,10,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,10,celleval,CellEval@K,50,0.306
+d3,Hippocampus,concert,CONCERT,10,celleval,CellEval@K,100,0.436
+d3,Hippocampus,concert,CONCERT,10,celleval,CellEval@K,200,0.436
+d3,Hippocampus,concert,CONCERT,10,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,11,panel,Panel@K,50,-0.03473709484
+d3,Hippocampus,concert,CONCERT,11,panel,Panel@K,200,-0.2117284932
+d3,Hippocampus,concert,CONCERT,11,panel,Panel@K,500,0.05987036108
+d3,Hippocampus,concert,CONCERT,11,panel,Panel@K,1000,0.1166727027
+d3,Hippocampus,concert,CONCERT,11,deg,DEG Top-K@K,50,0.258
+d3,Hippocampus,concert,CONCERT,11,deg,DEG Top-K@K,100,0.277
+d3,Hippocampus,concert,CONCERT,11,deg,DEG Top-K@K,200,0.288
+d3,Hippocampus,concert,CONCERT,11,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,11,celleval,CellEval@K,50,0.306
+d3,Hippocampus,concert,CONCERT,11,celleval,CellEval@K,100,0.443
+d3,Hippocampus,concert,CONCERT,11,celleval,CellEval@K,200,0.446
+d3,Hippocampus,concert,CONCERT,11,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,12,panel,Panel@K,50,-0.03468907563
+d3,Hippocampus,concert,CONCERT,12,panel,Panel@K,200,-0.2118175954
+d3,Hippocampus,concert,CONCERT,12,panel,Panel@K,500,0.05988068112
+d3,Hippocampus,concert,CONCERT,12,panel,Panel@K,1000,0.1167589156
+d3,Hippocampus,concert,CONCERT,12,deg,DEG Top-K@K,50,0.25
+d3,Hippocampus,concert,CONCERT,12,deg,DEG Top-K@K,100,0.274
+d3,Hippocampus,concert,CONCERT,12,deg,DEG Top-K@K,200,0.283
+d3,Hippocampus,concert,CONCERT,12,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,12,celleval,CellEval@K,50,0.304
+d3,Hippocampus,concert,CONCERT,12,celleval,CellEval@K,100,0.436
+d3,Hippocampus,concert,CONCERT,12,celleval,CellEval@K,200,0.436
+d3,Hippocampus,concert,CONCERT,12,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,13,panel,Panel@K,50,-0.03452581032
+d3,Hippocampus,concert,CONCERT,13,panel,Panel@K,200,-0.2117643441
+d3,Hippocampus,concert,CONCERT,13,panel,Panel@K,500,0.0597254293
+d3,Hippocampus,concert,CONCERT,13,panel,Panel@K,1000,0.1166985783
+d3,Hippocampus,concert,CONCERT,13,deg,DEG Top-K@K,50,0.258
+d3,Hippocampus,concert,CONCERT,13,deg,DEG Top-K@K,100,0.276
+d3,Hippocampus,concert,CONCERT,13,deg,DEG Top-K@K,200,0.2855
+d3,Hippocampus,concert,CONCERT,13,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,13,celleval,CellEval@K,50,0.306
+d3,Hippocampus,concert,CONCERT,13,celleval,CellEval@K,100,0.436
+d3,Hippocampus,concert,CONCERT,13,celleval,CellEval@K,200,0.441
+d3,Hippocampus,concert,CONCERT,13,celleval,CellEval@K,500,0.5192
+d3,Hippocampus,concert,CONCERT,14,panel,Panel@K,50,-0.03453541417
+d3,Hippocampus,concert,CONCERT,14,panel,Panel@K,200,-0.2118286957
+d3,Hippocampus,concert,CONCERT,14,panel,Panel@K,500,0.05995532142
+d3,Hippocampus,concert,CONCERT,14,panel,Panel@K,1000,0.1166528043
+d3,Hippocampus,concert,CONCERT,14,deg,DEG Top-K@K,50,0.254
+d3,Hippocampus,concert,CONCERT,14,deg,DEG Top-K@K,100,0.276
+d3,Hippocampus,concert,CONCERT,14,deg,DEG Top-K@K,200,0.283
+d3,Hippocampus,concert,CONCERT,14,deg,DEG Top-K@K,500,0.3746
+d3,Hippocampus,concert,CONCERT,14,celleval,CellEval@K,50,0.318
+d3,Hippocampus,concert,CONCERT,14,celleval,CellEval@K,100,0.442
+d3,Hippocampus,concert,CONCERT,14,celleval,CellEval@K,200,0.4365
+d3,Hippocampus,concert,CONCERT,14,celleval,CellEval@K,500,0.5192
+d4_spot,PerturbMap,ours,Ours,23,panel,Panel@K,50,0.8985834334
+d4_spot,PerturbMap,ours,Ours,23,panel,Panel@K,200,0.8156116403
+d4_spot,PerturbMap,ours,Ours,23,panel,Panel@K,500,0.8597637431
+d4_spot,PerturbMap,ours,Ours,23,panel,Panel@K,1000,0.8846525187
+d4_spot,PerturbMap,ours,Ours,23,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,23,deg,DEG Top-K@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,23,deg,DEG Top-K@K,200,0.845
+d4_spot,PerturbMap,ours,Ours,23,deg,DEG Top-K@K,500,0.883
+d4_spot,PerturbMap,ours,Ours,23,celleval,CellEval@K,50,0.84
+d4_spot,PerturbMap,ours,Ours,23,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,23,celleval,CellEval@K,200,0.8525
+d4_spot,PerturbMap,ours,Ours,23,celleval,CellEval@K,500,0.892
+d4_spot,PerturbMap,ours,Ours,0,panel,Panel@K,50,0.8947418968
+d4_spot,PerturbMap,ours,Ours,0,panel,Panel@K,200,0.8111685292
+d4_spot,PerturbMap,ours,Ours,0,panel,Panel@K,500,0.8539130477
+d4_spot,PerturbMap,ours,Ours,0,panel,Panel@K,1000,0.8812368292
+d4_spot,PerturbMap,ours,Ours,0,deg,DEG Top-K@K,50,0.84
+d4_spot,PerturbMap,ours,Ours,0,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,0,deg,DEG Top-K@K,200,0.8425
+d4_spot,PerturbMap,ours,Ours,0,deg,DEG Top-K@K,500,0.875
+d4_spot,PerturbMap,ours,Ours,0,celleval,CellEval@K,50,0.85
+d4_spot,PerturbMap,ours,Ours,0,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,0,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,0,celleval,CellEval@K,500,0.885
+d4_spot,PerturbMap,ours,Ours,1,panel,Panel@K,50,0.9001680672
+d4_spot,PerturbMap,ours,Ours,1,panel,Panel@K,200,0.8201822546
+d4_spot,PerturbMap,ours,Ours,1,panel,Panel@K,500,0.8633079332
+d4_spot,PerturbMap,ours,Ours,1,panel,Panel@K,1000,0.8881465981
+d4_spot,PerturbMap,ours,Ours,1,deg,DEG Top-K@K,50,0.85
+d4_spot,PerturbMap,ours,Ours,1,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,1,deg,DEG Top-K@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,1,deg,DEG Top-K@K,500,0.881
+d4_spot,PerturbMap,ours,Ours,1,celleval,CellEval@K,50,0.86
+d4_spot,PerturbMap,ours,Ours,1,celleval,CellEval@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,1,celleval,CellEval@K,200,0.8575
+d4_spot,PerturbMap,ours,Ours,1,celleval,CellEval@K,500,0.89
+d4_spot,PerturbMap,ours,Ours,2,panel,Panel@K,50,0.880240096
+d4_spot,PerturbMap,ours,Ours,2,panel,Panel@K,200,0.8065664142
+d4_spot,PerturbMap,ours,Ours,2,panel,Panel@K,500,0.8501635607
+d4_spot,PerturbMap,ours,Ours,2,panel,Panel@K,1000,0.8783723304
+d4_spot,PerturbMap,ours,Ours,2,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,2,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,2,deg,DEG Top-K@K,200,0.84
+d4_spot,PerturbMap,ours,Ours,2,deg,DEG Top-K@K,500,0.871
+d4_spot,PerturbMap,ours,Ours,2,celleval,CellEval@K,50,0.86
+d4_spot,PerturbMap,ours,Ours,2,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,2,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,2,celleval,CellEval@K,500,0.884
+d4_spot,PerturbMap,ours,Ours,3,panel,Panel@K,50,0.8908043217
+d4_spot,PerturbMap,ours,Ours,3,panel,Panel@K,200,0.8075841896
+d4_spot,PerturbMap,ours,Ours,3,panel,Panel@K,500,0.853509318
+d4_spot,PerturbMap,ours,Ours,3,panel,Panel@K,1000,0.8805924766
+d4_spot,PerturbMap,ours,Ours,3,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,3,deg,DEG Top-K@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,3,deg,DEG Top-K@K,200,0.8425
+d4_spot,PerturbMap,ours,Ours,3,deg,DEG Top-K@K,500,0.881
+d4_spot,PerturbMap,ours,Ours,3,celleval,CellEval@K,50,0.85
+d4_spot,PerturbMap,ours,Ours,3,celleval,CellEval@K,100,0.835
+d4_spot,PerturbMap,ours,Ours,3,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,3,celleval,CellEval@K,500,0.891
+d4_spot,PerturbMap,ours,Ours,4,panel,Panel@K,50,0.8886434574
+d4_spot,PerturbMap,ours,Ours,4,panel,Panel@K,200,0.8162829071
+d4_spot,PerturbMap,ours,Ours,4,panel,Panel@K,500,0.8598746235
+d4_spot,PerturbMap,ours,Ours,4,panel,Panel@K,1000,0.8854802735
+d4_spot,PerturbMap,ours,Ours,4,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,4,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,4,deg,DEG Top-K@K,200,0.8375
+d4_spot,PerturbMap,ours,Ours,4,deg,DEG Top-K@K,500,0.874
+d4_spot,PerturbMap,ours,Ours,4,celleval,CellEval@K,50,0.86
+d4_spot,PerturbMap,ours,Ours,4,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,4,celleval,CellEval@K,200,0.8475
+d4_spot,PerturbMap,ours,Ours,4,celleval,CellEval@K,500,0.888
+d4_spot,PerturbMap,ours,Ours,5,panel,Panel@K,50,0.8967106843
+d4_spot,PerturbMap,ours,Ours,5,panel,Panel@K,200,0.8143696092
+d4_spot,PerturbMap,ours,Ours,5,panel,Panel@K,500,0.8553267013
+d4_spot,PerturbMap,ours,Ours,5,panel,Panel@K,1000,0.8823167043
+d4_spot,PerturbMap,ours,Ours,5,deg,DEG Top-K@K,50,0.82
+d4_spot,PerturbMap,ours,Ours,5,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,5,deg,DEG Top-K@K,200,0.84
+d4_spot,PerturbMap,ours,Ours,5,deg,DEG Top-K@K,500,0.878
+d4_spot,PerturbMap,ours,Ours,5,celleval,CellEval@K,50,0.84
+d4_spot,PerturbMap,ours,Ours,5,celleval,CellEval@K,100,0.835
+d4_spot,PerturbMap,ours,Ours,5,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,5,celleval,CellEval@K,500,0.886
+d4_spot,PerturbMap,ours,Ours,6,panel,Panel@K,50,0.8909963986
+d4_spot,PerturbMap,ours,Ours,6,panel,Panel@K,200,0.8171484287
+d4_spot,PerturbMap,ours,Ours,6,panel,Panel@K,500,0.8615471422
+d4_spot,PerturbMap,ours,Ours,6,panel,Panel@K,1000,0.8866736807
+d4_spot,PerturbMap,ours,Ours,6,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,6,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,6,deg,DEG Top-K@K,200,0.8425
+d4_spot,PerturbMap,ours,Ours,6,deg,DEG Top-K@K,500,0.882
+d4_spot,PerturbMap,ours,Ours,6,celleval,CellEval@K,50,0.85
+d4_spot,PerturbMap,ours,Ours,6,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,6,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,6,celleval,CellEval@K,500,0.893
+d4_spot,PerturbMap,ours,Ours,7,panel,Panel@K,50,0.8809123649
+d4_spot,PerturbMap,ours,Ours,7,panel,Panel@K,200,0.8093647341
+d4_spot,PerturbMap,ours,Ours,7,panel,Panel@K,500,0.8524344977
+d4_spot,PerturbMap,ours,Ours,7,panel,Panel@K,1000,0.8772502993
+d4_spot,PerturbMap,ours,Ours,7,deg,DEG Top-K@K,50,0.82
+d4_spot,PerturbMap,ours,Ours,7,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,7,deg,DEG Top-K@K,200,0.835
+d4_spot,PerturbMap,ours,Ours,7,deg,DEG Top-K@K,500,0.868
+d4_spot,PerturbMap,ours,Ours,7,celleval,CellEval@K,50,0.84
+d4_spot,PerturbMap,ours,Ours,7,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,7,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,7,celleval,CellEval@K,500,0.884
+d4_spot,PerturbMap,ours,Ours,8,panel,Panel@K,50,0.8932052821
+d4_spot,PerturbMap,ours,Ours,8,panel,Panel@K,200,0.8209345234
+d4_spot,PerturbMap,ours,Ours,8,panel,Panel@K,500,0.8654116376
+d4_spot,PerturbMap,ours,Ours,8,panel,Panel@K,1000,0.89001419
+d4_spot,PerturbMap,ours,Ours,8,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,8,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,8,deg,DEG Top-K@K,200,0.84
+d4_spot,PerturbMap,ours,Ours,8,deg,DEG Top-K@K,500,0.884
+d4_spot,PerturbMap,ours,Ours,8,celleval,CellEval@K,50,0.84
+d4_spot,PerturbMap,ours,Ours,8,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,8,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,8,celleval,CellEval@K,500,0.893
+d4_spot,PerturbMap,ours,Ours,9,panel,Panel@K,50,0.893877551
+d4_spot,PerturbMap,ours,Ours,9,panel,Panel@K,200,0.8161096527
+d4_spot,PerturbMap,ours,Ours,9,panel,Panel@K,500,0.859989776
+d4_spot,PerturbMap,ours,Ours,9,panel,Panel@K,1000,0.8868821089
+d4_spot,PerturbMap,ours,Ours,9,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,9,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,9,deg,DEG Top-K@K,200,0.8425
+d4_spot,PerturbMap,ours,Ours,9,deg,DEG Top-K@K,500,0.879
+d4_spot,PerturbMap,ours,Ours,9,celleval,CellEval@K,50,0.85
+d4_spot,PerturbMap,ours,Ours,9,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ours,Ours,9,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,9,celleval,CellEval@K,500,0.89
+d4_spot,PerturbMap,ours,Ours,10,panel,Panel@K,50,0.8889315726
+d4_spot,PerturbMap,ours,Ours,10,panel,Panel@K,200,0.8139660992
+d4_spot,PerturbMap,ours,Ours,10,panel,Panel@K,500,0.8584079296
+d4_spot,PerturbMap,ours,Ours,10,panel,Panel@K,1000,0.8859412839
+d4_spot,PerturbMap,ours,Ours,10,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,10,deg,DEG Top-K@K,100,0.835
+d4_spot,PerturbMap,ours,Ours,10,deg,DEG Top-K@K,200,0.84
+d4_spot,PerturbMap,ours,Ours,10,deg,DEG Top-K@K,500,0.881
+d4_spot,PerturbMap,ours,Ours,10,celleval,CellEval@K,50,0.85
+d4_spot,PerturbMap,ours,Ours,10,celleval,CellEval@K,100,0.835
+d4_spot,PerturbMap,ours,Ours,10,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,10,celleval,CellEval@K,500,0.891
+d4_spot,PerturbMap,ours,Ours,11,panel,Panel@K,50,0.8945498199
+d4_spot,PerturbMap,ours,Ours,11,panel,Panel@K,200,0.8141963549
+d4_spot,PerturbMap,ours,Ours,11,panel,Panel@K,500,0.8620612242
+d4_spot,PerturbMap,ours,Ours,11,panel,Panel@K,1000,0.8877886318
+d4_spot,PerturbMap,ours,Ours,11,deg,DEG Top-K@K,50,0.84
+d4_spot,PerturbMap,ours,Ours,11,deg,DEG Top-K@K,100,0.835
+d4_spot,PerturbMap,ours,Ours,11,deg,DEG Top-K@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,11,deg,DEG Top-K@K,500,0.882
+d4_spot,PerturbMap,ours,Ours,11,celleval,CellEval@K,50,0.87
+d4_spot,PerturbMap,ours,Ours,11,celleval,CellEval@K,100,0.835
+d4_spot,PerturbMap,ours,Ours,11,celleval,CellEval@K,200,0.8575
+d4_spot,PerturbMap,ours,Ours,11,celleval,CellEval@K,500,0.893
+d4_spot,PerturbMap,ours,Ours,12,panel,Panel@K,50,0.8964705882
+d4_spot,PerturbMap,ours,Ours,12,panel,Panel@K,200,0.8154421361
+d4_spot,PerturbMap,ours,Ours,12,panel,Panel@K,500,0.8579369517
+d4_spot,PerturbMap,ours,Ours,12,panel,Panel@K,1000,0.8833855394
+d4_spot,PerturbMap,ours,Ours,12,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,12,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,12,deg,DEG Top-K@K,200,0.8425
+d4_spot,PerturbMap,ours,Ours,12,deg,DEG Top-K@K,500,0.88
+d4_spot,PerturbMap,ours,Ours,12,celleval,CellEval@K,50,0.86
+d4_spot,PerturbMap,ours,Ours,12,celleval,CellEval@K,100,0.835
+d4_spot,PerturbMap,ours,Ours,12,celleval,CellEval@K,200,0.85
+d4_spot,PerturbMap,ours,Ours,12,celleval,CellEval@K,500,0.889
+d4_spot,PerturbMap,ours,Ours,13,panel,Panel@K,50,0.8910444178
+d4_spot,PerturbMap,ours,Ours,13,panel,Panel@K,200,0.8089694742
+d4_spot,PerturbMap,ours,Ours,13,panel,Panel@K,500,0.851757551
+d4_spot,PerturbMap,ours,Ours,13,panel,Panel@K,1000,0.8804463584
+d4_spot,PerturbMap,ours,Ours,13,deg,DEG Top-K@K,50,0.83
+d4_spot,PerturbMap,ours,Ours,13,deg,DEG Top-K@K,100,0.82
+d4_spot,PerturbMap,ours,Ours,13,deg,DEG Top-K@K,200,0.8475
+d4_spot,PerturbMap,ours,Ours,13,deg,DEG Top-K@K,500,0.875
+d4_spot,PerturbMap,ours,Ours,13,celleval,CellEval@K,50,0.86
+d4_spot,PerturbMap,ours,Ours,13,celleval,CellEval@K,100,0.835
+d4_spot,PerturbMap,ours,Ours,13,celleval,CellEval@K,200,0.855
+d4_spot,PerturbMap,ours,Ours,13,celleval,CellEval@K,500,0.887
+d4_spot,PerturbMap,ours,Ours,14,panel,Panel@K,50,0.8930132053
+d4_spot,PerturbMap,ours,Ours,14,panel,Panel@K,200,0.8125935648
+d4_spot,PerturbMap,ours,Ours,14,panel,Panel@K,500,0.8557864471
+d4_spot,PerturbMap,ours,Ours,14,panel,Panel@K,1000,0.8844492264
+d4_spot,PerturbMap,ours,Ours,14,deg,DEG Top-K@K,50,0.84
+d4_spot,PerturbMap,ours,Ours,14,deg,DEG Top-K@K,100,0.825
+d4_spot,PerturbMap,ours,Ours,14,deg,DEG Top-K@K,200,0.8425
+d4_spot,PerturbMap,ours,Ours,14,deg,DEG Top-K@K,500,0.876
+d4_spot,PerturbMap,ours,Ours,14,celleval,CellEval@K,50,0.86
+d4_spot,PerturbMap,ours,Ours,14,celleval,CellEval@K,100,0.835
+d4_spot,PerturbMap,ours,Ours,14,celleval,CellEval@K,200,0.8525
+d4_spot,PerturbMap,ours,Ours,14,celleval,CellEval@K,500,0.887
+d4_spot,PerturbMap,mean,Mean,23,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,23,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,23,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,23,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,23,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,23,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,23,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,23,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,23,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,23,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,23,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,23,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,0,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,0,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,0,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,0,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,0,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,0,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,0,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,0,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,0,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,0,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,0,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,0,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,1,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,1,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,1,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,1,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,1,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,1,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,1,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,1,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,1,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,1,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,1,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,1,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,2,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,2,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,2,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,2,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,2,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,2,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,2,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,2,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,2,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,2,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,2,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,2,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,3,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,3,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,3,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,3,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,3,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,3,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,3,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,3,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,3,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,3,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,3,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,3,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,4,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,4,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,4,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,4,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,4,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,4,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,4,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,4,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,4,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,4,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,4,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,4,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,5,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,5,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,5,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,5,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,5,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,5,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,5,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,5,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,5,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,5,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,5,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,5,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,6,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,6,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,6,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,6,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,6,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,6,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,6,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,6,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,6,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,6,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,6,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,6,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,7,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,7,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,7,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,7,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,7,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,7,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,7,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,7,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,7,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,7,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,7,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,7,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,8,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,8,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,8,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,8,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,8,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,8,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,8,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,8,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,8,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,8,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,8,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,8,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,9,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,9,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,9,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,9,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,9,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,9,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,9,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,9,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,9,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,9,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,9,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,9,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,10,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,10,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,10,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,10,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,10,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,10,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,10,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,10,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,10,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,10,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,10,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,10,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,11,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,11,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,11,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,11,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,11,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,11,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,11,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,11,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,11,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,11,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,11,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,11,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,12,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,12,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,12,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,12,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,12,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,12,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,12,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,12,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,12,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,12,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,12,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,12,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,13,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,13,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,13,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,13,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,13,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,13,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,13,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,13,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,13,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,13,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,13,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,13,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,mean,Mean,14,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,mean,Mean,14,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,mean,Mean,14,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,mean,Mean,14,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,mean,Mean,14,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,mean,Mean,14,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,mean,Mean,14,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,mean,Mean,14,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,mean,Mean,14,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,mean,Mean,14,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,mean,Mean,14,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,mean,Mean,14,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,23,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,23,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,23,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,23,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,23,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,23,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,23,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,23,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,23,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,23,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,23,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,23,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,0,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,0,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,0,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,0,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,0,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,0,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,0,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,0,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,0,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,0,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,0,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,0,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,1,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,1,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,1,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,1,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,1,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,1,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,1,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,1,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,1,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,1,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,1,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,1,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,2,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,2,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,2,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,2,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,2,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,2,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,2,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,2,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,2,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,2,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,2,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,2,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,3,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,3,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,3,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,3,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,3,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,3,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,3,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,3,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,3,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,3,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,3,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,3,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,4,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,4,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,4,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,4,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,4,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,4,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,4,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,4,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,4,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,4,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,4,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,4,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,5,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,5,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,5,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,5,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,5,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,5,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,5,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,5,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,5,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,5,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,5,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,5,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,6,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,6,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,6,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,6,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,6,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,6,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,6,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,6,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,6,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,6,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,6,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,6,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,7,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,7,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,7,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,7,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,7,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,7,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,7,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,7,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,7,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,7,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,7,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,7,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,8,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,8,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,8,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,8,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,8,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,8,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,8,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,8,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,8,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,8,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,8,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,8,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,9,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,9,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,9,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,9,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,9,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,9,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,9,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,9,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,9,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,9,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,9,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,9,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,10,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,10,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,10,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,10,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,10,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,10,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,10,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,10,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,10,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,10,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,10,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,10,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,11,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,11,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,11,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,11,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,11,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,11,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,11,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,11,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,11,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,11,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,11,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,11,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,12,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,12,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,12,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,12,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,12,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,12,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,12,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,12,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,12,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,12,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,12,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,12,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,13,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,13,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,13,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,13,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,13,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,13,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,13,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,13,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,13,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,13,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,13,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,13,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,ridge,Ridge,14,panel,Panel@K,50,0.7926770708
+d4_spot,PerturbMap,ridge,Ridge,14,panel,Panel@K,200,0.7436484662
+d4_spot,PerturbMap,ridge,Ridge,14,panel,Panel@K,500,0.7358757995
+d4_spot,PerturbMap,ridge,Ridge,14,panel,Panel@K,1000,0.7771497961
+d4_spot,PerturbMap,ridge,Ridge,14,deg,DEG Top-K@K,50,0.76
+d4_spot,PerturbMap,ridge,Ridge,14,deg,DEG Top-K@K,100,0.8025
+d4_spot,PerturbMap,ridge,Ridge,14,deg,DEG Top-K@K,200,0.7725
+d4_spot,PerturbMap,ridge,Ridge,14,deg,DEG Top-K@K,500,0.817
+d4_spot,PerturbMap,ridge,Ridge,14,celleval,CellEval@K,50,0.83
+d4_spot,PerturbMap,ridge,Ridge,14,celleval,CellEval@K,100,0.83
+d4_spot,PerturbMap,ridge,Ridge,14,celleval,CellEval@K,200,0.83
+d4_spot,PerturbMap,ridge,Ridge,14,celleval,CellEval@K,500,0.875
+d4_spot,PerturbMap,celcomen,Celcomen,23,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,23,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,23,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,23,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,23,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,23,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,23,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,23,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,23,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,23,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,23,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,23,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,0,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,0,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,0,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,0,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,0,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,0,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,0,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,0,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,0,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,0,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,0,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,0,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,1,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,1,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,1,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,1,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,1,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,1,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,1,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,1,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,1,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,1,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,1,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,1,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,2,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,2,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,2,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,2,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,2,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,2,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,2,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,2,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,2,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,2,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,2,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,2,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,3,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,3,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,3,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,3,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,3,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,3,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,3,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,3,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,3,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,3,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,3,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,3,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,4,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,4,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,4,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,4,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,4,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,4,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,4,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,4,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,4,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,4,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,4,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,4,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,5,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,5,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,5,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,5,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,5,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,5,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,5,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,5,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,5,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,5,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,5,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,5,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,6,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,6,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,6,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,6,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,6,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,6,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,6,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,6,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,6,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,6,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,6,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,6,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,7,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,7,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,7,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,7,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,7,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,7,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,7,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,7,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,7,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,7,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,7,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,7,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,8,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,8,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,8,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,8,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,8,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,8,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,8,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,8,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,8,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,8,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,8,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,8,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,9,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,9,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,9,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,9,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,9,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,9,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,9,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,9,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,9,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,9,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,9,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,9,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,10,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,10,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,10,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,10,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,10,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,10,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,10,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,10,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,10,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,10,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,10,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,10,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,11,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,11,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,11,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,11,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,11,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,11,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,11,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,11,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,11,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,11,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,11,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,11,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,12,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,12,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,12,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,12,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,12,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,12,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,12,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,12,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,12,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,12,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,12,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,12,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,13,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,13,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,13,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,13,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,13,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,13,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,13,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,13,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,13,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,13,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,13,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,13,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,14,panel,Panel@K,50,0
+d4_spot,PerturbMap,celcomen,Celcomen,14,panel,Panel@K,200,0
+d4_spot,PerturbMap,celcomen,Celcomen,14,panel,Panel@K,500,0
+d4_spot,PerturbMap,celcomen,Celcomen,14,panel,Panel@K,1000,0
+d4_spot,PerturbMap,celcomen,Celcomen,14,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,14,deg,DEG Top-K@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,14,deg,DEG Top-K@K,200,0.0475
+d4_spot,PerturbMap,celcomen,Celcomen,14,deg,DEG Top-K@K,500,0.039
+d4_spot,PerturbMap,celcomen,Celcomen,14,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,celcomen,Celcomen,14,celleval,CellEval@K,100,0.085
+d4_spot,PerturbMap,celcomen,Celcomen,14,celleval,CellEval@K,200,0.05
+d4_spot,PerturbMap,celcomen,Celcomen,14,celleval,CellEval@K,500,0.039
+d4_spot,PerturbMap,concert,CONCERT,23,panel,Panel@K,50,-0.77757503
+d4_spot,PerturbMap,concert,CONCERT,23,panel,Panel@K,200,-0.05610065252
+d4_spot,PerturbMap,concert,CONCERT,23,panel,Panel@K,500,0.5612986452
+d4_spot,PerturbMap,concert,CONCERT,23,panel,Panel@K,1000,0.4466684427
+d4_spot,PerturbMap,concert,CONCERT,23,deg,DEG Top-K@K,50,0.11
+d4_spot,PerturbMap,concert,CONCERT,23,deg,DEG Top-K@K,100,0.175
+d4_spot,PerturbMap,concert,CONCERT,23,deg,DEG Top-K@K,200,0.1475
+d4_spot,PerturbMap,concert,CONCERT,23,deg,DEG Top-K@K,500,0.166
+d4_spot,PerturbMap,concert,CONCERT,23,celleval,CellEval@K,50,0.14
+d4_spot,PerturbMap,concert,CONCERT,23,celleval,CellEval@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,23,celleval,CellEval@K,200,0.1475
+d4_spot,PerturbMap,concert,CONCERT,23,celleval,CellEval@K,500,0.166
+d4_spot,PerturbMap,concert,CONCERT,0,panel,Panel@K,50,-0.7778151261
+d4_spot,PerturbMap,concert,CONCERT,0,panel,Panel@K,200,-0.0801080027
+d4_spot,PerturbMap,concert,CONCERT,0,panel,Panel@K,500,0.5828475154
+d4_spot,PerturbMap,concert,CONCERT,0,panel,Panel@K,1000,0.4532985213
+d4_spot,PerturbMap,concert,CONCERT,0,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,0,deg,DEG Top-K@K,100,0.16
+d4_spot,PerturbMap,concert,CONCERT,0,deg,DEG Top-K@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,0,deg,DEG Top-K@K,500,0.174
+d4_spot,PerturbMap,concert,CONCERT,0,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,0,celleval,CellEval@K,100,0.155
+d4_spot,PerturbMap,concert,CONCERT,0,celleval,CellEval@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,0,celleval,CellEval@K,500,0.174
+d4_spot,PerturbMap,concert,CONCERT,1,panel,Panel@K,50,-0.8218967587
+d4_spot,PerturbMap,concert,CONCERT,1,panel,Panel@K,200,-0.1017325433
+d4_spot,PerturbMap,concert,CONCERT,1,panel,Panel@K,500,0.5699764079
+d4_spot,PerturbMap,concert,CONCERT,1,panel,Panel@K,1000,0.4632407532
+d4_spot,PerturbMap,concert,CONCERT,1,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,1,deg,DEG Top-K@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,1,deg,DEG Top-K@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,1,deg,DEG Top-K@K,500,0.166
+d4_spot,PerturbMap,concert,CONCERT,1,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,concert,CONCERT,1,celleval,CellEval@K,100,0.155
+d4_spot,PerturbMap,concert,CONCERT,1,celleval,CellEval@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,1,celleval,CellEval@K,500,0.168
+d4_spot,PerturbMap,concert,CONCERT,2,panel,Panel@K,50,-0.7779111645
+d4_spot,PerturbMap,concert,CONCERT,2,panel,Panel@K,200,-0.07029400735
+d4_spot,PerturbMap,concert,CONCERT,2,panel,Panel@K,500,0.5785264901
+d4_spot,PerturbMap,concert,CONCERT,2,panel,Panel@K,1000,0.4415879916
+d4_spot,PerturbMap,concert,CONCERT,2,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,2,deg,DEG Top-K@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,2,deg,DEG Top-K@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,2,deg,DEG Top-K@K,500,0.168
+d4_spot,PerturbMap,concert,CONCERT,2,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,concert,CONCERT,2,celleval,CellEval@K,100,0.16
+d4_spot,PerturbMap,concert,CONCERT,2,celleval,CellEval@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,2,celleval,CellEval@K,500,0.167
+d4_spot,PerturbMap,concert,CONCERT,3,panel,Panel@K,50,-0.8223769508
+d4_spot,PerturbMap,concert,CONCERT,3,panel,Panel@K,200,-0.1198537463
+d4_spot,PerturbMap,concert,CONCERT,3,panel,Panel@K,500,0.5621658647
+d4_spot,PerturbMap,concert,CONCERT,3,panel,Panel@K,1000,0.4602236382
+d4_spot,PerturbMap,concert,CONCERT,3,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,3,deg,DEG Top-K@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,3,deg,DEG Top-K@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,3,deg,DEG Top-K@K,500,0.16
+d4_spot,PerturbMap,concert,CONCERT,3,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,3,celleval,CellEval@K,100,0.155
+d4_spot,PerturbMap,concert,CONCERT,3,celleval,CellEval@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,3,celleval,CellEval@K,500,0.162
+d4_spot,PerturbMap,concert,CONCERT,4,panel,Panel@K,50,-0.8237695078
+d4_spot,PerturbMap,concert,CONCERT,4,panel,Panel@K,200,-0.07406210155
+d4_spot,PerturbMap,concert,CONCERT,4,panel,Panel@K,500,0.6080418082
+d4_spot,PerturbMap,concert,CONCERT,4,panel,Panel@K,1000,0.4612087072
+d4_spot,PerturbMap,concert,CONCERT,4,deg,DEG Top-K@K,50,0.1
+d4_spot,PerturbMap,concert,CONCERT,4,deg,DEG Top-K@K,100,0.155
+d4_spot,PerturbMap,concert,CONCERT,4,deg,DEG Top-K@K,200,0.1325
+d4_spot,PerturbMap,concert,CONCERT,4,deg,DEG Top-K@K,500,0.177
+d4_spot,PerturbMap,concert,CONCERT,4,celleval,CellEval@K,50,0.13
+d4_spot,PerturbMap,concert,CONCERT,4,celleval,CellEval@K,100,0.15
+d4_spot,PerturbMap,concert,CONCERT,4,celleval,CellEval@K,200,0.1325
+d4_spot,PerturbMap,concert,CONCERT,4,celleval,CellEval@K,500,0.177
+d4_spot,PerturbMap,concert,CONCERT,5,panel,Panel@K,50,-0.7784393758
+d4_spot,PerturbMap,concert,CONCERT,5,panel,Panel@K,200,-0.09019125478
+d4_spot,PerturbMap,concert,CONCERT,5,panel,Panel@K,500,0.5798161593
+d4_spot,PerturbMap,concert,CONCERT,5,panel,Panel@K,1000,0.4542753943
+d4_spot,PerturbMap,concert,CONCERT,5,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,5,deg,DEG Top-K@K,100,0.16
+d4_spot,PerturbMap,concert,CONCERT,5,deg,DEG Top-K@K,200,0.145
+d4_spot,PerturbMap,concert,CONCERT,5,deg,DEG Top-K@K,500,0.168
+d4_spot,PerturbMap,concert,CONCERT,5,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,5,celleval,CellEval@K,100,0.15
+d4_spot,PerturbMap,concert,CONCERT,5,celleval,CellEval@K,200,0.1475
+d4_spot,PerturbMap,concert,CONCERT,5,celleval,CellEval@K,500,0.169
+d4_spot,PerturbMap,concert,CONCERT,6,panel,Panel@K,50,-0.822665066
+d4_spot,PerturbMap,concert,CONCERT,6,panel,Panel@K,200,-0.1091712293
+d4_spot,PerturbMap,concert,CONCERT,6,panel,Panel@K,500,0.5775160861
+d4_spot,PerturbMap,concert,CONCERT,6,panel,Panel@K,1000,0.4727130647
+d4_spot,PerturbMap,concert,CONCERT,6,deg,DEG Top-K@K,50,0.1
+d4_spot,PerturbMap,concert,CONCERT,6,deg,DEG Top-K@K,100,0.175
+d4_spot,PerturbMap,concert,CONCERT,6,deg,DEG Top-K@K,200,0.14
+d4_spot,PerturbMap,concert,CONCERT,6,deg,DEG Top-K@K,500,0.164
+d4_spot,PerturbMap,concert,CONCERT,6,celleval,CellEval@K,50,0.13
+d4_spot,PerturbMap,concert,CONCERT,6,celleval,CellEval@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,6,celleval,CellEval@K,200,0.14
+d4_spot,PerturbMap,concert,CONCERT,6,celleval,CellEval@K,500,0.166
+d4_spot,PerturbMap,concert,CONCERT,7,panel,Panel@K,50,-0.8228091236
+d4_spot,PerturbMap,concert,CONCERT,7,panel,Panel@K,200,-0.07159228981
+d4_spot,PerturbMap,concert,CONCERT,7,panel,Panel@K,500,0.583994816
+d4_spot,PerturbMap,concert,CONCERT,7,panel,Panel@K,1000,0.4611851332
+d4_spot,PerturbMap,concert,CONCERT,7,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,7,deg,DEG Top-K@K,100,0.17
+d4_spot,PerturbMap,concert,CONCERT,7,deg,DEG Top-K@K,200,0.14
+d4_spot,PerturbMap,concert,CONCERT,7,deg,DEG Top-K@K,500,0.172
+d4_spot,PerturbMap,concert,CONCERT,7,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,7,celleval,CellEval@K,100,0.16
+d4_spot,PerturbMap,concert,CONCERT,7,celleval,CellEval@K,200,0.14
+d4_spot,PerturbMap,concert,CONCERT,7,celleval,CellEval@K,500,0.172
+d4_spot,PerturbMap,concert,CONCERT,8,panel,Panel@K,50,-0.8235294118
+d4_spot,PerturbMap,concert,CONCERT,8,panel,Panel@K,200,-0.07366459161
+d4_spot,PerturbMap,concert,CONCERT,8,panel,Panel@K,500,0.5748424754
+d4_spot,PerturbMap,concert,CONCERT,8,panel,Panel@K,1000,0.4486659107
+d4_spot,PerturbMap,concert,CONCERT,8,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,8,deg,DEG Top-K@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,8,deg,DEG Top-K@K,200,0.1475
+d4_spot,PerturbMap,concert,CONCERT,8,deg,DEG Top-K@K,500,0.172
+d4_spot,PerturbMap,concert,CONCERT,8,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,8,celleval,CellEval@K,100,0.155
+d4_spot,PerturbMap,concert,CONCERT,8,celleval,CellEval@K,200,0.1475
+d4_spot,PerturbMap,concert,CONCERT,8,celleval,CellEval@K,500,0.172
+d4_spot,PerturbMap,concert,CONCERT,9,panel,Panel@K,50,-0.7775270108
+d4_spot,PerturbMap,concert,CONCERT,9,panel,Panel@K,200,-0.1003322583
+d4_spot,PerturbMap,concert,CONCERT,9,panel,Panel@K,500,0.5735261661
+d4_spot,PerturbMap,concert,CONCERT,9,panel,Panel@K,1000,0.4649214329
+d4_spot,PerturbMap,concert,CONCERT,9,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,9,deg,DEG Top-K@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,9,deg,DEG Top-K@K,200,0.145
+d4_spot,PerturbMap,concert,CONCERT,9,deg,DEG Top-K@K,500,0.176
+d4_spot,PerturbMap,concert,CONCERT,9,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,9,celleval,CellEval@K,100,0.155
+d4_spot,PerturbMap,concert,CONCERT,9,celleval,CellEval@K,200,0.145
+d4_spot,PerturbMap,concert,CONCERT,9,celleval,CellEval@K,500,0.176
+d4_spot,PerturbMap,concert,CONCERT,10,panel,Panel@K,50,-0.8219447779
+d4_spot,PerturbMap,concert,CONCERT,10,panel,Panel@K,200,-0.09685817145
+d4_spot,PerturbMap,concert,CONCERT,10,panel,Panel@K,500,0.5669538838
+d4_spot,PerturbMap,concert,CONCERT,10,panel,Panel@K,1000,0.469017979
+d4_spot,PerturbMap,concert,CONCERT,10,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,10,deg,DEG Top-K@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,10,deg,DEG Top-K@K,200,0.1425
+d4_spot,PerturbMap,concert,CONCERT,10,deg,DEG Top-K@K,500,0.164
+d4_spot,PerturbMap,concert,CONCERT,10,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,10,celleval,CellEval@K,100,0.155
+d4_spot,PerturbMap,concert,CONCERT,10,celleval,CellEval@K,200,0.1425
+d4_spot,PerturbMap,concert,CONCERT,10,celleval,CellEval@K,500,0.164
+d4_spot,PerturbMap,concert,CONCERT,11,panel,Panel@K,50,-0.8227611044
+d4_spot,PerturbMap,concert,CONCERT,11,panel,Panel@K,200,-0.09687392185
+d4_spot,PerturbMap,concert,CONCERT,11,panel,Panel@K,500,0.5817779751
+d4_spot,PerturbMap,concert,CONCERT,11,panel,Panel@K,1000,0.4528524089
+d4_spot,PerturbMap,concert,CONCERT,11,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,11,deg,DEG Top-K@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,11,deg,DEG Top-K@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,11,deg,DEG Top-K@K,500,0.161
+d4_spot,PerturbMap,concert,CONCERT,11,celleval,CellEval@K,50,0.11
+d4_spot,PerturbMap,concert,CONCERT,11,celleval,CellEval@K,100,0.16
+d4_spot,PerturbMap,concert,CONCERT,11,celleval,CellEval@K,200,0.1375
+d4_spot,PerturbMap,concert,CONCERT,11,celleval,CellEval@K,500,0.16
+d4_spot,PerturbMap,concert,CONCERT,12,panel,Panel@K,50,-0.7765186074
+d4_spot,PerturbMap,concert,CONCERT,12,panel,Panel@K,200,-0.122598065
+d4_spot,PerturbMap,concert,CONCERT,12,panel,Panel@K,500,0.5394732459
+d4_spot,PerturbMap,concert,CONCERT,12,panel,Panel@K,1000,0.4760561661
+d4_spot,PerturbMap,concert,CONCERT,12,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,12,deg,DEG Top-K@K,100,0.17
+d4_spot,PerturbMap,concert,CONCERT,12,deg,DEG Top-K@K,200,0.145
+d4_spot,PerturbMap,concert,CONCERT,12,deg,DEG Top-K@K,500,0.142
+d4_spot,PerturbMap,concert,CONCERT,12,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,12,celleval,CellEval@K,100,0.16
+d4_spot,PerturbMap,concert,CONCERT,12,celleval,CellEval@K,200,0.145
+d4_spot,PerturbMap,concert,CONCERT,12,celleval,CellEval@K,500,0.144
+d4_spot,PerturbMap,concert,CONCERT,13,panel,Panel@K,50,-0.7801680672
+d4_spot,PerturbMap,concert,CONCERT,13,panel,Panel@K,200,-0.0673801845
+d4_spot,PerturbMap,concert,CONCERT,13,panel,Panel@K,500,0.5470465722
+d4_spot,PerturbMap,concert,CONCERT,13,panel,Panel@K,1000,0.4327388527
+d4_spot,PerturbMap,concert,CONCERT,13,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,13,deg,DEG Top-K@K,100,0.165
+d4_spot,PerturbMap,concert,CONCERT,13,deg,DEG Top-K@K,200,0.1475
+d4_spot,PerturbMap,concert,CONCERT,13,deg,DEG Top-K@K,500,0.17
+d4_spot,PerturbMap,concert,CONCERT,13,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,13,celleval,CellEval@K,100,0.155
+d4_spot,PerturbMap,concert,CONCERT,13,celleval,CellEval@K,200,0.1475
+d4_spot,PerturbMap,concert,CONCERT,13,celleval,CellEval@K,500,0.172
+d4_spot,PerturbMap,concert,CONCERT,14,panel,Panel@K,50,-0.8215606242
+d4_spot,PerturbMap,concert,CONCERT,14,panel,Panel@K,200,-0.08526063152
+d4_spot,PerturbMap,concert,CONCERT,14,panel,Panel@K,500,0.6010558602
+d4_spot,PerturbMap,concert,CONCERT,14,panel,Panel@K,1000,0.4608460908
+d4_spot,PerturbMap,concert,CONCERT,14,deg,DEG Top-K@K,50,0.09
+d4_spot,PerturbMap,concert,CONCERT,14,deg,DEG Top-K@K,100,0.155
+d4_spot,PerturbMap,concert,CONCERT,14,deg,DEG Top-K@K,200,0.1325
+d4_spot,PerturbMap,concert,CONCERT,14,deg,DEG Top-K@K,500,0.165
+d4_spot,PerturbMap,concert,CONCERT,14,celleval,CellEval@K,50,0.12
+d4_spot,PerturbMap,concert,CONCERT,14,celleval,CellEval@K,100,0.15
+d4_spot,PerturbMap,concert,CONCERT,14,celleval,CellEval@K,200,0.1325
+d4_spot,PerturbMap,concert,CONCERT,14,celleval,CellEval@K,500,0.165

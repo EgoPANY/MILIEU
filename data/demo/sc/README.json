@@ -1,0 +1,13 @@
+{
+  "synthetic": false,
+  "dataset": "Replogle K562 Essential (ed5_essential)",
+  "gene_ood_seed": 0,
+  "heldout_primary_targets": [
+    "SON",
+    "MED19",
+    "DDX10"
+  ],
+  "n_genes": 654,
+  "pool_dim": 16,
+  "note": "Infer-only example from Essential gene-OOD seed 0 (SON, MED19, DDX10). Context pools are 16-D in this bundle (GitHub file-size limit); see docs/DEMO.md."
+}

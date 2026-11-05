@@ -1,0 +1,42 @@
+{
+  "exported_at_utc": "2026-11-05T17:41:28Z",
+  "scope": "public review release",
+  "row_counts": {
+    "data/manuscript/sc_gene_ood_adamson_jurkat_hepg2_multiseed_metrics.csv": 1440,
+    "data/manuscript/spatial_benchmark_radar_metrics_hippocampus_perturbmap_16seed_multiseed.csv": 1440,
+    "data/manuscript/spatial_benchmark_mmd_hippocampus_perturbmap_16seed_multiseed.csv": 160,
+    "data/manuscript/spatial_hippocampus_vcc_stk39_fasn_clu_ridge_mean_train_multiseed.csv": 975,
+    "data/manuscript/figure_significance_ours_vs_comparator_panel_summary.csv": 122,
+    "data/manuscript/figure_significance_paired_seed_multiseed_tests.csv": 1022
+  },
+  "files": [
+    {
+      "file": "data/manuscript/sc_gene_ood_adamson_jurkat_hepg2_multiseed_metrics.csv",
+      "sha256": "dac259f54dc42fd5ae3fae878993320d61216cd5fa9132b68c9478e3d48395aa"
+    },
+    {
+      "file": "data/manuscript/spatial_benchmark_radar_metrics_hippocampus_perturbmap_16seed_multiseed.csv",
+      "sha256": "37c690541792f22fda7cd79d42891217be93ce1697ddde1ce36708da58a72f35"
+    },
+    {
+      "file": "data/manuscript/spatial_benchmark_mmd_hippocampus_perturbmap_16seed_multiseed.csv",
+      "sha256": "399a04c961593ab6b05cf8415627d06d45336e8b8ec50c4a71c4de4cf6b9165e"
+    },
+    {
+      "file": "data/manuscript/spatial_hippocampus_vcc_stk39_fasn_clu_ridge_mean_train_multiseed.csv",
+      "sha256": "0f0f5d46452a1c44548f6e0b332413fced8037dfcd8dbfbd467c96dbeafdfc5b"
+    },
+    {
+      "file": "data/manuscript/figure_significance_ours_vs_comparator_panel_summary.csv",
+      "sha256": "2037f2886d26069dc9c826fe7db98f559c7a998f2d852b37af693f37f295c123"
+    },
+    {
+      "file": "data/manuscript/figure_significance_paired_seed_multiseed_tests.csv",
+      "sha256": "150a430447763f56810415b9eb5a499472fdd6e39d72dde951ad3e3d4e855597"
+    },
+    {
+      "file": "data/manuscript/README.md",
+      "sha256": "52533df8c5b3a630528ed52812910a343543cdab2e296b40352ea6692310df32"
+    }
+  ]
+}

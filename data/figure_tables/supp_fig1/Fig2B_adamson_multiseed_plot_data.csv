@@ -1,0 +1,481 @@
+dataset_key,dataset_label,method_key,method_label,seed,metric_key,metric_label,lower_better,value
+adamson,Adamson,ours,Ours,0,skd_d16,SKD,False,0.5833333333
+adamson,Adamson,ours,Ours,0,panel200_dh,Panel@200,False,0.5896799087
+adamson,Adamson,ours,Ours,0,crisp.pearson_delta,Pearson Δ,False,0.4991597001
+adamson,Adamson,ours,Ours,0,crisp.spearman_delta,Spearman Δ,False,0.3390468965
+adamson,Adamson,ours,Ours,0,dist.mmd,MMD ↓,True,0.6479815841
+adamson,Adamson,ours,Ours,0,celleval.200,CellEval@200,False,0.3333333333
+adamson,Adamson,ours,Ours,0,deg_off.200,DEG@200,False,0.3333333333
+adamson,Adamson,ours,Ours,0,crisp.r2score_de,R²,False,0.2227446956
+adamson,Adamson,ours,Ours,1,skd_d16,SKD,False,0.2666666667
+adamson,Adamson,ours,Ours,1,panel200_dh,Panel@200,False,0.6305410969
+adamson,Adamson,ours,Ours,1,crisp.pearson_delta,Pearson Δ,False,0.6367113899
+adamson,Adamson,ours,Ours,1,crisp.spearman_delta,Spearman Δ,False,0.3955540245
+adamson,Adamson,ours,Ours,1,dist.mmd,MMD ↓,True,0.7345583439
+adamson,Adamson,ours,Ours,1,celleval.200,CellEval@200,False,0.3355555556
+adamson,Adamson,ours,Ours,1,deg_off.200,DEG@200,False,0.3355555556
+adamson,Adamson,ours,Ours,1,crisp.r2score_de,R²,False,0.3895665705
+adamson,Adamson,ours,Ours,2,skd_d16,SKD,False,0.65
+adamson,Adamson,ours,Ours,2,panel200_dh,Panel@200,False,0.5136726752
+adamson,Adamson,ours,Ours,2,crisp.pearson_delta,Pearson Δ,False,0.3990855582
+adamson,Adamson,ours,Ours,2,crisp.spearman_delta,Spearman Δ,False,0.2889404728
+adamson,Adamson,ours,Ours,2,dist.mmd,MMD ↓,True,0.4243890643
+adamson,Adamson,ours,Ours,2,celleval.200,CellEval@200,False,0.3361111111
+adamson,Adamson,ours,Ours,2,deg_off.200,DEG@200,False,0.3361111111
+adamson,Adamson,ours,Ours,2,crisp.r2score_de,R²,False,0.1448777137
+adamson,Adamson,ours,Ours,3,skd_d16,SKD,False,0.2833333333
+adamson,Adamson,ours,Ours,3,panel200_dh,Panel@200,False,0.6522279724
+adamson,Adamson,ours,Ours,3,crisp.pearson_delta,Pearson Δ,False,0.6937413338
+adamson,Adamson,ours,Ours,3,crisp.spearman_delta,Spearman Δ,False,0.4007747734
+adamson,Adamson,ours,Ours,3,dist.mmd,MMD ↓,True,0.5668185353
+adamson,Adamson,ours,Ours,3,celleval.200,CellEval@200,False,0.3377777778
+adamson,Adamson,ours,Ours,3,deg_off.200,DEG@200,False,0.3377777778
+adamson,Adamson,ours,Ours,3,crisp.r2score_de,R²,False,0.480374989
+adamson,Adamson,ours,Ours,4,skd_d16,SKD,False,0.4666666667
+adamson,Adamson,ours,Ours,4,panel200_dh,Panel@200,False,0.6308226039
+adamson,Adamson,ours,Ours,4,crisp.pearson_delta,Pearson Δ,False,0.5656570118
+adamson,Adamson,ours,Ours,4,crisp.spearman_delta,Spearman Δ,False,0.3893800309
+adamson,Adamson,ours,Ours,4,dist.mmd,MMD ↓,True,0.6117673516
+adamson,Adamson,ours,Ours,4,celleval.200,CellEval@200,False,0.3477777778
+adamson,Adamson,ours,Ours,4,deg_off.200,DEG@200,False,0.3477777778
+adamson,Adamson,ours,Ours,4,crisp.r2score_de,R²,False,0.312606449
+adamson,Adamson,ours,Ours,5,skd_d16,SKD,False,0.65
+adamson,Adamson,ours,Ours,5,panel200_dh,Panel@200,False,0.5608978558
+adamson,Adamson,ours,Ours,5,crisp.pearson_delta,Pearson Δ,False,0.5537922286
+adamson,Adamson,ours,Ours,5,crisp.spearman_delta,Spearman Δ,False,0.3131705348
+adamson,Adamson,ours,Ours,5,dist.mmd,MMD ↓,True,0.5885689855
+adamson,Adamson,ours,Ours,5,celleval.200,CellEval@200,False,0.3644444444
+adamson,Adamson,ours,Ours,5,deg_off.200,DEG@200,False,0.3644444444
+adamson,Adamson,ours,Ours,5,crisp.r2score_de,R²,False,0.3245342936
+adamson,Adamson,ours,Ours,6,skd_d16,SKD,False,0.75
+adamson,Adamson,ours,Ours,6,panel200_dh,Panel@200,False,0.5283735427
+adamson,Adamson,ours,Ours,6,crisp.pearson_delta,Pearson Δ,False,0.531079516
+adamson,Adamson,ours,Ours,6,crisp.spearman_delta,Spearman Δ,False,0.3144848738
+adamson,Adamson,ours,Ours,6,dist.mmd,MMD ↓,True,0.4220424294
+adamson,Adamson,ours,Ours,6,celleval.200,CellEval@200,False,0.3177777778
+adamson,Adamson,ours,Ours,6,deg_off.200,DEG@200,False,0.3177777778
+adamson,Adamson,ours,Ours,6,crisp.r2score_de,R²,False,0.2944609146
+adamson,Adamson,ours,Ours,7,skd_d16,SKD,False,0.4
+adamson,Adamson,ours,Ours,7,panel200_dh,Panel@200,False,0.6511302783
+adamson,Adamson,ours,Ours,7,crisp.pearson_delta,Pearson Δ,False,0.6734368745
+adamson,Adamson,ours,Ours,7,crisp.spearman_delta,Spearman Δ,False,0.4359442221
+adamson,Adamson,ours,Ours,7,dist.mmd,MMD ↓,True,0.5221171975
+adamson,Adamson,ours,Ours,7,celleval.200,CellEval@200,False,0.3666666667
+adamson,Adamson,ours,Ours,7,deg_off.200,DEG@200,False,0.3666666667
+adamson,Adamson,ours,Ours,7,crisp.r2score_de,R²,False,0.3414829745
+adamson,Adamson,ours,Ours,8,skd_d16,SKD,False,-0.5166666667
+adamson,Adamson,ours,Ours,8,panel200_dh,Panel@200,False,0.7105785978
+adamson,Adamson,ours,Ours,8,crisp.pearson_delta,Pearson Δ,False,0.7062430678
+adamson,Adamson,ours,Ours,8,crisp.spearman_delta,Spearman Δ,False,0.429179335
+adamson,Adamson,ours,Ours,8,dist.mmd,MMD ↓,True,0.5401711464
+adamson,Adamson,ours,Ours,8,celleval.200,CellEval@200,False,0.3755555556
+adamson,Adamson,ours,Ours,8,deg_off.200,DEG@200,False,0.3755555556
+adamson,Adamson,ours,Ours,8,crisp.r2score_de,R²,False,0.5369966558
+adamson,Adamson,ours,Ours,9,skd_d16,SKD,False,-0.01666666667
+adamson,Adamson,ours,Ours,9,panel200_dh,Panel@200,False,0.656358409
+adamson,Adamson,ours,Ours,9,crisp.pearson_delta,Pearson Δ,False,0.7075220126
+adamson,Adamson,ours,Ours,9,crisp.spearman_delta,Spearman Δ,False,0.4361182233
+adamson,Adamson,ours,Ours,9,dist.mmd,MMD ↓,True,0.4754551649
+adamson,Adamson,ours,Ours,9,celleval.200,CellEval@200,False,0.3633333333
+adamson,Adamson,ours,Ours,9,deg_off.200,DEG@200,False,0.3633333333
+adamson,Adamson,ours,Ours,9,crisp.r2score_de,R²,False,0.5690604816
+adamson,Adamson,gears,GEARS,0,skd_d16,SKD,False,-0.1
+adamson,Adamson,gears,GEARS,0,panel200_dh,Panel@200,False,0.6017978783
+adamson,Adamson,gears,GEARS,0,crisp.pearson_delta,Pearson Δ,False,0.4277329666
+adamson,Adamson,gears,GEARS,0,crisp.spearman_delta,Spearman Δ,False,0.1953623565
+adamson,Adamson,gears,GEARS,0,dist.mmd,MMD ↓,True,0.7136830091
+adamson,Adamson,gears,GEARS,0,celleval.200,CellEval@200,False,0.3488888889
+adamson,Adamson,gears,GEARS,0,deg_off.200,DEG@200,False,0.3488888889
+adamson,Adamson,gears,GEARS,0,crisp.r2score_de,R²,False,0.2460258972
+adamson,Adamson,gears,GEARS,1,skd_d16,SKD,False,-0.2333333333
+adamson,Adamson,gears,GEARS,1,panel200_dh,Panel@200,False,0.7389648075
+adamson,Adamson,gears,GEARS,1,crisp.pearson_delta,Pearson Δ,False,0.520147987
+adamson,Adamson,gears,GEARS,1,crisp.spearman_delta,Spearman Δ,False,0.22883382
+adamson,Adamson,gears,GEARS,1,dist.mmd,MMD ↓,True,0.8557839394
+adamson,Adamson,gears,GEARS,1,celleval.200,CellEval@200,False,0.3577777778
+adamson,Adamson,gears,GEARS,1,deg_off.200,DEG@200,False,0.3577777778
+adamson,Adamson,gears,GEARS,1,crisp.r2score_de,R²,False,0.4410403666
+adamson,Adamson,gears,GEARS,2,skd_d16,SKD,False,-0.06666666667
+adamson,Adamson,gears,GEARS,2,panel200_dh,Panel@200,False,0.6001041693
+adamson,Adamson,gears,GEARS,2,crisp.pearson_delta,Pearson Δ,False,0.3918317659
+adamson,Adamson,gears,GEARS,2,crisp.spearman_delta,Spearman Δ,False,0.2165159918
+adamson,Adamson,gears,GEARS,2,dist.mmd,MMD ↓,True,0.74326092
+adamson,Adamson,gears,GEARS,2,celleval.200,CellEval@200,False,0.3405555556
+adamson,Adamson,gears,GEARS,2,deg_off.200,DEG@200,False,0.3405555556
+adamson,Adamson,gears,GEARS,2,crisp.r2score_de,R²,False,0.2411323259
+adamson,Adamson,gears,GEARS,3,skd_d16,SKD,False,0.619047619
+adamson,Adamson,gears,GEARS,3,panel200_dh,Panel@200,False,0.5995076127
+adamson,Adamson,gears,GEARS,3,crisp.pearson_delta,Pearson Δ,False,0.4232197309
+adamson,Adamson,gears,GEARS,3,crisp.spearman_delta,Spearman Δ,False,0.227787579
+adamson,Adamson,gears,GEARS,3,dist.mmd,MMD ↓,True,0.8630796075
+adamson,Adamson,gears,GEARS,3,celleval.200,CellEval@200,False,0.328125
+adamson,Adamson,gears,GEARS,3,deg_off.200,DEG@200,False,0.328125
+adamson,Adamson,gears,GEARS,3,crisp.r2score_de,R²,False,0.2840120767
+adamson,Adamson,gears,GEARS,4,skd_d16,SKD,False,0.5333333333
+adamson,Adamson,gears,GEARS,4,panel200_dh,Panel@200,False,0.7196911589
+adamson,Adamson,gears,GEARS,4,crisp.pearson_delta,Pearson Δ,False,0.4866071125
+adamson,Adamson,gears,GEARS,4,crisp.spearman_delta,Spearman Δ,False,0.2512246488
+adamson,Adamson,gears,GEARS,4,dist.mmd,MMD ↓,True,0.7168821096
+adamson,Adamson,gears,GEARS,4,celleval.200,CellEval@200,False,0.3672222222
+adamson,Adamson,gears,GEARS,4,deg_off.200,DEG@200,False,0.3672222222
+adamson,Adamson,gears,GEARS,4,crisp.r2score_de,R²,False,0.3792149271
+adamson,Adamson,gears,GEARS,5,skd_d16,SKD,False,0.6166666667
+adamson,Adamson,gears,GEARS,5,panel200_dh,Panel@200,False,0.5913272832
+adamson,Adamson,gears,GEARS,5,crisp.pearson_delta,Pearson Δ,False,0.4132335378
+adamson,Adamson,gears,GEARS,5,crisp.spearman_delta,Spearman Δ,False,0.1919653991
+adamson,Adamson,gears,GEARS,5,dist.mmd,MMD ↓,True,0.7887765765
+adamson,Adamson,gears,GEARS,5,celleval.200,CellEval@200,False,0.3288888889
+adamson,Adamson,gears,GEARS,5,deg_off.200,DEG@200,False,0.3288888889
+adamson,Adamson,gears,GEARS,5,crisp.r2score_de,R²,False,0.2671063219
+adamson,Adamson,gears,GEARS,6,skd_d16,SKD,False,-0.1166666667
+adamson,Adamson,gears,GEARS,6,panel200_dh,Panel@200,False,0.5652114636
+adamson,Adamson,gears,GEARS,6,crisp.pearson_delta,Pearson Δ,False,0.3965323723
+adamson,Adamson,gears,GEARS,6,crisp.spearman_delta,Spearman Δ,False,0.1631540207
+adamson,Adamson,gears,GEARS,6,dist.mmd,MMD ↓,True,0.677474618
+adamson,Adamson,gears,GEARS,6,celleval.200,CellEval@200,False,0.31
+adamson,Adamson,gears,GEARS,6,deg_off.200,DEG@200,False,0.31
+adamson,Adamson,gears,GEARS,6,crisp.r2score_de,R²,False,0.207434044
+adamson,Adamson,gears,GEARS,7,skd_d16,SKD,False,-0.1428571429
+adamson,Adamson,gears,GEARS,7,panel200_dh,Panel@200,False,0.6748972474
+adamson,Adamson,gears,GEARS,7,crisp.pearson_delta,Pearson Δ,False,0.5086360433
+adamson,Adamson,gears,GEARS,7,crisp.spearman_delta,Spearman Δ,False,0.2337502171
+adamson,Adamson,gears,GEARS,7,dist.mmd,MMD ↓,True,0.7075314522
+adamson,Adamson,gears,GEARS,7,celleval.200,CellEval@200,False,0.344375
+adamson,Adamson,gears,GEARS,7,deg_off.200,DEG@200,False,0.344375
+adamson,Adamson,gears,GEARS,7,crisp.r2score_de,R²,False,0.3662816048
+adamson,Adamson,gears,GEARS,8,skd_d16,SKD,False,-0.119047619
+adamson,Adamson,gears,GEARS,8,panel200_dh,Panel@200,False,0.6489437861
+adamson,Adamson,gears,GEARS,8,crisp.pearson_delta,Pearson Δ,False,0.4710200462
+adamson,Adamson,gears,GEARS,8,crisp.spearman_delta,Spearman Δ,False,0.2520270143
+adamson,Adamson,gears,GEARS,8,dist.mmd,MMD ↓,True,0.850361824
+adamson,Adamson,gears,GEARS,8,celleval.200,CellEval@200,False,0.3325
+adamson,Adamson,gears,GEARS,8,deg_off.200,DEG@200,False,0.3325
+adamson,Adamson,gears,GEARS,8,crisp.r2score_de,R²,False,0.3386347536
+adamson,Adamson,gears,GEARS,9,skd_d16,SKD,False,-0.1428571429
+adamson,Adamson,gears,GEARS,9,panel200_dh,Panel@200,False,0.6876539413
+adamson,Adamson,gears,GEARS,9,crisp.pearson_delta,Pearson Δ,False,0.522892536
+adamson,Adamson,gears,GEARS,9,crisp.spearman_delta,Spearman Δ,False,0.2699604597
+adamson,Adamson,gears,GEARS,9,dist.mmd,MMD ↓,True,1.006922483
+adamson,Adamson,gears,GEARS,9,celleval.200,CellEval@200,False,0.344375
+adamson,Adamson,gears,GEARS,9,deg_off.200,DEG@200,False,0.344375
+adamson,Adamson,gears,GEARS,9,crisp.r2score_de,R²,False,0.4165589598
+adamson,Adamson,biolord,BIOLORD,0,skd_d16,SKD,False,0.8166666667
+adamson,Adamson,biolord,BIOLORD,0,panel200_dh,Panel@200,False,0.241760544
+adamson,Adamson,biolord,BIOLORD,0,crisp.pearson_delta,Pearson Δ,False,0.1224102359
+adamson,Adamson,biolord,BIOLORD,0,crisp.spearman_delta,Spearman Δ,False,0.1195248606
+adamson,Adamson,biolord,BIOLORD,0,dist.mmd,MMD ↓,True,0.868258357
+adamson,Adamson,biolord,BIOLORD,0,celleval.200,CellEval@200,False,0.2788888889
+adamson,Adamson,biolord,BIOLORD,0,deg_off.200,DEG@200,False,0.2788888889
+adamson,Adamson,biolord,BIOLORD,0,crisp.r2score_de,R²,False,0
+adamson,Adamson,biolord,BIOLORD,1,skd_d16,SKD,False,0.6333333333
+adamson,Adamson,biolord,BIOLORD,1,panel200_dh,Panel@200,False,0.2741855213
+adamson,Adamson,biolord,BIOLORD,1,crisp.pearson_delta,Pearson Δ,False,0.1435801091
+adamson,Adamson,biolord,BIOLORD,1,crisp.spearman_delta,Spearman Δ,False,0.1420147132
+adamson,Adamson,biolord,BIOLORD,1,dist.mmd,MMD ↓,True,1.052280426
+adamson,Adamson,biolord,BIOLORD,1,celleval.200,CellEval@200,False,0.2977777778
+adamson,Adamson,biolord,BIOLORD,1,deg_off.200,DEG@200,False,0.2977777778
+adamson,Adamson,biolord,BIOLORD,1,crisp.r2score_de,R²,False,0
+adamson,Adamson,biolord,BIOLORD,2,skd_d16,SKD,False,0.6666666667
+adamson,Adamson,biolord,BIOLORD,2,panel200_dh,Panel@200,False,0.2526563164
+adamson,Adamson,biolord,BIOLORD,2,crisp.pearson_delta,Pearson Δ,False,0.1291931062
+adamson,Adamson,biolord,BIOLORD,2,crisp.spearman_delta,Spearman Δ,False,0.118844652
+adamson,Adamson,biolord,BIOLORD,2,dist.mmd,MMD ↓,True,0.8192858696
+adamson,Adamson,biolord,BIOLORD,2,celleval.200,CellEval@200,False,0.2861111111
+adamson,Adamson,biolord,BIOLORD,2,deg_off.200,DEG@200,False,0.2861111111
+adamson,Adamson,biolord,BIOLORD,2,crisp.r2score_de,R²,False,0
+adamson,Adamson,biolord,BIOLORD,3,skd_d16,SKD,False,0.7833333333
+adamson,Adamson,biolord,BIOLORD,3,panel200_dh,Panel@200,False,0.2909971083
+adamson,Adamson,biolord,BIOLORD,3,crisp.pearson_delta,Pearson Δ,False,0.1558359491
+adamson,Adamson,biolord,BIOLORD,3,crisp.spearman_delta,Spearman Δ,False,0.1379965787
+adamson,Adamson,biolord,BIOLORD,3,dist.mmd,MMD ↓,True,1.080347061
+adamson,Adamson,biolord,BIOLORD,3,celleval.200,CellEval@200,False,0.2961111111
+adamson,Adamson,biolord,BIOLORD,3,deg_off.200,DEG@200,False,0.2961111111
+adamson,Adamson,biolord,BIOLORD,3,crisp.r2score_de,R²,False,0
+adamson,Adamson,biolord,BIOLORD,4,skd_d16,SKD,False,0.6333333333
+adamson,Adamson,biolord,BIOLORD,4,panel200_dh,Panel@200,False,0.2927883197
+adamson,Adamson,biolord,BIOLORD,4,crisp.pearson_delta,Pearson Δ,False,0.1394664664
+adamson,Adamson,biolord,BIOLORD,4,crisp.spearman_delta,Spearman Δ,False,0.1401487102
+adamson,Adamson,biolord,BIOLORD,4,dist.mmd,MMD ↓,True,0.8005992174
+adamson,Adamson,biolord,BIOLORD,4,celleval.200,CellEval@200,False,0.2977777778
+adamson,Adamson,biolord,BIOLORD,4,deg_off.200,DEG@200,False,0.2977777778
+adamson,Adamson,biolord,BIOLORD,4,crisp.r2score_de,R²,False,0
+adamson,Adamson,biolord,BIOLORD,5,skd_d16,SKD,False,0.4666666667
+adamson,Adamson,biolord,BIOLORD,5,panel200_dh,Panel@200,False,0.2289670575
+adamson,Adamson,biolord,BIOLORD,5,crisp.pearson_delta,Pearson Δ,False,0.1346622778
+adamson,Adamson,biolord,BIOLORD,5,crisp.spearman_delta,Spearman Δ,False,0.1152531757
+adamson,Adamson,biolord,BIOLORD,5,dist.mmd,MMD ↓,True,0.9285422564
+adamson,Adamson,biolord,BIOLORD,5,celleval.200,CellEval@200,False,0.2888888889
+adamson,Adamson,biolord,BIOLORD,5,deg_off.200,DEG@200,False,0.2888888889
+adamson,Adamson,biolord,BIOLORD,5,crisp.r2score_de,R²,False,0
+adamson,Adamson,biolord,BIOLORD,6,skd_d16,SKD,False,0.3
+adamson,Adamson,biolord,BIOLORD,6,panel200_dh,Panel@200,False,0.2477298599
+adamson,Adamson,biolord,BIOLORD,6,crisp.pearson_delta,Pearson Δ,False,0.132053535
+adamson,Adamson,biolord,BIOLORD,6,crisp.spearman_delta,Spearman Δ,False,0.1199356777
+adamson,Adamson,biolord,BIOLORD,6,dist.mmd,MMD ↓,True,0.8754658103
+adamson,Adamson,biolord,BIOLORD,6,celleval.200,CellEval@200,False,0.2627777778
+adamson,Adamson,biolord,BIOLORD,6,deg_off.200,DEG@200,False,0.2627777778
+adamson,Adamson,biolord,BIOLORD,6,crisp.r2score_de,R²,False,0
+adamson,Adamson,biolord,BIOLORD,7,skd_d16,SKD,False,0.3
+adamson,Adamson,biolord,BIOLORD,7,panel200_dh,Panel@200,False,0.2583757927
+adamson,Adamson,biolord,BIOLORD,7,crisp.pearson_delta,Pearson Δ,False,0.1327790546
+adamson,Adamson,biolord,BIOLORD,7,crisp.spearman_delta,Spearman Δ,False,0.1485890153
+adamson,Adamson,biolord,BIOLORD,7,dist.mmd,MMD ↓,True,1.028954148
+adamson,Adamson,biolord,BIOLORD,7,celleval.200,CellEval@200,False,0.2977777778
+adamson,Adamson,biolord,BIOLORD,7,deg_off.200,DEG@200,False,0.2977777778
+adamson,Adamson,biolord,BIOLORD,7,crisp.r2score_de,R²,False,0
+adamson,Adamson,biolord,BIOLORD,8,skd_d16,SKD,False,0.4333333333
+adamson,Adamson,biolord,BIOLORD,8,panel200_dh,Panel@200,False,0.2601386701
+adamson,Adamson,biolord,BIOLORD,8,crisp.pearson_delta,Pearson Δ,False,0.1512511765
+adamson,Adamson,biolord,BIOLORD,8,crisp.spearman_delta,Spearman Δ,False,0.1412017674
+adamson,Adamson,biolord,BIOLORD,8,dist.mmd,MMD ↓,True,0.9834375381
+adamson,Adamson,biolord,BIOLORD,8,celleval.200,CellEval@200,False,0.2966666667
+adamson,Adamson,biolord,BIOLORD,8,deg_off.200,DEG@200,False,0.2966666667
+adamson,Adamson,biolord,BIOLORD,8,crisp.r2score_de,R²,False,0
+adamson,Adamson,biolord,BIOLORD,9,skd_d16,SKD,False,0.65
+adamson,Adamson,biolord,BIOLORD,9,panel200_dh,Panel@200,False,0.2814457028
+adamson,Adamson,biolord,BIOLORD,9,crisp.pearson_delta,Pearson Δ,False,0.1473187733
+adamson,Adamson,biolord,BIOLORD,9,crisp.spearman_delta,Spearman Δ,False,0.1422998908
+adamson,Adamson,biolord,BIOLORD,9,dist.mmd,MMD ↓,True,1.19208467
+adamson,Adamson,biolord,BIOLORD,9,celleval.200,CellEval@200,False,0.2972222222
+adamson,Adamson,biolord,BIOLORD,9,deg_off.200,DEG@200,False,0.2972222222
+adamson,Adamson,biolord,BIOLORD,9,crisp.r2score_de,R²,False,0
+adamson,Adamson,state,STATE,0,skd_d16,SKD,False,0.55
+adamson,Adamson,state,STATE,0,panel200_dh,Panel@200,False,0.5218098786
+adamson,Adamson,state,STATE,0,crisp.pearson_delta,Pearson Δ,False,0.4307271978
+adamson,Adamson,state,STATE,0,crisp.spearman_delta,Spearman Δ,False,0.2654322917
+adamson,Adamson,state,STATE,0,dist.mmd,MMD ↓,True,1.005861044
+adamson,Adamson,state,STATE,0,celleval.200,CellEval@200,False,0.2977777778
+adamson,Adamson,state,STATE,0,deg_off.200,DEG@200,False,0.2977777778
+adamson,Adamson,state,STATE,0,crisp.r2score_de,R²,False,0.1961429782
+adamson,Adamson,state,STATE,1,skd_d16,SKD,False,-0.2333333333
+adamson,Adamson,state,STATE,1,panel200_dh,Panel@200,False,0.6383834596
+adamson,Adamson,state,STATE,1,crisp.pearson_delta,Pearson Δ,False,0.5501858192
+adamson,Adamson,state,STATE,1,crisp.spearman_delta,Spearman Δ,False,0.3171908411
+adamson,Adamson,state,STATE,1,dist.mmd,MMD ↓,True,1.070110679
+adamson,Adamson,state,STATE,1,celleval.200,CellEval@200,False,0.3177777778
+adamson,Adamson,state,STATE,1,deg_off.200,DEG@200,False,0.3177777778
+adamson,Adamson,state,STATE,1,crisp.r2score_de,R²,False,0.2984824778
+adamson,Adamson,state,STATE,2,skd_d16,SKD,False,0.1166666667
+adamson,Adamson,state,STATE,2,panel200_dh,Panel@200,False,0.5396158237
+adamson,Adamson,state,STATE,2,crisp.pearson_delta,Pearson Δ,False,0.4240146969
+adamson,Adamson,state,STATE,2,crisp.spearman_delta,Spearman Δ,False,0.2849446298
+adamson,Adamson,state,STATE,2,dist.mmd,MMD ↓,True,0.9348211288
+adamson,Adamson,state,STATE,2,celleval.200,CellEval@200,False,0.3311111111
+adamson,Adamson,state,STATE,2,deg_off.200,DEG@200,False,0.3311111111
+adamson,Adamson,state,STATE,2,crisp.r2score_de,R²,False,0.1879672549
+adamson,Adamson,state,STATE,3,skd_d16,SKD,False,0.1833333333
+adamson,Adamson,state,STATE,3,panel200_dh,Panel@200,False,0.6226727335
+adamson,Adamson,state,STATE,3,crisp.pearson_delta,Pearson Δ,False,0.5216367121
+adamson,Adamson,state,STATE,3,crisp.spearman_delta,Spearman Δ,False,0.288344501
+adamson,Adamson,state,STATE,3,dist.mmd,MMD ↓,True,1.19163394
+adamson,Adamson,state,STATE,3,celleval.200,CellEval@200,False,0.2988888889
+adamson,Adamson,state,STATE,3,deg_off.200,DEG@200,False,0.2988888889
+adamson,Adamson,state,STATE,3,crisp.r2score_de,R²,False,0.2016840063
+adamson,Adamson,state,STATE,4,skd_d16,SKD,False,0.7166666667
+adamson,Adamson,state,STATE,4,panel200_dh,Panel@200,False,0.6366430827
+adamson,Adamson,state,STATE,4,crisp.pearson_delta,Pearson Δ,False,0.4727899916
+adamson,Adamson,state,STATE,4,crisp.spearman_delta,Spearman Δ,False,0.2854684231
+adamson,Adamson,state,STATE,4,dist.mmd,MMD ↓,True,0.9467190504
+adamson,Adamson,state,STATE,4,celleval.200,CellEval@200,False,0.3266666667
+adamson,Adamson,state,STATE,4,deg_off.200,DEG@200,False,0.3266666667
+adamson,Adamson,state,STATE,4,crisp.r2score_de,R²,False,0.2340681805
+adamson,Adamson,state,STATE,5,skd_d16,SKD,False,0.2333333333
+adamson,Adamson,state,STATE,5,panel200_dh,Panel@200,False,0.4994534863
+adamson,Adamson,state,STATE,5,crisp.pearson_delta,Pearson Δ,False,0.3844433064
+adamson,Adamson,state,STATE,5,crisp.spearman_delta,Spearman Δ,False,0.2160686603
+adamson,Adamson,state,STATE,5,dist.mmd,MMD ↓,True,1.022423267
+adamson,Adamson,state,STATE,5,celleval.200,CellEval@200,False,0.2822222222
+adamson,Adamson,state,STATE,5,deg_off.200,DEG@200,False,0.2822222222
+adamson,Adamson,state,STATE,5,crisp.r2score_de,R²,False,0.1569313729
+adamson,Adamson,state,STATE,6,skd_d16,SKD,False,0.5
+adamson,Adamson,state,STATE,6,panel200_dh,Panel@200,False,0.4981631207
+adamson,Adamson,state,STATE,6,crisp.pearson_delta,Pearson Δ,False,0.400779434
+adamson,Adamson,state,STATE,6,crisp.spearman_delta,Spearman Δ,False,0.2493551794
+adamson,Adamson,state,STATE,6,dist.mmd,MMD ↓,True,0.8976706266
+adamson,Adamson,state,STATE,6,celleval.200,CellEval@200,False,0.27
+adamson,Adamson,state,STATE,6,deg_off.200,DEG@200,False,0.27
+adamson,Adamson,state,STATE,6,crisp.r2score_de,R²,False,0.1743190865
+adamson,Adamson,state,STATE,7,skd_d16,SKD,False,-0.1166666667
+adamson,Adamson,state,STATE,7,panel200_dh,Panel@200,False,0.5904737618
+adamson,Adamson,state,STATE,7,crisp.pearson_delta,Pearson Δ,False,0.5082902496
+adamson,Adamson,state,STATE,7,crisp.spearman_delta,Spearman Δ,False,0.3140535012
+adamson,Adamson,state,STATE,7,dist.mmd,MMD ↓,True,1.045976639
+adamson,Adamson,state,STATE,7,celleval.200,CellEval@200,False,0.3205555556
+adamson,Adamson,state,STATE,7,deg_off.200,DEG@200,False,0.3205555556
+adamson,Adamson,state,STATE,7,crisp.r2score_de,R²,False,0.1946921386
+adamson,Adamson,state,STATE,8,skd_d16,SKD,False,-0.2333333333
+adamson,Adamson,state,STATE,8,panel200_dh,Panel@200,False,0.6300905856
+adamson,Adamson,state,STATE,8,crisp.pearson_delta,Pearson Δ,False,0.5255607685
+adamson,Adamson,state,STATE,8,crisp.spearman_delta,Spearman Δ,False,0.3085304881
+adamson,Adamson,state,STATE,8,dist.mmd,MMD ↓,True,1.058761954
+adamson,Adamson,state,STATE,8,celleval.200,CellEval@200,False,0.3366666667
+adamson,Adamson,state,STATE,8,deg_off.200,DEG@200,False,0.3366666667
+adamson,Adamson,state,STATE,8,crisp.r2score_de,R²,False,0.258311085
+adamson,Adamson,state,STATE,9,skd_d16,SKD,False,0.25
+adamson,Adamson,state,STATE,9,panel200_dh,Panel@200,False,0.6419702159
+adamson,Adamson,state,STATE,9,crisp.pearson_delta,Pearson Δ,False,0.5793474548
+adamson,Adamson,state,STATE,9,crisp.spearman_delta,Spearman Δ,False,0.3243125932
+adamson,Adamson,state,STATE,9,dist.mmd,MMD ↓,True,1.164734364
+adamson,Adamson,state,STATE,9,celleval.200,CellEval@200,False,0.3561111111
+adamson,Adamson,state,STATE,9,deg_off.200,DEG@200,False,0.3561111111
+adamson,Adamson,state,STATE,9,crisp.r2score_de,R²,False,0.3302572253
+adamson,Adamson,train_mean,Mean,0,skd_d16,SKD,False,-0.5
+adamson,Adamson,train_mean,Mean,0,panel200_dh,Panel@200,False,0.6562620732
+adamson,Adamson,train_mean,Mean,0,crisp.pearson_delta,Pearson Δ,False,0.5012051869
+adamson,Adamson,train_mean,Mean,0,crisp.spearman_delta,Spearman Δ,False,0.2340764328
+adamson,Adamson,train_mean,Mean,0,dist.mmd,MMD ↓,True,0.6849418283
+adamson,Adamson,train_mean,Mean,0,celleval.200,CellEval@200,False,0.3777777778
+adamson,Adamson,train_mean,Mean,0,deg_off.200,DEG@200,False,0.3777777778
+adamson,Adamson,train_mean,Mean,0,crisp.r2score_de,R²,False,0.3190614497
+adamson,Adamson,train_mean,Mean,1,skd_d16,SKD,False,-0.25
+adamson,Adamson,train_mean,Mean,1,panel200_dh,Panel@200,False,0.7952133803
+adamson,Adamson,train_mean,Mean,1,crisp.pearson_delta,Pearson Δ,False,0.6274513582
+adamson,Adamson,train_mean,Mean,1,crisp.spearman_delta,Spearman Δ,False,0.2715250005
+adamson,Adamson,train_mean,Mean,1,dist.mmd,MMD ↓,True,0.6777936816
+adamson,Adamson,train_mean,Mean,1,celleval.200,CellEval@200,False,0.4
+adamson,Adamson,train_mean,Mean,1,deg_off.200,DEG@200,False,0.4
+adamson,Adamson,train_mean,Mean,1,crisp.r2score_de,R²,False,0.5257874552
+adamson,Adamson,train_mean,Mean,2,skd_d16,SKD,False,-0.1833333333
+adamson,Adamson,train_mean,Mean,2,panel200_dh,Panel@200,False,0.6332439978
+adamson,Adamson,train_mean,Mean,2,crisp.pearson_delta,Pearson Δ,False,0.4633501343
+adamson,Adamson,train_mean,Mean,2,crisp.spearman_delta,Spearman Δ,False,0.221864252
+adamson,Adamson,train_mean,Mean,2,dist.mmd,MMD ↓,True,0.6611970067
+adamson,Adamson,train_mean,Mean,2,celleval.200,CellEval@200,False,0.3822222222
+adamson,Adamson,train_mean,Mean,2,deg_off.200,DEG@200,False,0.3822222222
+adamson,Adamson,train_mean,Mean,2,crisp.r2score_de,R²,False,0.2590699741
+adamson,Adamson,train_mean,Mean,3,skd_d16,SKD,False,-0.1166666667
+adamson,Adamson,train_mean,Mean,3,panel200_dh,Panel@200,False,0.7820372176
+adamson,Adamson,train_mean,Mean,3,crisp.pearson_delta,Pearson Δ,False,0.6098417907
+adamson,Adamson,train_mean,Mean,3,crisp.spearman_delta,Spearman Δ,False,0.2680666676
+adamson,Adamson,train_mean,Mean,3,dist.mmd,MMD ↓,True,0.7468127608
+adamson,Adamson,train_mean,Mean,3,celleval.200,CellEval@200,False,0.3788888889
+adamson,Adamson,train_mean,Mean,3,deg_off.200,DEG@200,False,0.3788888889
+adamson,Adamson,train_mean,Mean,3,crisp.r2score_de,R²,False,0.480938705
+adamson,Adamson,train_mean,Mean,4,skd_d16,SKD,False,0.65
+adamson,Adamson,train_mean,Mean,4,panel200_dh,Panel@200,False,0.7571005942
+adamson,Adamson,train_mean,Mean,4,crisp.pearson_delta,Pearson Δ,False,0.5570067244
+adamson,Adamson,train_mean,Mean,4,crisp.spearman_delta,Spearman Δ,False,0.2607580629
+adamson,Adamson,train_mean,Mean,4,dist.mmd,MMD ↓,True,0.6754861474
+adamson,Adamson,train_mean,Mean,4,celleval.200,CellEval@200,False,0.4038888889
+adamson,Adamson,train_mean,Mean,4,deg_off.200,DEG@200,False,0.4038888889
+adamson,Adamson,train_mean,Mean,4,crisp.r2score_de,R²,False,0.3985714013
+adamson,Adamson,train_mean,Mean,5,skd_d16,SKD,False,-0.25
+adamson,Adamson,train_mean,Mean,5,panel200_dh,Panel@200,False,0.6443291082
+adamson,Adamson,train_mean,Mean,5,crisp.pearson_delta,Pearson Δ,False,0.4717624092
+adamson,Adamson,train_mean,Mean,5,crisp.spearman_delta,Spearman Δ,False,0.2181944381
+adamson,Adamson,train_mean,Mean,5,dist.mmd,MMD ↓,True,0.7143535018
+adamson,Adamson,train_mean,Mean,5,celleval.200,CellEval@200,False,0.3777777778
+adamson,Adamson,train_mean,Mean,5,deg_off.200,DEG@200,False,0.3777777778
+adamson,Adamson,train_mean,Mean,5,crisp.r2score_de,R²,False,0.2999124512
+adamson,Adamson,train_mean,Mean,6,skd_d16,SKD,False,0.2
+adamson,Adamson,train_mean,Mean,6,panel200_dh,Panel@200,False,0.6278615299
+adamson,Adamson,train_mean,Mean,6,crisp.pearson_delta,Pearson Δ,False,0.4666393579
+adamson,Adamson,train_mean,Mean,6,crisp.spearman_delta,Spearman Δ,False,0.2201570281
+adamson,Adamson,train_mean,Mean,6,dist.mmd,MMD ↓,True,0.6841606498
+adamson,Adamson,train_mean,Mean,6,celleval.200,CellEval@200,False,0.3288888889
+adamson,Adamson,train_mean,Mean,6,deg_off.200,DEG@200,False,0.3288888889
+adamson,Adamson,train_mean,Mean,6,crisp.r2score_de,R²,False,0.2736045243
+adamson,Adamson,train_mean,Mean,7,skd_d16,SKD,False,-0.1333333333
+adamson,Adamson,train_mean,Mean,7,panel200_dh,Panel@200,False,0.7073773511
+adamson,Adamson,train_mean,Mean,7,crisp.pearson_delta,Pearson Δ,False,0.5886381219
+adamson,Adamson,train_mean,Mean,7,crisp.spearman_delta,Spearman Δ,False,0.2707186787
+adamson,Adamson,train_mean,Mean,7,dist.mmd,MMD ↓,True,0.6745820642
+adamson,Adamson,train_mean,Mean,7,celleval.200,CellEval@200,False,0.3877777778
+adamson,Adamson,train_mean,Mean,7,deg_off.200,DEG@200,False,0.3877777778
+adamson,Adamson,train_mean,Mean,7,crisp.r2score_de,R²,False,0.3916621937
+adamson,Adamson,train_mean,Mean,8,skd_d16,SKD,False,-0.5333333333
+adamson,Adamson,train_mean,Mean,8,panel200_dh,Panel@200,False,0.7574597698
+adamson,Adamson,train_mean,Mean,8,crisp.pearson_delta,Pearson Δ,False,0.5910114658
+adamson,Adamson,train_mean,Mean,8,crisp.spearman_delta,Spearman Δ,False,0.2669436322
+adamson,Adamson,train_mean,Mean,8,dist.mmd,MMD ↓,True,0.7376015186
+adamson,Adamson,train_mean,Mean,8,celleval.200,CellEval@200,False,0.4038888889
+adamson,Adamson,train_mean,Mean,8,deg_off.200,DEG@200,False,0.4038888889
+adamson,Adamson,train_mean,Mean,8,crisp.r2score_de,R²,False,0.4333208568
+adamson,Adamson,train_mean,Mean,9,skd_d16,SKD,False,-0.01666666667
+adamson,Adamson,train_mean,Mean,9,panel200_dh,Panel@200,False,0.7843161079
+adamson,Adamson,train_mean,Mean,9,crisp.pearson_delta,Pearson Δ,False,0.6334097505
+adamson,Adamson,train_mean,Mean,9,crisp.spearman_delta,Spearman Δ,False,0.2658506773
+adamson,Adamson,train_mean,Mean,9,dist.mmd,MMD ↓,True,0.8524748087
+adamson,Adamson,train_mean,Mean,9,celleval.200,CellEval@200,False,0.4166666667
+adamson,Adamson,train_mean,Mean,9,deg_off.200,DEG@200,False,0.4166666667
+adamson,Adamson,train_mean,Mean,9,crisp.r2score_de,R²,False,0.568370807
+adamson,Adamson,ridge_esm,Ridge,0,skd_d16,SKD,False,-0.1666666667
+adamson,Adamson,ridge_esm,Ridge,0,panel200_dh,Panel@200,False,0.6700019167
+adamson,Adamson,ridge_esm,Ridge,0,crisp.pearson_delta,Pearson Δ,False,0.5273040992
+adamson,Adamson,ridge_esm,Ridge,0,crisp.spearman_delta,Spearman Δ,False,0.2913592011
+adamson,Adamson,ridge_esm,Ridge,0,dist.mmd,MMD ↓,True,0.293082267
+adamson,Adamson,ridge_esm,Ridge,0,celleval.200,CellEval@200,False,0.3566666667
+adamson,Adamson,ridge_esm,Ridge,0,deg_off.200,DEG@200,False,0.3566666667
+adamson,Adamson,ridge_esm,Ridge,0,crisp.r2score_de,R²,False,0.3734545403
+adamson,Adamson,ridge_esm,Ridge,1,skd_d16,SKD,False,-0.35
+adamson,Adamson,ridge_esm,Ridge,1,panel200_dh,Panel@200,False,0.7516321241
+adamson,Adamson,ridge_esm,Ridge,1,crisp.pearson_delta,Pearson Δ,False,0.5699146839
+adamson,Adamson,ridge_esm,Ridge,1,crisp.spearman_delta,Spearman Δ,False,0.3018246126
+adamson,Adamson,ridge_esm,Ridge,1,dist.mmd,MMD ↓,True,0.3434681892
+adamson,Adamson,ridge_esm,Ridge,1,celleval.200,CellEval@200,False,0.3761111111
+adamson,Adamson,ridge_esm,Ridge,1,deg_off.200,DEG@200,False,0.3761111111
+adamson,Adamson,ridge_esm,Ridge,1,crisp.r2score_de,R²,False,0.4197881732
+adamson,Adamson,ridge_esm,Ridge,2,skd_d16,SKD,False,-0.2666666667
+adamson,Adamson,ridge_esm,Ridge,2,panel200_dh,Panel@200,False,0.5553197163
+adamson,Adamson,ridge_esm,Ridge,2,crisp.pearson_delta,Pearson Δ,False,0.3351060724
+adamson,Adamson,ridge_esm,Ridge,2,crisp.spearman_delta,Spearman Δ,False,0.2001019737
+adamson,Adamson,ridge_esm,Ridge,2,dist.mmd,MMD ↓,True,0.2589682937
+adamson,Adamson,ridge_esm,Ridge,2,celleval.200,CellEval@200,False,0.36
+adamson,Adamson,ridge_esm,Ridge,2,deg_off.200,DEG@200,False,0.36
+adamson,Adamson,ridge_esm,Ridge,2,crisp.r2score_de,R²,False,0
+adamson,Adamson,ridge_esm,Ridge,3,skd_d16,SKD,False,0.35
+adamson,Adamson,ridge_esm,Ridge,3,panel200_dh,Panel@200,False,0.7202690067
+adamson,Adamson,ridge_esm,Ridge,3,crisp.pearson_delta,Pearson Δ,False,0.5615827339
+adamson,Adamson,ridge_esm,Ridge,3,crisp.spearman_delta,Spearman Δ,False,0.2816931215
+adamson,Adamson,ridge_esm,Ridge,3,dist.mmd,MMD ↓,True,0.5126202106
+adamson,Adamson,ridge_esm,Ridge,3,celleval.200,CellEval@200,False,0.3483333333
+adamson,Adamson,ridge_esm,Ridge,3,deg_off.200,DEG@200,False,0.3483333333
+adamson,Adamson,ridge_esm,Ridge,3,crisp.r2score_de,R²,False,0.4425745982
+adamson,Adamson,ridge_esm,Ridge,4,skd_d16,SKD,False,0.4
+adamson,Adamson,ridge_esm,Ridge,4,panel200_dh,Panel@200,False,0.6922696401
+adamson,Adamson,ridge_esm,Ridge,4,crisp.pearson_delta,Pearson Δ,False,0.5400518778
+adamson,Adamson,ridge_esm,Ridge,4,crisp.spearman_delta,Spearman Δ,False,0.2947030247
+adamson,Adamson,ridge_esm,Ridge,4,dist.mmd,MMD ↓,True,0.3641621768
+adamson,Adamson,ridge_esm,Ridge,4,celleval.200,CellEval@200,False,0.3855555556
+adamson,Adamson,ridge_esm,Ridge,4,deg_off.200,DEG@200,False,0.3855555556
+adamson,Adamson,ridge_esm,Ridge,4,crisp.r2score_de,R²,False,0.3866912506
+adamson,Adamson,ridge_esm,Ridge,5,skd_d16,SKD,False,0.8166666667
+adamson,Adamson,ridge_esm,Ridge,5,panel200_dh,Panel@200,False,0.5595691559
+adamson,Adamson,ridge_esm,Ridge,5,crisp.pearson_delta,Pearson Δ,False,0.382391833
+adamson,Adamson,ridge_esm,Ridge,5,crisp.spearman_delta,Spearman Δ,False,0.2163065235
+adamson,Adamson,ridge_esm,Ridge,5,dist.mmd,MMD ↓,True,0.3079635501
+adamson,Adamson,ridge_esm,Ridge,5,celleval.200,CellEval@200,False,0.3494444444
+adamson,Adamson,ridge_esm,Ridge,5,deg_off.200,DEG@200,False,0.3494444444
+adamson,Adamson,ridge_esm,Ridge,5,crisp.r2score_de,R²,False,0.1199393821
+adamson,Adamson,ridge_esm,Ridge,6,skd_d16,SKD,False,-0.03333333333
+adamson,Adamson,ridge_esm,Ridge,6,panel200_dh,Panel@200,False,0.5118554631
+adamson,Adamson,ridge_esm,Ridge,6,crisp.pearson_delta,Pearson Δ,False,0.3762706364
+adamson,Adamson,ridge_esm,Ridge,6,crisp.spearman_delta,Spearman Δ,False,0.1984794417
+adamson,Adamson,ridge_esm,Ridge,6,dist.mmd,MMD ↓,True,0.2025217414
+adamson,Adamson,ridge_esm,Ridge,6,celleval.200,CellEval@200,False,0.2916666667
+adamson,Adamson,ridge_esm,Ridge,6,deg_off.200,DEG@200,False,0.2916666667
+adamson,Adamson,ridge_esm,Ridge,6,crisp.r2score_de,R²,False,0
+adamson,Adamson,ridge_esm,Ridge,7,skd_d16,SKD,False,-0.2
+adamson,Adamson,ridge_esm,Ridge,7,panel200_dh,Panel@200,False,0.6847184513
+adamson,Adamson,ridge_esm,Ridge,7,crisp.pearson_delta,Pearson Δ,False,0.5588165853
+adamson,Adamson,ridge_esm,Ridge,7,crisp.spearman_delta,Spearman Δ,False,0.3070429083
+adamson,Adamson,ridge_esm,Ridge,7,dist.mmd,MMD ↓,True,0.307187289
+adamson,Adamson,ridge_esm,Ridge,7,celleval.200,CellEval@200,False,0.3683333333
+adamson,Adamson,ridge_esm,Ridge,7,deg_off.200,DEG@200,False,0.3683333333
+adamson,Adamson,ridge_esm,Ridge,7,crisp.r2score_de,R²,False,0.2870799367
+adamson,Adamson,ridge_esm,Ridge,8,skd_d16,SKD,False,-0.2833333333
+adamson,Adamson,ridge_esm,Ridge,8,panel200_dh,Panel@200,False,0.6805258465
+adamson,Adamson,ridge_esm,Ridge,8,crisp.pearson_delta,Pearson Δ,False,0.5370431917
+adamson,Adamson,ridge_esm,Ridge,8,crisp.spearman_delta,Spearman Δ,False,0.277149308
+adamson,Adamson,ridge_esm,Ridge,8,dist.mmd,MMD ↓,True,0.3748010993
+adamson,Adamson,ridge_esm,Ridge,8,celleval.200,CellEval@200,False,0.3772222222
+adamson,Adamson,ridge_esm,Ridge,8,deg_off.200,DEG@200,False,0.3772222222
+adamson,Adamson,ridge_esm,Ridge,8,crisp.r2score_de,R²,False,0.3640244391
+adamson,Adamson,ridge_esm,Ridge,9,skd_d16,SKD,False,0.4666666667
+adamson,Adamson,ridge_esm,Ridge,9,panel200_dh,Panel@200,False,0.6853679675
+adamson,Adamson,ridge_esm,Ridge,9,crisp.pearson_delta,Pearson Δ,False,0.5154421116
+adamson,Adamson,ridge_esm,Ridge,9,crisp.spearman_delta,Spearman Δ,False,0.2736636357
+adamson,Adamson,ridge_esm,Ridge,9,dist.mmd,MMD ↓,True,0.5285070539
+adamson,Adamson,ridge_esm,Ridge,9,celleval.200,CellEval@200,False,0.3588888889
+adamson,Adamson,ridge_esm,Ridge,9,deg_off.200,DEG@200,False,0.3588888889
+adamson,Adamson,ridge_esm,Ridge,9,crisp.r2score_de,R²,False,0.4338811901

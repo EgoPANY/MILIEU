@@ -1,0 +1,505 @@
+readout_mode,display_norm,dataset_key,ko,n_ko_spots,method_key,method_label,metric_key,metric_label,value
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),29.62010782
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),82.05928573
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,min_on_ko_spots,Min on KO spots,19.29999924
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,max_on_ko_spots,Max on KO spots,181.0200043
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.604921051
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),56.44297043
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,51.27914047
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,62.19878387
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),-67.7820282
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,-67.7820282
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,-67.7820282
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0.8350349665
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,0.8350349665
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,0.8350349665
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),61.02459335
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,min_on_ko_spots,Min on KO spots,61.02459335
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,max_on_ko_spots,Max on KO spots,61.02459335
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),61.03039932
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,61.03039932
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,61.03039932
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.000000001
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-9.895302355e-10
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,min_on_ko_spots,Min on KO spots,-2.118806839
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,max_on_ko_spots,Max on KO spots,3.340997934
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.000000002
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-1.072684037e-09
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,-3.217497826
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,3.586353064
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.4670939445
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,legacy_cel_on_obs_top50,Celcomen mean on Obs top-50 genes (PRED_BY_GENE),0
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,legacy_concert_score,CONCERT legacy module score (Obs top-50 mean of multiseed vec),0.8350349665
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,cel_display_value,Legacy plotted Cel constant (after display boost),-67.78202875
+legacy_aggregate,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,cel_display_amp,Legacy Cel display boost multiplier,3389.102145
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.4670939445
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,legacy_cel_on_obs_top50,Celcomen mean on Obs top-50 genes (PRED_BY_GENE),0
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,legacy_concert_score,CONCERT legacy module score (Obs top-50 mean of multiseed vec),0.8350349665
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,cel_display_value,Legacy plotted Cel constant (after display boost),-67.78202875
+legacy_aggregate,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,cel_display_amp,Legacy Cel display boost multiplier,3389.102145
+legacy_aggregate,raw,d4_spot,Jak2,21,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),31.47679324
+legacy_aggregate,raw,d4_spot,Jak2,21,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),116.0390472
+legacy_aggregate,raw,d4_spot,Jak2,21,obs,Observed Δ,min_on_ko_spots,Min on KO spots,49.68000031
+legacy_aggregate,raw,d4_spot,Jak2,21,obs,Observed Δ,max_on_ko_spots,Max on KO spots,180.9199982
+legacy_aggregate,raw,d4_spot,Jak2,21,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,raw,d4_spot,Jak2,21,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.282961198
+legacy_aggregate,raw,d4_spot,Jak2,21,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),53.35089493
+legacy_aggregate,raw,d4_spot,Jak2,21,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,49.82886124
+legacy_aggregate,raw,d4_spot,Jak2,21,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,55.03291321
+legacy_aggregate,raw,d4_spot,Jak2,21,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),-67.7820282
+legacy_aggregate,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,-67.7820282
+legacy_aggregate,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,-67.7820282
+legacy_aggregate,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,raw,d4_spot,Jak2,21,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Jak2,21,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0.1309944689
+legacy_aggregate,raw,d4_spot,Jak2,21,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,0.1309944689
+legacy_aggregate,raw,d4_spot,Jak2,21,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,0.1309944689
+legacy_aggregate,raw,d4_spot,Jak2,21,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,raw,d4_spot,Jak2,21,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Jak2,21,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),36.04135895
+legacy_aggregate,raw,d4_spot,Jak2,21,mean,Mean Δ,min_on_ko_spots,Min on KO spots,36.04135895
+legacy_aggregate,raw,d4_spot,Jak2,21,mean,Mean Δ,max_on_ko_spots,Max on KO spots,36.04135895
+legacy_aggregate,raw,d4_spot,Jak2,21,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),138.6896057
+legacy_aggregate,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,138.6896057
+legacy_aggregate,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,138.6896057
+legacy_aggregate,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.000000014
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-3.331695639e-09
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,min_on_ko_spots,Min on KO spots,-2.108189583
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,max_on_ko_spots,Max on KO spots,2.061231375
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0.9999999993
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),4.878356343e-09
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,-2.745237827
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,1.311043739
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+legacy_aggregate,raw,d4_spot,Jak2,21,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.7089685202
+legacy_aggregate,raw,d4_spot,Jak2,21,_row_summary,_row_summary,legacy_cel_on_obs_top50,Celcomen mean on Obs top-50 genes (PRED_BY_GENE),0
+legacy_aggregate,raw,d4_spot,Jak2,21,_row_summary,_row_summary,legacy_concert_score,CONCERT legacy module score (Obs top-50 mean of multiseed vec),0.1309944689
+legacy_aggregate,raw,d4_spot,Jak2,21,_row_summary,_row_summary,cel_display_value,Legacy plotted Cel constant (after display boost),-67.78202875
+legacy_aggregate,raw,d4_spot,Jak2,21,_row_summary,_row_summary,cel_display_amp,Legacy Cel display boost multiplier,3389.101513
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.7089685202
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,legacy_cel_on_obs_top50,Celcomen mean on Obs top-50 genes (PRED_BY_GENE),0
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,legacy_concert_score,CONCERT legacy module score (Obs top-50 mean of multiseed vec),0.1309944689
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,cel_display_value,Legacy plotted Cel constant (after display boost),-67.78202875
+legacy_aggregate,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,cel_display_amp,Legacy Cel display boost multiplier,3389.101513
+legacy_aggregate,raw,d4_spot,Ifngr2,105,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),31.2775391
+legacy_aggregate,raw,d4_spot,Ifngr2,105,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),81.53961857
+legacy_aggregate,raw,d4_spot,Ifngr2,105,obs,Observed Δ,min_on_ko_spots,Min on KO spots,23.34000015
+legacy_aggregate,raw,d4_spot,Ifngr2,105,obs,Observed Δ,max_on_ko_spots,Max on KO spots,172.9199982
+legacy_aggregate,raw,d4_spot,Ifngr2,105,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.493244409
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),56.42235057
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,52.50387573
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,59.39348221
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),-67.7820282
+legacy_aggregate,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,-67.7820282
+legacy_aggregate,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,-67.7820282
+legacy_aggregate,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0.8541679382
+legacy_aggregate,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,0.8541679382
+legacy_aggregate,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,0.8541679382
+legacy_aggregate,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,raw,d4_spot,Ifngr2,105,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Ifngr2,105,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),92.57375336
+legacy_aggregate,raw,d4_spot,Ifngr2,105,mean,Mean Δ,min_on_ko_spots,Min on KO spots,92.57375336
+legacy_aggregate,raw,d4_spot,Ifngr2,105,mean,Mean Δ,max_on_ko_spots,Max on KO spots,92.57375336
+legacy_aggregate,raw,d4_spot,Ifngr2,105,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),92.56661987
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,92.56661987
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,92.56661987
+legacy_aggregate,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0.9999999917
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-2.89596972e-09
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,min_on_ko_spots,Min on KO spots,-1.860748053
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,max_on_ko_spots,Max on KO spots,2.921597481
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-1.809426716e-09
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,-2.624135017
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,1.989715576
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+legacy_aggregate,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.5338155627
+legacy_aggregate,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,legacy_cel_on_obs_top50,Celcomen mean on Obs top-50 genes (PRED_BY_GENE),0
+legacy_aggregate,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,legacy_concert_score,CONCERT legacy module score (Obs top-50 mean of multiseed vec),0.8541679382
+legacy_aggregate,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,cel_display_value,Legacy plotted Cel constant (after display boost),-67.78202875
+legacy_aggregate,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,cel_display_amp,Legacy Cel display boost multiplier,3389.101513
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.5338155627
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,legacy_cel_on_obs_top50,Celcomen mean on Obs top-50 genes (PRED_BY_GENE),0
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,legacy_concert_score,CONCERT legacy module score (Obs top-50 mean of multiseed vec),0.8541679382
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,cel_display_value,Legacy plotted Cel constant (after display boost),-67.78202875
+legacy_aggregate,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,cel_display_amp,Legacy Cel display boost multiplier,3389.101513
+fair_spatial,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),29.62010782
+fair_spatial,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),82.05928573
+fair_spatial,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,min_on_ko_spots,Min on KO spots,19.29999924
+fair_spatial,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,max_on_ko_spots,Max on KO spots,181.0200043
+fair_spatial,raw,d4_spot,Tgfbr2,224,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.604921051
+fair_spatial,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),56.44297043
+fair_spatial,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,51.27914047
+fair_spatial,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,62.19878387
+fair_spatial,raw,d4_spot,Tgfbr2,224,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,0
+fair_spatial,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,0
+fair_spatial,raw,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),2.41482164
+fair_spatial,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0.7758096494
+fair_spatial,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,-0.899299264
+fair_spatial,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,18.8938942
+fair_spatial,raw,d4_spot,Tgfbr2,224,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),61.02459335
+fair_spatial,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,min_on_ko_spots,Min on KO spots,61.02459335
+fair_spatial,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,max_on_ko_spots,Max on KO spots,61.02459335
+fair_spatial,raw,d4_spot,Tgfbr2,224,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),61.03039932
+fair_spatial,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,61.03039932
+fair_spatial,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,61.03039932
+fair_spatial,raw,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.000000001
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-9.895302355e-10
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,min_on_ko_spots,Min on KO spots,-2.118806839
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,max_on_ko_spots,Max on KO spots,3.340997934
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.000000002
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-1.072684037e-09
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,-3.217497826
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,3.586353064
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.000000002
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-2.806440794e-11
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,-0.6936781406
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,7.502866745
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,min_on_ko_spots,Min on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,max_on_ko_spots,Max on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,224
+fair_spatial,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.4670939445
+fair_spatial,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,r_obs_concert,"Pearson r(Obs, CONCERT fair field) on KO spots",-0.06361383945
+fair_spatial,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,r_obs_celcomen,"Pearson r(Obs, Celcomen fair field) on KO spots",nan
+fair_spatial,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,std_obs_ko,Std dev Obs on KO spots,29.62010765
+fair_spatial,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,std_ours_ko,Std dev Ours on KO spots,1.604921103
+fair_spatial,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,std_concert_ko,Std dev CONCERT fair field on KO spots,2.414821625
+fair_spatial,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,std_celcomen_ko,Std dev Celcomen fair field on KO spots,0
+fair_spatial,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,fair_cel_on_obs_top50,Mean Celcomen fair field on KO spots,0
+fair_spatial,raw,d4_spot,Tgfbr2,224,_row_summary,_row_summary,fair_concert_mean_ko,Mean CONCERT fair field on KO spots,0.7758097053
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.4670939445
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,r_obs_concert,"Pearson r(Obs, CONCERT fair field) on KO spots",-0.06361383945
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,r_obs_celcomen,"Pearson r(Obs, Celcomen fair field) on KO spots",nan
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,std_obs_ko,Std dev Obs on KO spots,29.62010765
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,std_ours_ko,Std dev Ours on KO spots,1.604921103
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,std_concert_ko,Std dev CONCERT fair field on KO spots,2.414821625
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,std_celcomen_ko,Std dev Celcomen fair field on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,fair_cel_on_obs_top50,Mean Celcomen fair field on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Tgfbr2,224,_row_summary,_row_summary,fair_concert_mean_ko,Mean CONCERT fair field on KO spots,0.7758097053
+fair_spatial,raw,d4_spot,Jak2,21,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),31.47679324
+fair_spatial,raw,d4_spot,Jak2,21,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),116.0390472
+fair_spatial,raw,d4_spot,Jak2,21,obs,Observed Δ,min_on_ko_spots,Min on KO spots,49.68000031
+fair_spatial,raw,d4_spot,Jak2,21,obs,Observed Δ,max_on_ko_spots,Max on KO spots,180.9199982
+fair_spatial,raw,d4_spot,Jak2,21,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,raw,d4_spot,Jak2,21,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.282961198
+fair_spatial,raw,d4_spot,Jak2,21,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),53.35089493
+fair_spatial,raw,d4_spot,Jak2,21,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,49.82886124
+fair_spatial,raw,d4_spot,Jak2,21,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,55.03291321
+fair_spatial,raw,d4_spot,Jak2,21,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,0
+fair_spatial,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,0
+fair_spatial,raw,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,raw,d4_spot,Jak2,21,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0.6037312634
+fair_spatial,raw,d4_spot,Jak2,21,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-1.675577487
+fair_spatial,raw,d4_spot,Jak2,21,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,-2.726901531
+fair_spatial,raw,d4_spot,Jak2,21,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,-0.5216450095
+fair_spatial,raw,d4_spot,Jak2,21,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,raw,d4_spot,Jak2,21,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Jak2,21,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),36.04135895
+fair_spatial,raw,d4_spot,Jak2,21,mean,Mean Δ,min_on_ko_spots,Min on KO spots,36.04135895
+fair_spatial,raw,d4_spot,Jak2,21,mean,Mean Δ,max_on_ko_spots,Max on KO spots,36.04135895
+fair_spatial,raw,d4_spot,Jak2,21,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),138.6896057
+fair_spatial,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,138.6896057
+fair_spatial,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,138.6896057
+fair_spatial,raw,d4_spot,Jak2,21,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.000000014
+fair_spatial,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-3.331695639e-09
+fair_spatial,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,min_on_ko_spots,Min on KO spots,-2.108189583
+fair_spatial,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,max_on_ko_spots,Max on KO spots,2.061231375
+fair_spatial,ko_zscore,d4_spot,Jak2,21,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0.9999999993
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),4.878356343e-09
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,-2.745237827
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,1.311043739
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0.9999999984
+fair_spatial,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),5.765330224e-09
+fair_spatial,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,-1.741377473
+fair_spatial,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,1.911334634
+fair_spatial,ko_zscore,d4_spot,Jak2,21,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,min_on_ko_spots,Min on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,max_on_ko_spots,Max on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,21
+fair_spatial,raw,d4_spot,Jak2,21,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.7089685202
+fair_spatial,raw,d4_spot,Jak2,21,_row_summary,_row_summary,r_obs_concert,"Pearson r(Obs, CONCERT fair field) on KO spots",0.1654167026
+fair_spatial,raw,d4_spot,Jak2,21,_row_summary,_row_summary,r_obs_celcomen,"Pearson r(Obs, Celcomen fair field) on KO spots",nan
+fair_spatial,raw,d4_spot,Jak2,21,_row_summary,_row_summary,std_obs_ko,Std dev Obs on KO spots,31.47679329
+fair_spatial,raw,d4_spot,Jak2,21,_row_summary,_row_summary,std_ours_ko,Std dev Ours on KO spots,1.282961249
+fair_spatial,raw,d4_spot,Jak2,21,_row_summary,_row_summary,std_concert_ko,Std dev CONCERT fair field on KO spots,0.6037312746
+fair_spatial,raw,d4_spot,Jak2,21,_row_summary,_row_summary,std_celcomen_ko,Std dev Celcomen fair field on KO spots,0
+fair_spatial,raw,d4_spot,Jak2,21,_row_summary,_row_summary,fair_cel_on_obs_top50,Mean Celcomen fair field on KO spots,0
+fair_spatial,raw,d4_spot,Jak2,21,_row_summary,_row_summary,fair_concert_mean_ko,Mean CONCERT fair field on KO spots,-1.675577402
+fair_spatial,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.7089685202
+fair_spatial,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,r_obs_concert,"Pearson r(Obs, CONCERT fair field) on KO spots",0.1654167026
+fair_spatial,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,r_obs_celcomen,"Pearson r(Obs, Celcomen fair field) on KO spots",nan
+fair_spatial,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,std_obs_ko,Std dev Obs on KO spots,31.47679329
+fair_spatial,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,std_ours_ko,Std dev Ours on KO spots,1.282961249
+fair_spatial,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,std_concert_ko,Std dev CONCERT fair field on KO spots,0.6037312746
+fair_spatial,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,std_celcomen_ko,Std dev Celcomen fair field on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,fair_cel_on_obs_top50,Mean Celcomen fair field on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Jak2,21,_row_summary,_row_summary,fair_concert_mean_ko,Mean CONCERT fair field on KO spots,-1.675577402
+fair_spatial,raw,d4_spot,Ifngr2,105,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),31.2775391
+fair_spatial,raw,d4_spot,Ifngr2,105,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),81.53961857
+fair_spatial,raw,d4_spot,Ifngr2,105,obs,Observed Δ,min_on_ko_spots,Min on KO spots,23.34000015
+fair_spatial,raw,d4_spot,Ifngr2,105,obs,Observed Δ,max_on_ko_spots,Max on KO spots,172.9199982
+fair_spatial,raw,d4_spot,Ifngr2,105,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.493244409
+fair_spatial,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),56.42235057
+fair_spatial,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,52.50387573
+fair_spatial,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,59.39348221
+fair_spatial,raw,d4_spot,Ifngr2,105,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,0
+fair_spatial,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,0
+fair_spatial,raw,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0.5757670021
+fair_spatial,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),1.25655015
+fair_spatial,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,-0.5741245747
+fair_spatial,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,3.260848522
+fair_spatial,raw,d4_spot,Ifngr2,105,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,raw,d4_spot,Ifngr2,105,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Ifngr2,105,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),92.57375336
+fair_spatial,raw,d4_spot,Ifngr2,105,mean,Mean Δ,min_on_ko_spots,Min on KO spots,92.57375336
+fair_spatial,raw,d4_spot,Ifngr2,105,mean,Mean Δ,max_on_ko_spots,Max on KO spots,92.57375336
+fair_spatial,raw,d4_spot,Ifngr2,105,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),92.56661987
+fair_spatial,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,92.56661987
+fair_spatial,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,92.56661987
+fair_spatial,raw,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0.9999999917
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-2.89596972e-09
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,min_on_ko_spots,Min on KO spots,-1.860748053
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,max_on_ko_spots,Max on KO spots,2.921597481
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,obs,Observed Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),-1.809426716e-09
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,min_on_ko_spots,Min on KO spots,-2.624135017
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,max_on_ko_spots,Max on KO spots,1.989715576
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ours,Ours pred Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",min_on_ko_spots,Min on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",max_on_ko_spots,Max on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,cel,"Celcomen pred Δ
+(flat · display boosted)",n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,std_on_ko_spots,Std dev on KO spots (plotted field),1.000000006
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,mean_on_ko_spots,Mean on KO spots (plotted field),9.57931791e-10
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,min_on_ko_spots,Min on KO spots,-3.179540873
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,max_on_ko_spots,Max on KO spots,3.48109293
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,concert,CONCERT Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,min_on_ko_spots,Min on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,max_on_ko_spots,Max on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,mean,Mean Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,std_on_ko_spots,Std dev on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,mean_on_ko_spots,Mean on KO spots (plotted field),0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,min_on_ko_spots,Min on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,max_on_ko_spots,Max on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,ridge,Ridge pred Δ,n_finite_on_ko_spots,Count finite on KO spots,105
+fair_spatial,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.5338155627
+fair_spatial,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,r_obs_concert,"Pearson r(Obs, CONCERT fair field) on KO spots",-0.09977343678
+fair_spatial,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,r_obs_celcomen,"Pearson r(Obs, Celcomen fair field) on KO spots",nan
+fair_spatial,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,std_obs_ko,Std dev Obs on KO spots,31.2775383
+fair_spatial,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,std_ours_ko,Std dev Ours on KO spots,1.49324429
+fair_spatial,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,std_concert_ko,Std dev CONCERT fair field on KO spots,0.5757669806
+fair_spatial,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,std_celcomen_ko,Std dev Celcomen fair field on KO spots,0
+fair_spatial,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,fair_cel_on_obs_top50,Mean Celcomen fair field on KO spots,0
+fair_spatial,raw,d4_spot,Ifngr2,105,_row_summary,_row_summary,fair_concert_mean_ko,Mean CONCERT fair field on KO spots,1.256550074
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,r_obs_ours,"Pearson r(Obs, Ours) on KO spots",0.5338155627
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,r_obs_concert,"Pearson r(Obs, CONCERT fair field) on KO spots",-0.09977343678
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,r_obs_celcomen,"Pearson r(Obs, Celcomen fair field) on KO spots",nan
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,std_obs_ko,Std dev Obs on KO spots,31.2775383
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,std_ours_ko,Std dev Ours on KO spots,1.49324429
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,std_concert_ko,Std dev CONCERT fair field on KO spots,0.5757669806
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,std_celcomen_ko,Std dev Celcomen fair field on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,fair_cel_on_obs_top50,Mean Celcomen fair field on KO spots,0
+fair_spatial,ko_zscore,d4_spot,Ifngr2,105,_row_summary,_row_summary,fair_concert_mean_ko,Mean CONCERT fair field on KO spots,1.256550074

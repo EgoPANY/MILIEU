@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# ML / genomics artifacts (do not commit)
+*.pt
+*.pth
+*.ckpt
+!data/demo/sc/demo_cloud_ft.pt
+!data/demo/sc/te_cond.npz
+!data/demo/sc/*.npz
+!data/demo/sc/*.npy
+!data/demo/sc/*.txt
+!data/demo/sc/README.json
+!data/demo/sc/demo_train_summary.json
+*.safetensors
+*.h5ad
+*.h5
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.tar
+*.tar.gz
+*.zip
+
+# Data and caches (tracked: data/manuscript/, data/figure_tables/, data/demo/)
+data/*
+!data/manuscript/
+!data/figure_tables/
+!data/demo/
+!data/demo/**
+!data/figure_tables/**
+data/demo/**/*.log
+data/demo/sc/demo_pred.npy
+data/demo/sc/demo_score.json
+data/demo/sc/fig2b_*_demo.png
+# Large manuscript tables (not shipped in the review bundle)
+data/manuscript/spatial_atlas_roi_per_spot_multimethod_readouts.csv
+data/manuscript/sc_gene_ood_train_val_heldout_gene_assignments.csv
+data/manuscript/sc_gene_ood_split_json/
+data/manuscript/spatial_panel_k_deg_celleval_sweeps_hippocampus_perturbmap_16seed_multiseed.csv
+data/manuscript/perturbmap_additional_lesions_jak2_ifngr2_per_spot_spatial_readouts.csv
+data/manuscript/perturbmap_tgfbr2_go_kegg_ora_gene_level_full.csv
+data/manuscript/milieu_public_inference_checkpoint_seeds.csv
+data/demo/sc/demo_bulk_smoke.pt
+datasets/
+weights/
+checkpoints/
+outputs/
+logs/
+wandb/
+.cache/
+*.log
+
+# Workspace env (set locally)
+.env
+.env.*
+
+# Large exports not needed for code release
+*.csv.gz

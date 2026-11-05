@@ -1,0 +1,161 @@
+dataset_key,dataset_label,method_key,method_label,seed,metric_key,metric_label,lower_better,value
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,0,dist.mmd,MMD ↓,True,0.000344743079
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,1,dist.mmd,MMD ↓,True,0.0006439079298
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,2,dist.mmd,MMD ↓,True,0.0004167653969
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,3,dist.mmd,MMD ↓,True,0.0003874864487
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,4,dist.mmd,MMD ↓,True,0.0003494049306
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,5,dist.mmd,MMD ↓,True,0.0003754272184
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,6,dist.mmd,MMD ↓,True,0.0003788836475
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,7,dist.mmd,MMD ↓,True,0.0004768232466
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,8,dist.mmd,MMD ↓,True,0.0008563210722
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,9,dist.mmd,MMD ↓,True,0.0003967126249
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,10,dist.mmd,MMD ↓,True,0.0008677408332
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,11,dist.mmd,MMD ↓,True,0.0007100082003
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,12,dist.mmd,MMD ↓,True,0.0003560531477
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,13,dist.mmd,MMD ↓,True,0.000173235705
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,14,dist.mmd,MMD ↓,True,0.000338391721
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ours,Ours,23,dist.mmd,MMD ↓,True,0.0003240650403
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,0,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,1,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,2,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,3,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,4,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,5,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,6,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,7,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,8,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,9,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,10,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,11,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,12,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,13,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,14,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),mean,Mean,23,dist.mmd,MMD ↓,True,0.9999995232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,0,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,1,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,2,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,3,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,4,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,5,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,6,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,7,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,8,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,9,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,10,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,11,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,12,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,13,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,14,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),ridge,Ridge,23,dist.mmd,MMD ↓,True,0.03199036047
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,0,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,1,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,2,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,3,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,4,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,5,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,6,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,7,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,8,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,9,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,10,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,11,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,12,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,13,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,14,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),celcomen,Celcomen,23,dist.mmd,MMD ↓,True,0.9321414232
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,0,dist.mmd,MMD ↓,True,0.9999981523
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,1,dist.mmd,MMD ↓,True,1
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,2,dist.mmd,MMD ↓,True,1
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,3,dist.mmd,MMD ↓,True,1
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,4,dist.mmd,MMD ↓,True,0.9999961853
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,5,dist.mmd,MMD ↓,True,0.9999981523
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,6,dist.mmd,MMD ↓,True,0.9999961853
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,7,dist.mmd,MMD ↓,True,0.9999961853
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,8,dist.mmd,MMD ↓,True,0.9999981523
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,9,dist.mmd,MMD ↓,True,0.9999961853
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,10,dist.mmd,MMD ↓,True,1
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,11,dist.mmd,MMD ↓,True,1
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,12,dist.mmd,MMD ↓,True,1
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,13,dist.mmd,MMD ↓,True,1
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,14,dist.mmd,MMD ↓,True,1
+hippocampus_stereo_seq,Hippocampus (Stereo-seq),concert,CONCERT,23,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,0,dist.mmd,MMD ↓,True,0.001263260841
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,1,dist.mmd,MMD ↓,True,5.328655243e-05
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,2,dist.mmd,MMD ↓,True,0.001644611359
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,3,dist.mmd,MMD ↓,True,0.000252366066
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,4,dist.mmd,MMD ↓,True,0.003622889519
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,5,dist.mmd,MMD ↓,True,0.0003421902657
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,6,dist.mmd,MMD ↓,True,0.000127196312
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,7,dist.mmd,MMD ↓,True,0.002769589424
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,8,dist.mmd,MMD ↓,True,6.496906281e-05
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,9,dist.mmd,MMD ↓,True,0.0001291036606
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,10,dist.mmd,MMD ↓,True,9.46521759e-05
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,11,dist.mmd,MMD ↓,True,0.0006458759308
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,12,dist.mmd,MMD ↓,True,0.0002510547638
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,13,dist.mmd,MMD ↓,True,0.006324291229
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,14,dist.mmd,MMD ↓,True,0.004151582718
+perturbmap_lung_visium,D4 Visium spot,ours,Ours,23,dist.mmd,MMD ↓,True,0.0007259845734
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,0,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,1,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,2,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,3,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,4,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,5,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,6,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,7,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,8,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,9,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,10,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,11,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,12,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,13,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,14,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,mean,Mean,23,dist.mmd,MMD ↓,True,0.9998779297
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,0,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,1,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,2,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,3,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,4,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,5,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,6,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,7,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,8,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,9,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,10,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,11,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,12,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,13,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,14,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,ridge,Ridge,23,dist.mmd,MMD ↓,True,0
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,0,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,1,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,2,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,3,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,4,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,5,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,6,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,7,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,8,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,9,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,10,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,11,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,12,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,13,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,14,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,celcomen,Celcomen,23,dist.mmd,MMD ↓,True,1
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,0,dist.mmd,MMD ↓,True,0.9987342358
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,1,dist.mmd,MMD ↓,True,0.9997081757
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,2,dist.mmd,MMD ↓,True,0.9996414185
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,3,dist.mmd,MMD ↓,True,0.9988515377
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,4,dist.mmd,MMD ↓,True,0.9994223118
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,5,dist.mmd,MMD ↓,True,0.9972742796
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,6,dist.mmd,MMD ↓,True,0.9992477894
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,7,dist.mmd,MMD ↓,True,0.9985467196
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,8,dist.mmd,MMD ↓,True,0.9986352921
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,9,dist.mmd,MMD ↓,True,0.9998044968
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,10,dist.mmd,MMD ↓,True,0.9984753132
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,11,dist.mmd,MMD ↓,True,0.9987143278
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,12,dist.mmd,MMD ↓,True,0.9994946718
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,13,dist.mmd,MMD ↓,True,0.9997138977
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,14,dist.mmd,MMD ↓,True,0.9995671511
+perturbmap_lung_visium,D4 Visium spot,concert,CONCERT,23,dist.mmd,MMD ↓,True,0.9994946718

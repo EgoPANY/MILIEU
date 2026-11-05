@@ -1,0 +1,2341 @@
+dataset_key,dataset_label,method_key,method_label,seed,tier_metric,tier_metric_label,k,value
+ed5_essential,Essential,ours,Ours,0,panel,Panel@K,50,0.6520320561
+ed5_essential,Essential,ours,Ours,0,panel,Panel@K,100,0.6666854794
+ed5_essential,Essential,ours,Ours,0,panel,Panel@K,200,0.6866603692
+ed5_essential,Essential,ours,Ours,0,panel,Panel@K,500,0.6610616021
+ed5_essential,Essential,ours,Ours,0,panel,Panel@K,1000,0.5978184059
+ed5_essential,Essential,ours,Ours,0,deg,DEG Top-K@K,50,0.3578378378
+ed5_essential,Essential,ours,Ours,0,deg,DEG Top-K@K,100,0.4164864865
+ed5_essential,Essential,ours,Ours,0,deg,DEG Top-K@K,200,0.4697297297
+ed5_essential,Essential,ours,Ours,0,deg,DEG Top-K@K,500,0.5232972973
+ed5_essential,Essential,ours,Ours,0,celleval,CellEval@K,50,0.2502702703
+ed5_essential,Essential,ours,Ours,0,celleval,CellEval@K,100,0.3
+ed5_essential,Essential,ours,Ours,0,celleval,CellEval@K,200,0.3178378378
+ed5_essential,Essential,ours,Ours,0,celleval,CellEval@K,500,0.1271351351
+ed5_essential,Essential,ours,Ours,1,panel,Panel@K,50,0.5692587733
+ed5_essential,Essential,ours,Ours,1,panel,Panel@K,100,0.600548706
+ed5_essential,Essential,ours,Ours,1,panel,Panel@K,200,0.6139483255
+ed5_essential,Essential,ours,Ours,1,panel,Panel@K,500,0.5666107338
+ed5_essential,Essential,ours,Ours,1,panel,Panel@K,1000,0.4958146584
+ed5_essential,Essential,ours,Ours,1,deg,DEG Top-K@K,50,0.3060465116
+ed5_essential,Essential,ours,Ours,1,deg,DEG Top-K@K,100,0.3551162791
+ed5_essential,Essential,ours,Ours,1,deg,DEG Top-K@K,200,0.3925581395
+ed5_essential,Essential,ours,Ours,1,deg,DEG Top-K@K,500,0.4668837209
+ed5_essential,Essential,ours,Ours,1,celleval,CellEval@K,50,0.1911627907
+ed5_essential,Essential,ours,Ours,1,celleval,CellEval@K,100,0.2313953488
+ed5_essential,Essential,ours,Ours,1,celleval,CellEval@K,200,0.2526744186
+ed5_essential,Essential,ours,Ours,1,celleval,CellEval@K,500,0.1010697674
+ed5_essential,Essential,ours,Ours,2,panel,Panel@K,50,0.5083980259
+ed5_essential,Essential,ours,Ours,2,panel,Panel@K,100,0.5245321199
+ed5_essential,Essential,ours,Ours,2,panel,Panel@K,200,0.5250336258
+ed5_essential,Essential,ours,Ours,2,panel,Panel@K,500,0.4813935682
+ed5_essential,Essential,ours,Ours,2,panel,Panel@K,1000,0.4189013606
+ed5_essential,Essential,ours,Ours,2,deg,DEG Top-K@K,50,0.2438888889
+ed5_essential,Essential,ours,Ours,2,deg,DEG Top-K@K,100,0.2997222222
+ed5_essential,Essential,ours,Ours,2,deg,DEG Top-K@K,200,0.3594444444
+ed5_essential,Essential,ours,Ours,2,deg,DEG Top-K@K,500,0.4345
+ed5_essential,Essential,ours,Ours,2,celleval,CellEval@K,50,0.1511111111
+ed5_essential,Essential,ours,Ours,2,celleval,CellEval@K,100,0.18
+ed5_essential,Essential,ours,Ours,2,celleval,CellEval@K,200,0.20625
+ed5_essential,Essential,ours,Ours,2,celleval,CellEval@K,500,0.0825
+ed5_essential,Essential,ours,Ours,3,panel,Panel@K,50,0.5618339251
+ed5_essential,Essential,ours,Ours,3,panel,Panel@K,100,0.575034695
+ed5_essential,Essential,ours,Ours,3,panel,Panel@K,200,0.5742823677
+ed5_essential,Essential,ours,Ours,3,panel,Panel@K,500,0.5236607745
+ed5_essential,Essential,ours,Ours,3,panel,Panel@K,1000,0.4504457406
+ed5_essential,Essential,ours,Ours,3,deg,DEG Top-K@K,50,0.2459574468
+ed5_essential,Essential,ours,Ours,3,deg,DEG Top-K@K,100,0.2970212766
+ed5_essential,Essential,ours,Ours,3,deg,DEG Top-K@K,200,0.3637234043
+ed5_essential,Essential,ours,Ours,3,deg,DEG Top-K@K,500,0.4524680851
+ed5_essential,Essential,ours,Ours,3,celleval,CellEval@K,50,0.1565957447
+ed5_essential,Essential,ours,Ours,3,celleval,CellEval@K,100,0.1882978723
+ed5_essential,Essential,ours,Ours,3,celleval,CellEval@K,200,0.2194680851
+ed5_essential,Essential,ours,Ours,3,celleval,CellEval@K,500,0.08778723404
+ed5_essential,Essential,ours,Ours,4,panel,Panel@K,50,0.5934958811
+ed5_essential,Essential,ours,Ours,4,panel,Panel@K,100,0.6325667049
+ed5_essential,Essential,ours,Ours,4,panel,Panel@K,200,0.6412199443
+ed5_essential,Essential,ours,Ours,4,panel,Panel@K,500,0.6023119772
+ed5_essential,Essential,ours,Ours,4,panel,Panel@K,1000,0.5354743333
+ed5_essential,Essential,ours,Ours,4,deg,DEG Top-K@K,50,0.3144827586
+ed5_essential,Essential,ours,Ours,4,deg,DEG Top-K@K,100,0.3737931034
+ed5_essential,Essential,ours,Ours,4,deg,DEG Top-K@K,200,0.420862069
+ed5_essential,Essential,ours,Ours,4,deg,DEG Top-K@K,500,0.4810344828
+ed5_essential,Essential,ours,Ours,4,celleval,CellEval@K,50,0.2006896552
+ed5_essential,Essential,ours,Ours,4,celleval,CellEval@K,100,0.2368965517
+ed5_essential,Essential,ours,Ours,4,celleval,CellEval@K,200,0.2653448276
+ed5_essential,Essential,ours,Ours,4,celleval,CellEval@K,500,0.106137931
+ed5_essential,Essential,ours,Ours,5,panel,Panel@K,50,0.6148703202
+ed5_essential,Essential,ours,Ours,5,panel,Panel@K,100,0.6496355682
+ed5_essential,Essential,ours,Ours,5,panel,Panel@K,200,0.6605233387
+ed5_essential,Essential,ours,Ours,5,panel,Panel@K,500,0.6221494363
+ed5_essential,Essential,ours,Ours,5,panel,Panel@K,1000,0.5538995215
+ed5_essential,Essential,ours,Ours,5,deg,DEG Top-K@K,50,0.3451162791
+ed5_essential,Essential,ours,Ours,5,deg,DEG Top-K@K,100,0.3965116279
+ed5_essential,Essential,ours,Ours,5,deg,DEG Top-K@K,200,0.4487209302
+ed5_essential,Essential,ours,Ours,5,deg,DEG Top-K@K,500,0.5057209302
+ed5_essential,Essential,ours,Ours,5,celleval,CellEval@K,50,0.2079069767
+ed5_essential,Essential,ours,Ours,5,celleval,CellEval@K,100,0.2534883721
+ed5_essential,Essential,ours,Ours,5,celleval,CellEval@K,200,0.276744186
+ed5_essential,Essential,ours,Ours,5,celleval,CellEval@K,500,0.1106976744
+ed5_essential,Essential,ours,Ours,6,panel,Panel@K,50,0.5701982126
+ed5_essential,Essential,ours,Ours,6,panel,Panel@K,100,0.5875910258
+ed5_essential,Essential,ours,Ours,6,panel,Panel@K,200,0.5855548389
+ed5_essential,Essential,ours,Ours,6,panel,Panel@K,500,0.5490330079
+ed5_essential,Essential,ours,Ours,6,panel,Panel@K,1000,0.4873928391
+ed5_essential,Essential,ours,Ours,6,deg,DEG Top-K@K,50,0.288
+ed5_essential,Essential,ours,Ours,6,deg,DEG Top-K@K,100,0.3553333333
+ed5_essential,Essential,ours,Ours,6,deg,DEG Top-K@K,200,0.4123333333
+ed5_essential,Essential,ours,Ours,6,deg,DEG Top-K@K,500,0.4915111111
+ed5_essential,Essential,ours,Ours,6,celleval,CellEval@K,50,0.1991111111
+ed5_essential,Essential,ours,Ours,6,celleval,CellEval@K,100,0.2386666667
+ed5_essential,Essential,ours,Ours,6,celleval,CellEval@K,200,0.2672222222
+ed5_essential,Essential,ours,Ours,6,celleval,CellEval@K,500,0.1068888889
+ed5_essential,Essential,ours,Ours,7,panel,Panel@K,50,0.5641123649
+ed5_essential,Essential,ours,Ours,7,panel,Panel@K,100,0.5980505251
+ed5_essential,Essential,ours,Ours,7,panel,Panel@K,200,0.6109422036
+ed5_essential,Essential,ours,Ours,7,panel,Panel@K,500,0.5758388672
+ed5_essential,Essential,ours,Ours,7,panel,Panel@K,1000,0.5090673094
+ed5_essential,Essential,ours,Ours,7,deg,DEG Top-K@K,50,0.2768
+ed5_essential,Essential,ours,Ours,7,deg,DEG Top-K@K,100,0.3488
+ed5_essential,Essential,ours,Ours,7,deg,DEG Top-K@K,200,0.4086
+ed5_essential,Essential,ours,Ours,7,deg,DEG Top-K@K,500,0.47808
+ed5_essential,Essential,ours,Ours,7,celleval,CellEval@K,50,0.1736
+ed5_essential,Essential,ours,Ours,7,celleval,CellEval@K,100,0.2228
+ed5_essential,Essential,ours,Ours,7,celleval,CellEval@K,200,0.2576
+ed5_essential,Essential,ours,Ours,7,celleval,CellEval@K,500,0.10304
+ed5_essential,Essential,ours,Ours,8,panel,Panel@K,50,0.5588039867
+ed5_essential,Essential,ours,Ours,8,panel,Panel@K,100,0.580810081
+ed5_essential,Essential,ours,Ours,8,panel,Panel@K,200,0.599796867
+ed5_essential,Essential,ours,Ours,8,panel,Panel@K,500,0.5752303605
+ed5_essential,Essential,ours,Ours,8,panel,Panel@K,1000,0.5036242531
+ed5_essential,Essential,ours,Ours,8,deg,DEG Top-K@K,50,0.2595348837
+ed5_essential,Essential,ours,Ours,8,deg,DEG Top-K@K,100,0.3279069767
+ed5_essential,Essential,ours,Ours,8,deg,DEG Top-K@K,200,0.3926744186
+ed5_essential,Essential,ours,Ours,8,deg,DEG Top-K@K,500,0.4676744186
+ed5_essential,Essential,ours,Ours,8,celleval,CellEval@K,50,0.1865116279
+ed5_essential,Essential,ours,Ours,8,celleval,CellEval@K,100,0.2248837209
+ed5_essential,Essential,ours,Ours,8,celleval,CellEval@K,200,0.2537209302
+ed5_essential,Essential,ours,Ours,8,celleval,CellEval@K,500,0.1014883721
+ed5_essential,Essential,ours,Ours,9,panel,Panel@K,50,0.6316435411
+ed5_essential,Essential,ours,Ours,9,panel,Panel@K,100,0.6475953642
+ed5_essential,Essential,ours,Ours,9,panel,Panel@K,200,0.6499541093
+ed5_essential,Essential,ours,Ours,9,panel,Panel@K,500,0.6064249418
+ed5_essential,Essential,ours,Ours,9,panel,Panel@K,1000,0.5356019973
+ed5_essential,Essential,ours,Ours,9,deg,DEG Top-K@K,50,0.303255814
+ed5_essential,Essential,ours,Ours,9,deg,DEG Top-K@K,100,0.3646511628
+ed5_essential,Essential,ours,Ours,9,deg,DEG Top-K@K,200,0.4265116279
+ed5_essential,Essential,ours,Ours,9,deg,DEG Top-K@K,500,0.4954418605
+ed5_essential,Essential,ours,Ours,9,celleval,CellEval@K,50,0.1860465116
+ed5_essential,Essential,ours,Ours,9,celleval,CellEval@K,100,0.2288372093
+ed5_essential,Essential,ours,Ours,9,celleval,CellEval@K,200,0.2560465116
+ed5_essential,Essential,ours,Ours,9,celleval,CellEval@K,500,0.1024186047
+ed5_essential,Essential,gears,GEARS,0,panel,Panel@K,50,0.4437890712
+ed5_essential,Essential,gears,GEARS,0,panel,Panel@K,100,0.4668301275
+ed5_essential,Essential,gears,GEARS,0,panel,Panel@K,200,0.462506021
+ed5_essential,Essential,gears,GEARS,0,panel,Panel@K,500,0.4071231565
+ed5_essential,Essential,gears,GEARS,0,panel,Panel@K,1000,0.3420144605
+ed5_essential,Essential,gears,GEARS,0,deg,DEG Top-K@K,50,0.1522222222
+ed5_essential,Essential,gears,GEARS,0,deg,DEG Top-K@K,100,0.1887962963
+ed5_essential,Essential,gears,GEARS,0,deg,DEG Top-K@K,200,0.2151851852
+ed5_essential,Essential,gears,GEARS,0,deg,DEG Top-K@K,500,0.2461851852
+ed5_essential,Essential,gears,GEARS,0,celleval,CellEval@K,50,0.1277777778
+ed5_essential,Essential,gears,GEARS,0,celleval,CellEval@K,100,0.17
+ed5_essential,Essential,gears,GEARS,0,celleval,CellEval@K,200,0.190787037
+ed5_essential,Essential,gears,GEARS,0,celleval,CellEval@K,500,0.07631481481
+ed5_essential,Essential,gears,GEARS,1,panel,Panel@K,50,0.4902650969
+ed5_essential,Essential,gears,GEARS,1,panel,Panel@K,100,0.5206944181
+ed5_essential,Essential,gears,GEARS,1,panel,Panel@K,200,0.5124638391
+ed5_essential,Essential,gears,GEARS,1,panel,Panel@K,500,0.4506495067
+ed5_essential,Essential,gears,GEARS,1,panel,Panel@K,1000,0.3807635801
+ed5_essential,Essential,gears,GEARS,1,deg,DEG Top-K@K,50,0.1913761468
+ed5_essential,Essential,gears,GEARS,1,deg,DEG Top-K@K,100,0.2225688073
+ed5_essential,Essential,gears,GEARS,1,deg,DEG Top-K@K,200,0.2369266055
+ed5_essential,Essential,gears,GEARS,1,deg,DEG Top-K@K,500,0.2592110092
+ed5_essential,Essential,gears,GEARS,1,celleval,CellEval@K,50,0.1565137615
+ed5_essential,Essential,gears,GEARS,1,celleval,CellEval@K,100,0.195412844
+ed5_essential,Essential,gears,GEARS,1,celleval,CellEval@K,200,0.205
+ed5_essential,Essential,gears,GEARS,1,celleval,CellEval@K,500,0.082
+ed5_essential,Essential,gears,GEARS,2,panel,Panel@K,50,0.4053274888
+ed5_essential,Essential,gears,GEARS,2,panel,Panel@K,100,0.4309095864
+ed5_essential,Essential,gears,GEARS,2,panel,Panel@K,200,0.4167806718
+ed5_essential,Essential,gears,GEARS,2,panel,Panel@K,500,0.3617399902
+ed5_essential,Essential,gears,GEARS,2,panel,Panel@K,1000,0.3064667001
+ed5_essential,Essential,gears,GEARS,2,deg,DEG Top-K@K,50,0.1667889908
+ed5_essential,Essential,gears,GEARS,2,deg,DEG Top-K@K,100,0.1833944954
+ed5_essential,Essential,gears,GEARS,2,deg,DEG Top-K@K,200,0.2149541284
+ed5_essential,Essential,gears,GEARS,2,deg,DEG Top-K@K,500,0.2553027523
+ed5_essential,Essential,gears,GEARS,2,celleval,CellEval@K,50,0.144587156
+ed5_essential,Essential,gears,GEARS,2,celleval,CellEval@K,100,0.176146789
+ed5_essential,Essential,gears,GEARS,2,celleval,CellEval@K,200,0.1933944954
+ed5_essential,Essential,gears,GEARS,2,celleval,CellEval@K,500,0.07735779817
+ed5_essential,Essential,gears,GEARS,3,panel,Panel@K,50,0.4377100565
+ed5_essential,Essential,gears,GEARS,3,panel,Panel@K,100,0.4584686359
+ed5_essential,Essential,gears,GEARS,3,panel,Panel@K,200,0.4470857368
+ed5_essential,Essential,gears,GEARS,3,panel,Panel@K,500,0.3906429905
+ed5_essential,Essential,gears,GEARS,3,panel,Panel@K,1000,0.3260735529
+ed5_essential,Essential,gears,GEARS,3,deg,DEG Top-K@K,50,0.1141284404
+ed5_essential,Essential,gears,GEARS,3,deg,DEG Top-K@K,100,0.1581651376
+ed5_essential,Essential,gears,GEARS,3,deg,DEG Top-K@K,200,0.2009633028
+ed5_essential,Essential,gears,GEARS,3,deg,DEG Top-K@K,500,0.2417614679
+ed5_essential,Essential,gears,GEARS,3,celleval,CellEval@K,50,0.0847706422
+ed5_essential,Essential,gears,GEARS,3,celleval,CellEval@K,100,0.1287155963
+ed5_essential,Essential,gears,GEARS,3,celleval,CellEval@K,200,0.1673853211
+ed5_essential,Essential,gears,GEARS,3,celleval,CellEval@K,500,0.06695412844
+ed5_essential,Essential,gears,GEARS,4,panel,Panel@K,50,0.4408661242
+ed5_essential,Essential,gears,GEARS,4,panel,Panel@K,100,0.4591150226
+ed5_essential,Essential,gears,GEARS,4,panel,Panel@K,200,0.4475179518
+ed5_essential,Essential,gears,GEARS,4,panel,Panel@K,500,0.390686913
+ed5_essential,Essential,gears,GEARS,4,panel,Panel@K,1000,0.3301963199
+ed5_essential,Essential,gears,GEARS,4,deg,DEG Top-K@K,50,0.1614814815
+ed5_essential,Essential,gears,GEARS,4,deg,DEG Top-K@K,100,0.1888888889
+ed5_essential,Essential,gears,GEARS,4,deg,DEG Top-K@K,200,0.214537037
+ed5_essential,Essential,gears,GEARS,4,deg,DEG Top-K@K,500,0.2495555556
+ed5_essential,Essential,gears,GEARS,4,celleval,CellEval@K,50,0.1490740741
+ed5_essential,Essential,gears,GEARS,4,celleval,CellEval@K,100,0.1749074074
+ed5_essential,Essential,gears,GEARS,4,celleval,CellEval@K,200,0.1944907407
+ed5_essential,Essential,gears,GEARS,4,celleval,CellEval@K,500,0.0777962963
+ed5_essential,Essential,gears,GEARS,5,panel,Panel@K,50,0.4749368371
+ed5_essential,Essential,gears,GEARS,5,panel,Panel@K,100,0.5028786915
+ed5_essential,Essential,gears,GEARS,5,panel,Panel@K,200,0.4890728186
+ed5_essential,Essential,gears,GEARS,5,panel,Panel@K,500,0.4178834536
+ed5_essential,Essential,gears,GEARS,5,panel,Panel@K,1000,0.3446959197
+ed5_essential,Essential,gears,GEARS,5,deg,DEG Top-K@K,50,0.132293578
+ed5_essential,Essential,gears,GEARS,5,deg,DEG Top-K@K,100,0.1769724771
+ed5_essential,Essential,gears,GEARS,5,deg,DEG Top-K@K,200,0.2012844037
+ed5_essential,Essential,gears,GEARS,5,deg,DEG Top-K@K,500,0.2320183486
+ed5_essential,Essential,gears,GEARS,5,celleval,CellEval@K,50,0.1067889908
+ed5_essential,Essential,gears,GEARS,5,celleval,CellEval@K,100,0.1449541284
+ed5_essential,Essential,gears,GEARS,5,celleval,CellEval@K,200,0.1701834862
+ed5_essential,Essential,gears,GEARS,5,celleval,CellEval@K,500,0.0680733945
+ed5_essential,Essential,gears,GEARS,6,panel,Panel@K,50,0.4521166999
+ed5_essential,Essential,gears,GEARS,6,panel,Panel@K,100,0.4711016056
+ed5_essential,Essential,gears,GEARS,6,panel,Panel@K,200,0.4598352161
+ed5_essential,Essential,gears,GEARS,6,panel,Panel@K,500,0.3962267877
+ed5_essential,Essential,gears,GEARS,6,panel,Panel@K,1000,0.3290412779
+ed5_essential,Essential,gears,GEARS,6,deg,DEG Top-K@K,50,0.1308256881
+ed5_essential,Essential,gears,GEARS,6,deg,DEG Top-K@K,100,0.1714678899
+ed5_essential,Essential,gears,GEARS,6,deg,DEG Top-K@K,200,0.2002293578
+ed5_essential,Essential,gears,GEARS,6,deg,DEG Top-K@K,500,0.2290091743
+ed5_essential,Essential,gears,GEARS,6,celleval,CellEval@K,50,0.1009174312
+ed5_essential,Essential,gears,GEARS,6,celleval,CellEval@K,100,0.1401834862
+ed5_essential,Essential,gears,GEARS,6,celleval,CellEval@K,200,0.1679357798
+ed5_essential,Essential,gears,GEARS,6,celleval,CellEval@K,500,0.06717431193
+ed5_essential,Essential,gears,GEARS,7,panel,Panel@K,50,0.4382642598
+ed5_essential,Essential,gears,GEARS,7,panel,Panel@K,100,0.4533491881
+ed5_essential,Essential,gears,GEARS,7,panel,Panel@K,200,0.4466225417
+ed5_essential,Essential,gears,GEARS,7,panel,Panel@K,500,0.3958250622
+ed5_essential,Essential,gears,GEARS,7,panel,Panel@K,1000,0.3318623031
+ed5_essential,Essential,gears,GEARS,7,deg,DEG Top-K@K,50,0.1269724771
+ed5_essential,Essential,gears,GEARS,7,deg,DEG Top-K@K,100,0.1655045872
+ed5_essential,Essential,gears,GEARS,7,deg,DEG Top-K@K,200,0.1983486239
+ed5_essential,Essential,gears,GEARS,7,deg,DEG Top-K@K,500,0.2368256881
+ed5_essential,Essential,gears,GEARS,7,celleval,CellEval@K,50,0.08880733945
+ed5_essential,Essential,gears,GEARS,7,celleval,CellEval@K,100,0.1333944954
+ed5_essential,Essential,gears,GEARS,7,celleval,CellEval@K,200,0.1663302752
+ed5_essential,Essential,gears,GEARS,7,celleval,CellEval@K,500,0.06653211009
+ed5_essential,Essential,gears,GEARS,8,panel,Panel@K,50,0.4335440843
+ed5_essential,Essential,gears,GEARS,8,panel,Panel@K,100,0.4416404974
+ed5_essential,Essential,gears,GEARS,8,panel,Panel@K,200,0.4255387774
+ed5_essential,Essential,gears,GEARS,8,panel,Panel@K,500,0.3628211997
+ed5_essential,Essential,gears,GEARS,8,panel,Panel@K,1000,0.2962483566
+ed5_essential,Essential,gears,GEARS,8,deg,DEG Top-K@K,50,0.2031481481
+ed5_essential,Essential,gears,GEARS,8,deg,DEG Top-K@K,100,0.2235185185
+ed5_essential,Essential,gears,GEARS,8,deg,DEG Top-K@K,200,0.2362037037
+ed5_essential,Essential,gears,GEARS,8,deg,DEG Top-K@K,500,0.2695555556
+ed5_essential,Essential,gears,GEARS,8,celleval,CellEval@K,50,0.1487037037
+ed5_essential,Essential,gears,GEARS,8,celleval,CellEval@K,100,0.1782407407
+ed5_essential,Essential,gears,GEARS,8,celleval,CellEval@K,200,0.1928703704
+ed5_essential,Essential,gears,GEARS,8,celleval,CellEval@K,500,0.07714814815
+ed5_essential,Essential,gears,GEARS,9,panel,Panel@K,50,0.4008590103
+ed5_essential,Essential,gears,GEARS,9,panel,Panel@K,100,0.4328343946
+ed5_essential,Essential,gears,GEARS,9,panel,Panel@K,200,0.4278455573
+ed5_essential,Essential,gears,GEARS,9,panel,Panel@K,500,0.3721204698
+ed5_essential,Essential,gears,GEARS,9,panel,Panel@K,1000,0.3067095258
+ed5_essential,Essential,gears,GEARS,9,deg,DEG Top-K@K,50,0.1387037037
+ed5_essential,Essential,gears,GEARS,9,deg,DEG Top-K@K,100,0.1715740741
+ed5_essential,Essential,gears,GEARS,9,deg,DEG Top-K@K,200,0.2008333333
+ed5_essential,Essential,gears,GEARS,9,deg,DEG Top-K@K,500,0.2399259259
+ed5_essential,Essential,gears,GEARS,9,celleval,CellEval@K,50,0.1038888889
+ed5_essential,Essential,gears,GEARS,9,celleval,CellEval@K,100,0.1369444444
+ed5_essential,Essential,gears,GEARS,9,celleval,CellEval@K,200,0.1652777778
+ed5_essential,Essential,gears,GEARS,9,celleval,CellEval@K,500,0.06611111111
+ed5_essential,Essential,biolord,BIOLORD,0,panel,Panel@K,50,0.49407139
+ed5_essential,Essential,biolord,BIOLORD,0,panel,Panel@K,100,0.5133797416
+ed5_essential,Essential,biolord,BIOLORD,0,panel,Panel@K,200,0.5165944745
+ed5_essential,Essential,biolord,BIOLORD,0,panel,Panel@K,500,0.4745754041
+ed5_essential,Essential,biolord,BIOLORD,0,panel,Panel@K,1000,0.41509462
+ed5_essential,Essential,biolord,BIOLORD,0,deg,DEG Top-K@K,50,0.1456880734
+ed5_essential,Essential,biolord,BIOLORD,0,deg,DEG Top-K@K,100,0.229266055
+ed5_essential,Essential,biolord,BIOLORD,0,deg,DEG Top-K@K,200,0.2881651376
+ed5_essential,Essential,biolord,BIOLORD,0,deg,DEG Top-K@K,500,0.322146789
+ed5_essential,Essential,biolord,BIOLORD,0,celleval,CellEval@K,50,0.2003669725
+ed5_essential,Essential,biolord,BIOLORD,0,celleval,CellEval@K,100,0.2394495413
+ed5_essential,Essential,biolord,BIOLORD,0,celleval,CellEval@K,200,0.2470183486
+ed5_essential,Essential,biolord,BIOLORD,0,celleval,CellEval@K,500,0.09880733945
+ed5_essential,Essential,biolord,BIOLORD,1,panel,Panel@K,50,0.4831943787
+ed5_essential,Essential,biolord,BIOLORD,1,panel,Panel@K,100,0.5166711534
+ed5_essential,Essential,biolord,BIOLORD,1,panel,Panel@K,200,0.5155113373
+ed5_essential,Essential,biolord,BIOLORD,1,panel,Panel@K,500,0.4626129794
+ed5_essential,Essential,biolord,BIOLORD,1,panel,Panel@K,1000,0.3984317638
+ed5_essential,Essential,biolord,BIOLORD,1,deg,DEG Top-K@K,50,0.151559633
+ed5_essential,Essential,biolord,BIOLORD,1,deg,DEG Top-K@K,100,0.2294495413
+ed5_essential,Essential,biolord,BIOLORD,1,deg,DEG Top-K@K,200,0.2797706422
+ed5_essential,Essential,biolord,BIOLORD,1,deg,DEG Top-K@K,500,0.3164954128
+ed5_essential,Essential,biolord,BIOLORD,1,celleval,CellEval@K,50,0.2097247706
+ed5_essential,Essential,biolord,BIOLORD,1,celleval,CellEval@K,100,0.2343119266
+ed5_essential,Essential,biolord,BIOLORD,1,celleval,CellEval@K,200,0.2376146789
+ed5_essential,Essential,biolord,BIOLORD,1,celleval,CellEval@K,500,0.09504587156
+ed5_essential,Essential,biolord,BIOLORD,2,panel,Panel@K,50,0.4676995936
+ed5_essential,Essential,biolord,BIOLORD,2,panel,Panel@K,100,0.4949876272
+ed5_essential,Essential,biolord,BIOLORD,2,panel,Panel@K,200,0.4872884483
+ed5_essential,Essential,biolord,BIOLORD,2,panel,Panel@K,500,0.4431172822
+ed5_essential,Essential,biolord,BIOLORD,2,panel,Panel@K,1000,0.3839078726
+ed5_essential,Essential,biolord,BIOLORD,2,deg,DEG Top-K@K,50,0.1288073394
+ed5_essential,Essential,biolord,BIOLORD,2,deg,DEG Top-K@K,100,0.2104587156
+ed5_essential,Essential,biolord,BIOLORD,2,deg,DEG Top-K@K,200,0.2700917431
+ed5_essential,Essential,biolord,BIOLORD,2,deg,DEG Top-K@K,500,0.3168256881
+ed5_essential,Essential,biolord,BIOLORD,2,celleval,CellEval@K,50,0.18
+ed5_essential,Essential,biolord,BIOLORD,2,celleval,CellEval@K,100,0.2135779817
+ed5_essential,Essential,biolord,BIOLORD,2,celleval,CellEval@K,200,0.2273853211
+ed5_essential,Essential,biolord,BIOLORD,2,celleval,CellEval@K,500,0.09095412844
+ed5_essential,Essential,biolord,BIOLORD,3,panel,Panel@K,50,0.504608302
+ed5_essential,Essential,biolord,BIOLORD,3,panel,Panel@K,100,0.5206685439
+ed5_essential,Essential,biolord,BIOLORD,3,panel,Panel@K,200,0.5048016063
+ed5_essential,Essential,biolord,BIOLORD,3,panel,Panel@K,500,0.4566359779
+ed5_essential,Essential,biolord,BIOLORD,3,panel,Panel@K,1000,0.3999934031
+ed5_essential,Essential,biolord,BIOLORD,3,deg,DEG Top-K@K,50,0.1524770642
+ed5_essential,Essential,biolord,BIOLORD,3,deg,DEG Top-K@K,100,0.229266055
+ed5_essential,Essential,biolord,BIOLORD,3,deg,DEG Top-K@K,200,0.2825229358
+ed5_essential,Essential,biolord,BIOLORD,3,deg,DEG Top-K@K,500,0.3246422018
+ed5_essential,Essential,biolord,BIOLORD,3,celleval,CellEval@K,50,0.2111926606
+ed5_essential,Essential,biolord,BIOLORD,3,celleval,CellEval@K,100,0.2332110092
+ed5_essential,Essential,biolord,BIOLORD,3,celleval,CellEval@K,200,0.24
+ed5_essential,Essential,biolord,BIOLORD,3,celleval,CellEval@K,500,0.096
+ed5_essential,Essential,biolord,BIOLORD,4,panel,Panel@K,50,0.5014469641
+ed5_essential,Essential,biolord,BIOLORD,4,panel,Panel@K,100,0.5221496462
+ed5_essential,Essential,biolord,BIOLORD,4,panel,Panel@K,200,0.5056862981
+ed5_essential,Essential,biolord,BIOLORD,4,panel,Panel@K,500,0.455636325
+ed5_essential,Essential,biolord,BIOLORD,4,panel,Panel@K,1000,0.3915898253
+ed5_essential,Essential,biolord,BIOLORD,4,deg,DEG Top-K@K,50,0.1587155963
+ed5_essential,Essential,biolord,BIOLORD,4,deg,DEG Top-K@K,100,0.2278899083
+ed5_essential,Essential,biolord,BIOLORD,4,deg,DEG Top-K@K,200,0.2810091743
+ed5_essential,Essential,biolord,BIOLORD,4,deg,DEG Top-K@K,500,0.3184954128
+ed5_essential,Essential,biolord,BIOLORD,4,celleval,CellEval@K,50,0.2234862385
+ed5_essential,Essential,biolord,BIOLORD,4,celleval,CellEval@K,100,0.2411926606
+ed5_essential,Essential,biolord,BIOLORD,4,celleval,CellEval@K,200,0.2444495413
+ed5_essential,Essential,biolord,BIOLORD,4,celleval,CellEval@K,500,0.09777981651
+ed5_essential,Essential,biolord,BIOLORD,5,panel,Panel@K,50,0.4709701862
+ed5_essential,Essential,biolord,BIOLORD,5,panel,Panel@K,100,0.5040090064
+ed5_essential,Essential,biolord,BIOLORD,5,panel,Panel@K,200,0.5004373366
+ed5_essential,Essential,biolord,BIOLORD,5,panel,Panel@K,500,0.4469301409
+ed5_essential,Essential,biolord,BIOLORD,5,panel,Panel@K,1000,0.3864406671
+ed5_essential,Essential,biolord,BIOLORD,5,deg,DEG Top-K@K,50,0.148440367
+ed5_essential,Essential,biolord,BIOLORD,5,deg,DEG Top-K@K,100,0.2266055046
+ed5_essential,Essential,biolord,BIOLORD,5,deg,DEG Top-K@K,200,0.2732110092
+ed5_essential,Essential,biolord,BIOLORD,5,deg,DEG Top-K@K,500,0.3118715596
+ed5_essential,Essential,biolord,BIOLORD,5,celleval,CellEval@K,50,0.2062385321
+ed5_essential,Essential,biolord,BIOLORD,5,celleval,CellEval@K,100,0.2273394495
+ed5_essential,Essential,biolord,BIOLORD,5,celleval,CellEval@K,200,0.2325688073
+ed5_essential,Essential,biolord,BIOLORD,5,celleval,CellEval@K,500,0.09302752294
+ed5_essential,Essential,biolord,BIOLORD,6,panel,Panel@K,50,0.4594464575
+ed5_essential,Essential,biolord,BIOLORD,6,panel,Panel@K,100,0.4780035068
+ed5_essential,Essential,biolord,BIOLORD,6,panel,Panel@K,200,0.4705749754
+ed5_essential,Essential,biolord,BIOLORD,6,panel,Panel@K,500,0.4207604574
+ed5_essential,Essential,biolord,BIOLORD,6,panel,Panel@K,1000,0.3643334284
+ed5_essential,Essential,biolord,BIOLORD,6,deg,DEG Top-K@K,50,0.1440366972
+ed5_essential,Essential,biolord,BIOLORD,6,deg,DEG Top-K@K,100,0.2194495413
+ed5_essential,Essential,biolord,BIOLORD,6,deg,DEG Top-K@K,200,0.2724311927
+ed5_essential,Essential,biolord,BIOLORD,6,deg,DEG Top-K@K,500,0.3167889908
+ed5_essential,Essential,biolord,BIOLORD,6,celleval,CellEval@K,50,0.2209174312
+ed5_essential,Essential,biolord,BIOLORD,6,celleval,CellEval@K,100,0.2365137615
+ed5_essential,Essential,biolord,BIOLORD,6,celleval,CellEval@K,200,0.2366055046
+ed5_essential,Essential,biolord,BIOLORD,6,celleval,CellEval@K,500,0.09464220183
+ed5_essential,Essential,biolord,BIOLORD,7,panel,Panel@K,50,0.4672484774
+ed5_essential,Essential,biolord,BIOLORD,7,panel,Panel@K,100,0.4914616966
+ed5_essential,Essential,biolord,BIOLORD,7,panel,Panel@K,200,0.4855913003
+ed5_essential,Essential,biolord,BIOLORD,7,panel,Panel@K,500,0.4420834497
+ed5_essential,Essential,biolord,BIOLORD,7,panel,Panel@K,1000,0.3802701798
+ed5_essential,Essential,biolord,BIOLORD,7,deg,DEG Top-K@K,50,0.1466055046
+ed5_essential,Essential,biolord,BIOLORD,7,deg,DEG Top-K@K,100,0.2174311927
+ed5_essential,Essential,biolord,BIOLORD,7,deg,DEG Top-K@K,200,0.2726146789
+ed5_essential,Essential,biolord,BIOLORD,7,deg,DEG Top-K@K,500,0.314587156
+ed5_essential,Essential,biolord,BIOLORD,7,celleval,CellEval@K,50,0.207706422
+ed5_essential,Essential,biolord,BIOLORD,7,celleval,CellEval@K,100,0.228440367
+ed5_essential,Essential,biolord,BIOLORD,7,celleval,CellEval@K,200,0.2364220183
+ed5_essential,Essential,biolord,BIOLORD,7,celleval,CellEval@K,500,0.09456880734
+ed5_essential,Essential,biolord,BIOLORD,8,panel,Panel@K,50,0.5340180843
+ed5_essential,Essential,biolord,BIOLORD,8,panel,Panel@K,100,0.5452136406
+ed5_essential,Essential,biolord,BIOLORD,8,panel,Panel@K,200,0.5271316324
+ed5_essential,Essential,biolord,BIOLORD,8,panel,Panel@K,500,0.4671579643
+ed5_essential,Essential,biolord,BIOLORD,8,panel,Panel@K,1000,0.4002688767
+ed5_essential,Essential,biolord,BIOLORD,8,deg,DEG Top-K@K,50,0.1649541284
+ed5_essential,Essential,biolord,BIOLORD,8,deg,DEG Top-K@K,100,0.2432110092
+ed5_essential,Essential,biolord,BIOLORD,8,deg,DEG Top-K@K,200,0.2871100917
+ed5_essential,Essential,biolord,BIOLORD,8,deg,DEG Top-K@K,500,0.3236330275
+ed5_essential,Essential,biolord,BIOLORD,8,celleval,CellEval@K,50,0.232293578
+ed5_essential,Essential,biolord,BIOLORD,8,celleval,CellEval@K,100,0.2544036697
+ed5_essential,Essential,biolord,BIOLORD,8,celleval,CellEval@K,200,0.2511926606
+ed5_essential,Essential,biolord,BIOLORD,8,celleval,CellEval@K,500,0.1004770642
+ed5_essential,Essential,biolord,BIOLORD,9,panel,Panel@K,50,0.5080304415
+ed5_essential,Essential,biolord,BIOLORD,9,panel,Panel@K,100,0.5274152002
+ed5_essential,Essential,biolord,BIOLORD,9,panel,Panel@K,200,0.5198710243
+ed5_essential,Essential,biolord,BIOLORD,9,panel,Panel@K,500,0.4694092799
+ed5_essential,Essential,biolord,BIOLORD,9,panel,Panel@K,1000,0.4065927229
+ed5_essential,Essential,biolord,BIOLORD,9,deg,DEG Top-K@K,50,0.1478899083
+ed5_essential,Essential,biolord,BIOLORD,9,deg,DEG Top-K@K,100,0.2223853211
+ed5_essential,Essential,biolord,BIOLORD,9,deg,DEG Top-K@K,200,0.2741284404
+ed5_essential,Essential,biolord,BIOLORD,9,deg,DEG Top-K@K,500,0.3207155963
+ed5_essential,Essential,biolord,BIOLORD,9,celleval,CellEval@K,50,0.2067889908
+ed5_essential,Essential,biolord,BIOLORD,9,celleval,CellEval@K,100,0.2330275229
+ed5_essential,Essential,biolord,BIOLORD,9,celleval,CellEval@K,200,0.2379816514
+ed5_essential,Essential,biolord,BIOLORD,9,celleval,CellEval@K,500,0.09519266055
+ed5_essential,Essential,state,STATE,0,panel,Panel@K,50,0.2545744903
+ed5_essential,Essential,state,STATE,0,panel,Panel@K,100,0.2722452429
+ed5_essential,Essential,state,STATE,0,panel,Panel@K,200,0.2833448497
+ed5_essential,Essential,state,STATE,0,panel,Panel@K,500,0.2621689089
+ed5_essential,Essential,state,STATE,0,panel,Panel@K,1000,0.2163917888
+ed5_essential,Essential,state,STATE,0,deg,DEG Top-K@K,50,0.07211009174
+ed5_essential,Essential,state,STATE,0,deg,DEG Top-K@K,100,0.1074311927
+ed5_essential,Essential,state,STATE,0,deg,DEG Top-K@K,200,0.1541284404
+ed5_essential,Essential,state,STATE,0,deg,DEG Top-K@K,500,0.2226788991
+ed5_essential,Essential,state,STATE,0,celleval,CellEval@K,50,0.04770642202
+ed5_essential,Essential,state,STATE,0,celleval,CellEval@K,100,0.08027522936
+ed5_essential,Essential,state,STATE,0,celleval,CellEval@K,200,0.1210091743
+ed5_essential,Essential,state,STATE,0,celleval,CellEval@K,500,0.04840366972
+ed5_essential,Essential,state,STATE,1,panel,Panel@K,50,0.3290668194
+ed5_essential,Essential,state,STATE,1,panel,Panel@K,100,0.3505975552
+ed5_essential,Essential,state,STATE,1,panel,Panel@K,200,0.3531132177
+ed5_essential,Essential,state,STATE,1,panel,Panel@K,500,0.3205982365
+ed5_essential,Essential,state,STATE,1,panel,Panel@K,1000,0.2723663838
+ed5_essential,Essential,state,STATE,1,deg,DEG Top-K@K,50,0.1086238532
+ed5_essential,Essential,state,STATE,1,deg,DEG Top-K@K,100,0.142293578
+ed5_essential,Essential,state,STATE,1,deg,DEG Top-K@K,200,0.1813761468
+ed5_essential,Essential,state,STATE,1,deg,DEG Top-K@K,500,0.2458165138
+ed5_essential,Essential,state,STATE,1,celleval,CellEval@K,50,0.06495412844
+ed5_essential,Essential,state,STATE,1,celleval,CellEval@K,100,0.1012844037
+ed5_essential,Essential,state,STATE,1,celleval,CellEval@K,200,0.1421100917
+ed5_essential,Essential,state,STATE,1,celleval,CellEval@K,500,0.0568440367
+ed5_essential,Essential,state,STATE,2,panel,Panel@K,50,0.1730176515
+ed5_essential,Essential,state,STATE,2,panel,Panel@K,100,0.1899625518
+ed5_essential,Essential,state,STATE,2,panel,Panel@K,200,0.1891163529
+ed5_essential,Essential,state,STATE,2,panel,Panel@K,500,0.1750213605
+ed5_essential,Essential,state,STATE,2,panel,Panel@K,1000,0.1543585622
+ed5_essential,Essential,state,STATE,2,deg,DEG Top-K@K,50,0.1125925926
+ed5_essential,Essential,state,STATE,2,deg,DEG Top-K@K,100,0.144537037
+ed5_essential,Essential,state,STATE,2,deg,DEG Top-K@K,200,0.1851388889
+ed5_essential,Essential,state,STATE,2,deg,DEG Top-K@K,500,0.2509444444
+ed5_essential,Essential,state,STATE,2,celleval,CellEval@K,50,0.09111111111
+ed5_essential,Essential,state,STATE,2,celleval,CellEval@K,100,0.1337962963
+ed5_essential,Essential,state,STATE,2,celleval,CellEval@K,200,0.166712963
+ed5_essential,Essential,state,STATE,2,celleval,CellEval@K,500,0.06668518519
+ed5_essential,Essential,state,STATE,3,panel,Panel@K,50,0.3176532264
+ed5_essential,Essential,state,STATE,3,panel,Panel@K,100,0.3251344217
+ed5_essential,Essential,state,STATE,3,panel,Panel@K,200,0.3194376786
+ed5_essential,Essential,state,STATE,3,panel,Panel@K,500,0.2928519994
+ed5_essential,Essential,state,STATE,3,panel,Panel@K,1000,0.2519434027
+ed5_essential,Essential,state,STATE,3,deg,DEG Top-K@K,50,0.1251376147
+ed5_essential,Essential,state,STATE,3,deg,DEG Top-K@K,100,0.1520183486
+ed5_essential,Essential,state,STATE,3,deg,DEG Top-K@K,200,0.1897247706
+ed5_essential,Essential,state,STATE,3,deg,DEG Top-K@K,500,0.2513211009
+ed5_essential,Essential,state,STATE,3,celleval,CellEval@K,50,0.08385321101
+ed5_essential,Essential,state,STATE,3,celleval,CellEval@K,100,0.116146789
+ed5_essential,Essential,state,STATE,3,celleval,CellEval@K,200,0.1541743119
+ed5_essential,Essential,state,STATE,3,celleval,CellEval@K,500,0.06166972477
+ed5_essential,Essential,state,STATE,4,panel,Panel@K,50,0.2652074163
+ed5_essential,Essential,state,STATE,4,panel,Panel@K,100,0.2671990532
+ed5_essential,Essential,state,STATE,4,panel,Panel@K,200,0.2599477487
+ed5_essential,Essential,state,STATE,4,panel,Panel@K,500,0.2366971023
+ed5_essential,Essential,state,STATE,4,panel,Panel@K,1000,0.2015407748
+ed5_essential,Essential,state,STATE,4,deg,DEG Top-K@K,50,0.1
+ed5_essential,Essential,state,STATE,4,deg,DEG Top-K@K,100,0.1216666667
+ed5_essential,Essential,state,STATE,4,deg,DEG Top-K@K,200,0.1561574074
+ed5_essential,Essential,state,STATE,4,deg,DEG Top-K@K,500,0.2205
+ed5_essential,Essential,state,STATE,4,celleval,CellEval@K,50,0.05796296296
+ed5_essential,Essential,state,STATE,4,celleval,CellEval@K,100,0.08435185185
+ed5_essential,Essential,state,STATE,4,celleval,CellEval@K,200,0.1183796296
+ed5_essential,Essential,state,STATE,4,celleval,CellEval@K,500,0.04735185185
+ed5_essential,Essential,state,STATE,5,panel,Panel@K,50,0.3262261969
+ed5_essential,Essential,state,STATE,5,panel,Panel@K,100,0.3571910586
+ed5_essential,Essential,state,STATE,5,panel,Panel@K,200,0.3589015735
+ed5_essential,Essential,state,STATE,5,panel,Panel@K,500,0.3299092046
+ed5_essential,Essential,state,STATE,5,panel,Panel@K,1000,0.2941040584
+ed5_essential,Essential,state,STATE,5,deg,DEG Top-K@K,50,0.1678899083
+ed5_essential,Essential,state,STATE,5,deg,DEG Top-K@K,100,0.1917431193
+ed5_essential,Essential,state,STATE,5,deg,DEG Top-K@K,200,0.2248165138
+ed5_essential,Essential,state,STATE,5,deg,DEG Top-K@K,500,0.2898165138
+ed5_essential,Essential,state,STATE,5,celleval,CellEval@K,50,0.1080733945
+ed5_essential,Essential,state,STATE,5,celleval,CellEval@K,100,0.1488990826
+ed5_essential,Essential,state,STATE,5,celleval,CellEval@K,200,0.1930733945
+ed5_essential,Essential,state,STATE,5,celleval,CellEval@K,500,0.0772293578
+ed5_essential,Essential,state,STATE,6,panel,Panel@K,50,0.3716647026
+ed5_essential,Essential,state,STATE,6,panel,Panel@K,100,0.3959293911
+ed5_essential,Essential,state,STATE,6,panel,Panel@K,200,0.4030122267
+ed5_essential,Essential,state,STATE,6,panel,Panel@K,500,0.3660183962
+ed5_essential,Essential,state,STATE,6,panel,Panel@K,1000,0.3117427338
+ed5_essential,Essential,state,STATE,6,deg,DEG Top-K@K,50,0.1139449541
+ed5_essential,Essential,state,STATE,6,deg,DEG Top-K@K,100,0.1611009174
+ed5_essential,Essential,state,STATE,6,deg,DEG Top-K@K,200,0.2159633028
+ed5_essential,Essential,state,STATE,6,deg,DEG Top-K@K,500,0.2765504587
+ed5_essential,Essential,state,STATE,6,celleval,CellEval@K,50,0.06256880734
+ed5_essential,Essential,state,STATE,6,celleval,CellEval@K,100,0.104587156
+ed5_essential,Essential,state,STATE,6,celleval,CellEval@K,200,0.1563302752
+ed5_essential,Essential,state,STATE,6,celleval,CellEval@K,500,0.06253211009
+ed5_essential,Essential,state,STATE,7,panel,Panel@K,50,0.09509609348
+ed5_essential,Essential,state,STATE,7,panel,Panel@K,100,0.101424014
+ed5_essential,Essential,state,STATE,7,panel,Panel@K,200,0.1030836367
+ed5_essential,Essential,state,STATE,7,panel,Panel@K,500,0.09505789627
+ed5_essential,Essential,state,STATE,7,panel,Panel@K,1000,0.07725400962
+ed5_essential,Essential,state,STATE,7,deg,DEG Top-K@K,50,0.04348623853
+ed5_essential,Essential,state,STATE,7,deg,DEG Top-K@K,100,0.07082568807
+ed5_essential,Essential,state,STATE,7,deg,DEG Top-K@K,200,0.105
+ed5_essential,Essential,state,STATE,7,deg,DEG Top-K@K,500,0.1818899083
+ed5_essential,Essential,state,STATE,7,celleval,CellEval@K,50,0.03211009174
+ed5_essential,Essential,state,STATE,7,celleval,CellEval@K,100,0.05220183486
+ed5_essential,Essential,state,STATE,7,celleval,CellEval@K,200,0.08775229358
+ed5_essential,Essential,state,STATE,7,celleval,CellEval@K,500,0.03510091743
+ed5_essential,Essential,state,STATE,8,panel,Panel@K,50,0.3228026164
+ed5_essential,Essential,state,STATE,8,panel,Panel@K,100,0.3481810611
+ed5_essential,Essential,state,STATE,8,panel,Panel@K,200,0.3771370733
+ed5_essential,Essential,state,STATE,8,panel,Panel@K,500,0.3771723863
+ed5_essential,Essential,state,STATE,8,panel,Panel@K,1000,0.3320403918
+ed5_essential,Essential,state,STATE,8,deg,DEG Top-K@K,50,0.09588785047
+ed5_essential,Essential,state,STATE,8,deg,DEG Top-K@K,100,0.1506542056
+ed5_essential,Essential,state,STATE,8,deg,DEG Top-K@K,200,0.2062149533
+ed5_essential,Essential,state,STATE,8,deg,DEG Top-K@K,500,0.2803551402
+ed5_essential,Essential,state,STATE,8,celleval,CellEval@K,50,0.05813084112
+ed5_essential,Essential,state,STATE,8,celleval,CellEval@K,100,0.1023364486
+ed5_essential,Essential,state,STATE,8,celleval,CellEval@K,200,0.1543925234
+ed5_essential,Essential,state,STATE,8,celleval,CellEval@K,500,0.06175700935
+ed5_essential,Essential,state,STATE,9,panel,Panel@K,50,0.05360485479
+ed5_essential,Essential,state,STATE,9,panel,Panel@K,100,0.08120199176
+ed5_essential,Essential,state,STATE,9,panel,Panel@K,200,0.1124703622
+ed5_essential,Essential,state,STATE,9,panel,Panel@K,500,0.1268515465
+ed5_essential,Essential,state,STATE,9,panel,Panel@K,1000,0.1128649467
+ed5_essential,Essential,state,STATE,9,deg,DEG Top-K@K,50,0.06146788991
+ed5_essential,Essential,state,STATE,9,deg,DEG Top-K@K,100,0.08669724771
+ed5_essential,Essential,state,STATE,9,deg,DEG Top-K@K,200,0.1288073394
+ed5_essential,Essential,state,STATE,9,deg,DEG Top-K@K,500,0.2032293578
+ed5_essential,Essential,state,STATE,9,celleval,CellEval@K,50,0.0423853211
+ed5_essential,Essential,state,STATE,9,celleval,CellEval@K,100,0.06623853211
+ed5_essential,Essential,state,STATE,9,celleval,CellEval@K,200,0.1003211009
+ed5_essential,Essential,state,STATE,9,celleval,CellEval@K,500,0.04012844037
+ed5_essential,Essential,train_mean,Mean,0,panel,Panel@K,50,0.535127372
+ed5_essential,Essential,train_mean,Mean,0,panel,Panel@K,100,0.5578054319
+ed5_essential,Essential,train_mean,Mean,0,panel,Panel@K,200,0.5654463196
+ed5_essential,Essential,train_mean,Mean,0,panel,Panel@K,500,0.5213800954
+ed5_essential,Essential,train_mean,Mean,0,panel,Panel@K,1000,0.4559576521
+ed5_essential,Essential,train_mean,Mean,0,deg,DEG Top-K@K,50,0.1955963303
+ed5_essential,Essential,train_mean,Mean,0,deg,DEG Top-K@K,100,0.2452293578
+ed5_essential,Essential,train_mean,Mean,0,deg,DEG Top-K@K,200,0.2858715596
+ed5_essential,Essential,train_mean,Mean,0,deg,DEG Top-K@K,500,0.3311376147
+ed5_essential,Essential,train_mean,Mean,0,celleval,CellEval@K,50,0.1179816514
+ed5_essential,Essential,train_mean,Mean,0,celleval,CellEval@K,100,0.1733027523
+ed5_essential,Essential,train_mean,Mean,0,celleval,CellEval@K,200,0.2102293578
+ed5_essential,Essential,train_mean,Mean,0,celleval,CellEval@K,500,0.08409174312
+ed5_essential,Essential,train_mean,Mean,1,panel,Panel@K,50,0.5156060222
+ed5_essential,Essential,train_mean,Mean,1,panel,Panel@K,100,0.5424844136
+ed5_essential,Essential,train_mean,Mean,1,panel,Panel@K,200,0.5440742395
+ed5_essential,Essential,train_mean,Mean,1,panel,Panel@K,500,0.4973159407
+ed5_essential,Essential,train_mean,Mean,1,panel,Panel@K,1000,0.4350611614
+ed5_essential,Essential,train_mean,Mean,1,deg,DEG Top-K@K,50,0.1759633028
+ed5_essential,Essential,train_mean,Mean,1,deg,DEG Top-K@K,100,0.2293577982
+ed5_essential,Essential,train_mean,Mean,1,deg,DEG Top-K@K,200,0.2712844037
+ed5_essential,Essential,train_mean,Mean,1,deg,DEG Top-K@K,500,0.3249541284
+ed5_essential,Essential,train_mean,Mean,1,celleval,CellEval@K,50,0.1044036697
+ed5_essential,Essential,train_mean,Mean,1,celleval,CellEval@K,100,0.1589908257
+ed5_essential,Essential,train_mean,Mean,1,celleval,CellEval@K,200,0.197706422
+ed5_essential,Essential,train_mean,Mean,1,celleval,CellEval@K,500,0.07908256881
+ed5_essential,Essential,train_mean,Mean,2,panel,Panel@K,50,0.5039466062
+ed5_essential,Essential,train_mean,Mean,2,panel,Panel@K,100,0.536433937
+ed5_essential,Essential,train_mean,Mean,2,panel,Panel@K,200,0.5362716361
+ed5_essential,Essential,train_mean,Mean,2,panel,Panel@K,500,0.4907177136
+ed5_essential,Essential,train_mean,Mean,2,panel,Panel@K,1000,0.4272257888
+ed5_essential,Essential,train_mean,Mean,2,deg,DEG Top-K@K,50,0.1866055046
+ed5_essential,Essential,train_mean,Mean,2,deg,DEG Top-K@K,100,0.2341284404
+ed5_essential,Essential,train_mean,Mean,2,deg,DEG Top-K@K,200,0.2677981651
+ed5_essential,Essential,train_mean,Mean,2,deg,DEG Top-K@K,500,0.3247522936
+ed5_essential,Essential,train_mean,Mean,2,celleval,CellEval@K,50,0.1044036697
+ed5_essential,Essential,train_mean,Mean,2,celleval,CellEval@K,100,0.1563302752
+ed5_essential,Essential,train_mean,Mean,2,celleval,CellEval@K,200,0.190412844
+ed5_essential,Essential,train_mean,Mean,2,celleval,CellEval@K,500,0.07616513761
+ed5_essential,Essential,train_mean,Mean,3,panel,Panel@K,50,0.5419108561
+ed5_essential,Essential,train_mean,Mean,3,panel,Panel@K,100,0.5614114072
+ed5_essential,Essential,train_mean,Mean,3,panel,Panel@K,200,0.5556719927
+ed5_essential,Essential,train_mean,Mean,3,panel,Panel@K,500,0.5062377276
+ed5_essential,Essential,train_mean,Mean,3,panel,Panel@K,1000,0.4430299867
+ed5_essential,Essential,train_mean,Mean,3,deg,DEG Top-K@K,50,0.192293578
+ed5_essential,Essential,train_mean,Mean,3,deg,DEG Top-K@K,100,0.2410091743
+ed5_essential,Essential,train_mean,Mean,3,deg,DEG Top-K@K,200,0.2825229358
+ed5_essential,Essential,train_mean,Mean,3,deg,DEG Top-K@K,500,0.3344036697
+ed5_essential,Essential,train_mean,Mean,3,celleval,CellEval@K,50,0.1139449541
+ed5_essential,Essential,train_mean,Mean,3,celleval,CellEval@K,100,0.1630275229
+ed5_essential,Essential,train_mean,Mean,3,celleval,CellEval@K,200,0.2039908257
+ed5_essential,Essential,train_mean,Mean,3,celleval,CellEval@K,500,0.08159633028
+ed5_essential,Essential,train_mean,Mean,4,panel,Panel@K,50,0.536258687
+ed5_essential,Essential,train_mean,Mean,4,panel,Panel@K,100,0.5482980592
+ed5_essential,Essential,train_mean,Mean,4,panel,Panel@K,200,0.5403649633
+ed5_essential,Essential,train_mean,Mean,4,panel,Panel@K,500,0.4938070069
+ed5_essential,Essential,train_mean,Mean,4,panel,Panel@K,1000,0.4274077382
+ed5_essential,Essential,train_mean,Mean,4,deg,DEG Top-K@K,50,0.1735779817
+ed5_essential,Essential,train_mean,Mean,4,deg,DEG Top-K@K,100,0.2332110092
+ed5_essential,Essential,train_mean,Mean,4,deg,DEG Top-K@K,200,0.2764220183
+ed5_essential,Essential,train_mean,Mean,4,deg,DEG Top-K@K,500,0.3276697248
+ed5_essential,Essential,train_mean,Mean,4,celleval,CellEval@K,50,0.1106422018
+ed5_essential,Essential,train_mean,Mean,4,celleval,CellEval@K,100,0.1613761468
+ed5_essential,Essential,train_mean,Mean,4,celleval,CellEval@K,200,0.2011009174
+ed5_essential,Essential,train_mean,Mean,4,celleval,CellEval@K,500,0.08044036697
+ed5_essential,Essential,train_mean,Mean,5,panel,Panel@K,50,0.5048708658
+ed5_essential,Essential,train_mean,Mean,5,panel,Panel@K,100,0.5392825154
+ed5_essential,Essential,train_mean,Mean,5,panel,Panel@K,200,0.5387757217
+ed5_essential,Essential,train_mean,Mean,5,panel,Panel@K,500,0.4854412137
+ed5_essential,Essential,train_mean,Mean,5,panel,Panel@K,1000,0.4216268314
+ed5_essential,Essential,train_mean,Mean,5,deg,DEG Top-K@K,50,0.1833027523
+ed5_essential,Essential,train_mean,Mean,5,deg,DEG Top-K@K,100,0.2341284404
+ed5_essential,Essential,train_mean,Mean,5,deg,DEG Top-K@K,200,0.2679357798
+ed5_essential,Essential,train_mean,Mean,5,deg,DEG Top-K@K,500,0.3193394495
+ed5_essential,Essential,train_mean,Mean,5,celleval,CellEval@K,50,0.1049541284
+ed5_essential,Essential,train_mean,Mean,5,celleval,CellEval@K,100,0.1577981651
+ed5_essential,Essential,train_mean,Mean,5,celleval,CellEval@K,200,0.1944036697
+ed5_essential,Essential,train_mean,Mean,5,celleval,CellEval@K,500,0.07776146789
+ed5_essential,Essential,train_mean,Mean,6,panel,Panel@K,50,0.4795079133
+ed5_essential,Essential,train_mean,Mean,6,panel,Panel@K,100,0.5069985164
+ed5_essential,Essential,train_mean,Mean,6,panel,Panel@K,200,0.5078163927
+ed5_essential,Essential,train_mean,Mean,6,panel,Panel@K,500,0.4604101845
+ed5_essential,Essential,train_mean,Mean,6,panel,Panel@K,1000,0.4011877984
+ed5_essential,Essential,train_mean,Mean,6,deg,DEG Top-K@K,50,0.1671559633
+ed5_essential,Essential,train_mean,Mean,6,deg,DEG Top-K@K,100,0.2146788991
+ed5_essential,Essential,train_mean,Mean,6,deg,DEG Top-K@K,200,0.2630733945
+ed5_essential,Essential,train_mean,Mean,6,deg,DEG Top-K@K,500,0.3196880734
+ed5_essential,Essential,train_mean,Mean,6,celleval,CellEval@K,50,0.09669724771
+ed5_essential,Essential,train_mean,Mean,6,celleval,CellEval@K,100,0.1449541284
+ed5_essential,Essential,train_mean,Mean,6,celleval,CellEval@K,200,0.1901376147
+ed5_essential,Essential,train_mean,Mean,6,celleval,CellEval@K,500,0.07605504587
+ed5_essential,Essential,train_mean,Mean,7,panel,Panel@K,50,0.4872482571
+ed5_essential,Essential,train_mean,Mean,7,panel,Panel@K,100,0.5198089717
+ed5_essential,Essential,train_mean,Mean,7,panel,Panel@K,200,0.5224552586
+ed5_essential,Essential,train_mean,Mean,7,panel,Panel@K,500,0.4785383202
+ed5_essential,Essential,train_mean,Mean,7,panel,Panel@K,1000,0.4159409354
+ed5_essential,Essential,train_mean,Mean,7,deg,DEG Top-K@K,50,0.1735779817
+ed5_essential,Essential,train_mean,Mean,7,deg,DEG Top-K@K,100,0.2272477064
+ed5_essential,Essential,train_mean,Mean,7,deg,DEG Top-K@K,200,0.2723394495
+ed5_essential,Essential,train_mean,Mean,7,deg,DEG Top-K@K,500,0.3225504587
+ed5_essential,Essential,train_mean,Mean,7,celleval,CellEval@K,50,0.1132110092
+ed5_essential,Essential,train_mean,Mean,7,celleval,CellEval@K,100,0.1620183486
+ed5_essential,Essential,train_mean,Mean,7,celleval,CellEval@K,200,0.2013302752
+ed5_essential,Essential,train_mean,Mean,7,celleval,CellEval@K,500,0.08053211009
+ed5_essential,Essential,train_mean,Mean,8,panel,Panel@K,50,0.5450889347
+ed5_essential,Essential,train_mean,Mean,8,panel,Panel@K,100,0.5598266983
+ed5_essential,Essential,train_mean,Mean,8,panel,Panel@K,200,0.5518767465
+ed5_essential,Essential,train_mean,Mean,8,panel,Panel@K,500,0.5006355133
+ed5_essential,Essential,train_mean,Mean,8,panel,Panel@K,1000,0.4348304875
+ed5_essential,Essential,train_mean,Mean,8,deg,DEG Top-K@K,50,0.1812844037
+ed5_essential,Essential,train_mean,Mean,8,deg,DEG Top-K@K,100,0.2279816514
+ed5_essential,Essential,train_mean,Mean,8,deg,DEG Top-K@K,200,0.2732110092
+ed5_essential,Essential,train_mean,Mean,8,deg,DEG Top-K@K,500,0.325853211
+ed5_essential,Essential,train_mean,Mean,8,celleval,CellEval@K,50,0.1053211009
+ed5_essential,Essential,train_mean,Mean,8,celleval,CellEval@K,100,0.1611926606
+ed5_essential,Essential,train_mean,Mean,8,celleval,CellEval@K,200,0.2030733945
+ed5_essential,Essential,train_mean,Mean,8,celleval,CellEval@K,500,0.0812293578
+ed5_essential,Essential,train_mean,Mean,9,panel,Panel@K,50,0.5429082459
+ed5_essential,Essential,train_mean,Mean,9,panel,Panel@K,100,0.5646988552
+ed5_essential,Essential,train_mean,Mean,9,panel,Panel@K,200,0.5625579355
+ed5_essential,Essential,train_mean,Mean,9,panel,Panel@K,500,0.5108000014
+ed5_essential,Essential,train_mean,Mean,9,panel,Panel@K,1000,0.4445831742
+ed5_essential,Essential,train_mean,Mean,9,deg,DEG Top-K@K,50,0.179266055
+ed5_essential,Essential,train_mean,Mean,9,deg,DEG Top-K@K,100,0.2278899083
+ed5_essential,Essential,train_mean,Mean,9,deg,DEG Top-K@K,200,0.2736238532
+ed5_essential,Essential,train_mean,Mean,9,deg,DEG Top-K@K,500,0.3272477064
+ed5_essential,Essential,train_mean,Mean,9,celleval,CellEval@K,50,0.1143119266
+ed5_essential,Essential,train_mean,Mean,9,celleval,CellEval@K,100,0.155412844
+ed5_essential,Essential,train_mean,Mean,9,celleval,CellEval@K,200,0.201146789
+ed5_essential,Essential,train_mean,Mean,9,celleval,CellEval@K,500,0.0804587156
+ed5_essential,Essential,ridge_esm,Ridge,0,panel,Panel@K,50,0.2487936826
+ed5_essential,Essential,ridge_esm,Ridge,0,panel,Panel@K,100,0.2590689161
+ed5_essential,Essential,ridge_esm,Ridge,0,panel,Panel@K,200,0.2606978064
+ed5_essential,Essential,ridge_esm,Ridge,0,panel,Panel@K,500,0.2363656298
+ed5_essential,Essential,ridge_esm,Ridge,0,panel,Panel@K,1000,0.2006691918
+ed5_essential,Essential,ridge_esm,Ridge,0,deg,DEG Top-K@K,50,0.1644036697
+ed5_essential,Essential,ridge_esm,Ridge,0,deg,DEG Top-K@K,100,0.1935779817
+ed5_essential,Essential,ridge_esm,Ridge,0,deg,DEG Top-K@K,200,0.227293578
+ed5_essential,Essential,ridge_esm,Ridge,0,deg,DEG Top-K@K,500,0.2861651376
+ed5_essential,Essential,ridge_esm,Ridge,0,celleval,CellEval@K,50,0.112293578
+ed5_essential,Essential,ridge_esm,Ridge,0,celleval,CellEval@K,100,0.1510091743
+ed5_essential,Essential,ridge_esm,Ridge,0,celleval,CellEval@K,200,0.1842201835
+ed5_essential,Essential,ridge_esm,Ridge,0,celleval,CellEval@K,500,0.07368807339
+ed5_essential,Essential,ridge_esm,Ridge,1,panel,Panel@K,50,0.2233197132
+ed5_essential,Essential,ridge_esm,Ridge,1,panel,Panel@K,100,0.2299491601
+ed5_essential,Essential,ridge_esm,Ridge,1,panel,Panel@K,200,0.2198973231
+ed5_essential,Essential,ridge_esm,Ridge,1,panel,Panel@K,500,0.1919975595
+ed5_essential,Essential,ridge_esm,Ridge,1,panel,Panel@K,1000,0.1592655922
+ed5_essential,Essential,ridge_esm,Ridge,1,deg,DEG Top-K@K,50,0.1491743119
+ed5_essential,Essential,ridge_esm,Ridge,1,deg,DEG Top-K@K,100,0.1727522936
+ed5_essential,Essential,ridge_esm,Ridge,1,deg,DEG Top-K@K,200,0.2100917431
+ed5_essential,Essential,ridge_esm,Ridge,1,deg,DEG Top-K@K,500,0.272733945
+ed5_essential,Essential,ridge_esm,Ridge,1,celleval,CellEval@K,50,0.1119266055
+ed5_essential,Essential,ridge_esm,Ridge,1,celleval,CellEval@K,100,0.140733945
+ed5_essential,Essential,ridge_esm,Ridge,1,celleval,CellEval@K,200,0.1702293578
+ed5_essential,Essential,ridge_esm,Ridge,1,celleval,CellEval@K,500,0.06809174312
+ed5_essential,Essential,ridge_esm,Ridge,2,panel,Panel@K,50,0.2545692038
+ed5_essential,Essential,ridge_esm,Ridge,2,panel,Panel@K,100,0.2647087094
+ed5_essential,Essential,ridge_esm,Ridge,2,panel,Panel@K,200,0.2617455069
+ed5_essential,Essential,ridge_esm,Ridge,2,panel,Panel@K,500,0.2362226905
+ed5_essential,Essential,ridge_esm,Ridge,2,panel,Panel@K,1000,0.2009980851
+ed5_essential,Essential,ridge_esm,Ridge,2,deg,DEG Top-K@K,50,0.1519266055
+ed5_essential,Essential,ridge_esm,Ridge,2,deg,DEG Top-K@K,100,0.1770642202
+ed5_essential,Essential,ridge_esm,Ridge,2,deg,DEG Top-K@K,200,0.2176146789
+ed5_essential,Essential,ridge_esm,Ridge,2,deg,DEG Top-K@K,500,0.2799816514
+ed5_essential,Essential,ridge_esm,Ridge,2,celleval,CellEval@K,50,0.1023853211
+ed5_essential,Essential,ridge_esm,Ridge,2,celleval,CellEval@K,100,0.1348623853
+ed5_essential,Essential,ridge_esm,Ridge,2,celleval,CellEval@K,200,0.1691284404
+ed5_essential,Essential,ridge_esm,Ridge,2,celleval,CellEval@K,500,0.06765137615
+ed5_essential,Essential,ridge_esm,Ridge,3,panel,Panel@K,50,0.276491514
+ed5_essential,Essential,ridge_esm,Ridge,3,panel,Panel@K,100,0.2861475872
+ed5_essential,Essential,ridge_esm,Ridge,3,panel,Panel@K,200,0.279080766
+ed5_essential,Essential,ridge_esm,Ridge,3,panel,Panel@K,500,0.24510616
+ed5_essential,Essential,ridge_esm,Ridge,3,panel,Panel@K,1000,0.2098192582
+ed5_essential,Essential,ridge_esm,Ridge,3,deg,DEG Top-K@K,50,0.1664220183
+ed5_essential,Essential,ridge_esm,Ridge,3,deg,DEG Top-K@K,100,0.186146789
+ed5_essential,Essential,ridge_esm,Ridge,3,deg,DEG Top-K@K,200,0.2225229358
+ed5_essential,Essential,ridge_esm,Ridge,3,deg,DEG Top-K@K,500,0.284587156
+ed5_essential,Essential,ridge_esm,Ridge,3,celleval,CellEval@K,50,0.1218348624
+ed5_essential,Essential,ridge_esm,Ridge,3,celleval,CellEval@K,100,0.1503669725
+ed5_essential,Essential,ridge_esm,Ridge,3,celleval,CellEval@K,200,0.1791743119
+ed5_essential,Essential,ridge_esm,Ridge,3,celleval,CellEval@K,500,0.07166972477
+ed5_essential,Essential,ridge_esm,Ridge,4,panel,Panel@K,50,0.2803691752
+ed5_essential,Essential,ridge_esm,Ridge,4,panel,Panel@K,100,0.2899028618
+ed5_essential,Essential,ridge_esm,Ridge,4,panel,Panel@K,200,0.277585669
+ed5_essential,Essential,ridge_esm,Ridge,4,panel,Panel@K,500,0.2449386349
+ed5_essential,Essential,ridge_esm,Ridge,4,panel,Panel@K,1000,0.2053919703
+ed5_essential,Essential,ridge_esm,Ridge,4,deg,DEG Top-K@K,50,0.164587156
+ed5_essential,Essential,ridge_esm,Ridge,4,deg,DEG Top-K@K,100,0.1895412844
+ed5_essential,Essential,ridge_esm,Ridge,4,deg,DEG Top-K@K,200,0.2235779817
+ed5_essential,Essential,ridge_esm,Ridge,4,deg,DEG Top-K@K,500,0.2815779817
+ed5_essential,Essential,ridge_esm,Ridge,4,celleval,CellEval@K,50,0.1249541284
+ed5_essential,Essential,ridge_esm,Ridge,4,celleval,CellEval@K,100,0.1557798165
+ed5_essential,Essential,ridge_esm,Ridge,4,celleval,CellEval@K,200,0.1833486239
+ed5_essential,Essential,ridge_esm,Ridge,4,celleval,CellEval@K,500,0.07333944954
+ed5_essential,Essential,ridge_esm,Ridge,5,panel,Panel@K,50,0.2683088648
+ed5_essential,Essential,ridge_esm,Ridge,5,panel,Panel@K,100,0.2775192749
+ed5_essential,Essential,ridge_esm,Ridge,5,panel,Panel@K,200,0.2685294747
+ed5_essential,Essential,ridge_esm,Ridge,5,panel,Panel@K,500,0.2375411827
+ed5_essential,Essential,ridge_esm,Ridge,5,panel,Panel@K,1000,0.1980293537
+ed5_essential,Essential,ridge_esm,Ridge,5,deg,DEG Top-K@K,50,0.1555963303
+ed5_essential,Essential,ridge_esm,Ridge,5,deg,DEG Top-K@K,100,0.1833027523
+ed5_essential,Essential,ridge_esm,Ridge,5,deg,DEG Top-K@K,200,0.2179357798
+ed5_essential,Essential,ridge_esm,Ridge,5,deg,DEG Top-K@K,500,0.2748073394
+ed5_essential,Essential,ridge_esm,Ridge,5,celleval,CellEval@K,50,0.1185321101
+ed5_essential,Essential,ridge_esm,Ridge,5,celleval,CellEval@K,100,0.1436697248
+ed5_essential,Essential,ridge_esm,Ridge,5,celleval,CellEval@K,200,0.1746788991
+ed5_essential,Essential,ridge_esm,Ridge,5,celleval,CellEval@K,500,0.06987155963
+ed5_essential,Essential,ridge_esm,Ridge,6,panel,Panel@K,50,0.261782658
+ed5_essential,Essential,ridge_esm,Ridge,6,panel,Panel@K,100,0.2598738773
+ed5_essential,Essential,ridge_esm,Ridge,6,panel,Panel@K,200,0.2501423728
+ed5_essential,Essential,ridge_esm,Ridge,6,panel,Panel@K,500,0.2124888749
+ed5_essential,Essential,ridge_esm,Ridge,6,panel,Panel@K,1000,0.1769765409
+ed5_essential,Essential,ridge_esm,Ridge,6,deg,DEG Top-K@K,50,0.1596330275
+ed5_essential,Essential,ridge_esm,Ridge,6,deg,DEG Top-K@K,100,0.1851376147
+ed5_essential,Essential,ridge_esm,Ridge,6,deg,DEG Top-K@K,200,0.2183027523
+ed5_essential,Essential,ridge_esm,Ridge,6,deg,DEG Top-K@K,500,0.2773944954
+ed5_essential,Essential,ridge_esm,Ridge,6,celleval,CellEval@K,50,0.1183486239
+ed5_essential,Essential,ridge_esm,Ridge,6,celleval,CellEval@K,100,0.1448623853
+ed5_essential,Essential,ridge_esm,Ridge,6,celleval,CellEval@K,200,0.1770183486
+ed5_essential,Essential,ridge_esm,Ridge,6,celleval,CellEval@K,500,0.07080733945
+ed5_essential,Essential,ridge_esm,Ridge,7,panel,Panel@K,50,0.2533092503
+ed5_essential,Essential,ridge_esm,Ridge,7,panel,Panel@K,100,0.2691052224
+ed5_essential,Essential,ridge_esm,Ridge,7,panel,Panel@K,200,0.2610230806
+ed5_essential,Essential,ridge_esm,Ridge,7,panel,Panel@K,500,0.2306256849
+ed5_essential,Essential,ridge_esm,Ridge,7,panel,Panel@K,1000,0.193575673
+ed5_essential,Essential,ridge_esm,Ridge,7,deg,DEG Top-K@K,50,0.1539449541
+ed5_essential,Essential,ridge_esm,Ridge,7,deg,DEG Top-K@K,100,0.1799082569
+ed5_essential,Essential,ridge_esm,Ridge,7,deg,DEG Top-K@K,200,0.2135321101
+ed5_essential,Essential,ridge_esm,Ridge,7,deg,DEG Top-K@K,500,0.2790642202
+ed5_essential,Essential,ridge_esm,Ridge,7,celleval,CellEval@K,50,0.1172477064
+ed5_essential,Essential,ridge_esm,Ridge,7,celleval,CellEval@K,100,0.148440367
+ed5_essential,Essential,ridge_esm,Ridge,7,celleval,CellEval@K,200,0.1771100917
+ed5_essential,Essential,ridge_esm,Ridge,7,celleval,CellEval@K,500,0.0708440367
+ed5_essential,Essential,ridge_esm,Ridge,8,panel,Panel@K,50,0.3063427206
+ed5_essential,Essential,ridge_esm,Ridge,8,panel,Panel@K,100,0.3094822143
+ed5_essential,Essential,ridge_esm,Ridge,8,panel,Panel@K,200,0.2990141588
+ed5_essential,Essential,ridge_esm,Ridge,8,panel,Panel@K,500,0.2691354533
+ed5_essential,Essential,ridge_esm,Ridge,8,panel,Panel@K,1000,0.2270099228
+ed5_essential,Essential,ridge_esm,Ridge,8,deg,DEG Top-K@K,50,0.164587156
+ed5_essential,Essential,ridge_esm,Ridge,8,deg,DEG Top-K@K,100,0.1944036697
+ed5_essential,Essential,ridge_esm,Ridge,8,deg,DEG Top-K@K,200,0.2322477064
+ed5_essential,Essential,ridge_esm,Ridge,8,deg,DEG Top-K@K,500,0.2870642202
+ed5_essential,Essential,ridge_esm,Ridge,8,celleval,CellEval@K,50,0.123853211
+ed5_essential,Essential,ridge_esm,Ridge,8,celleval,CellEval@K,100,0.156146789
+ed5_essential,Essential,ridge_esm,Ridge,8,celleval,CellEval@K,200,0.1916513761
+ed5_essential,Essential,ridge_esm,Ridge,8,celleval,CellEval@K,500,0.07666055046
+ed5_essential,Essential,ridge_esm,Ridge,9,panel,Panel@K,50,0.2681141447
+ed5_essential,Essential,ridge_esm,Ridge,9,panel,Panel@K,100,0.2811664286
+ed5_essential,Essential,ridge_esm,Ridge,9,panel,Panel@K,200,0.274307743
+ed5_essential,Essential,ridge_esm,Ridge,9,panel,Panel@K,500,0.2426623734
+ed5_essential,Essential,ridge_esm,Ridge,9,panel,Panel@K,1000,0.2017193461
+ed5_essential,Essential,ridge_esm,Ridge,9,deg,DEG Top-K@K,50,0.1691743119
+ed5_essential,Essential,ridge_esm,Ridge,9,deg,DEG Top-K@K,100,0.1897247706
+ed5_essential,Essential,ridge_esm,Ridge,9,deg,DEG Top-K@K,200,0.2243577982
+ed5_essential,Essential,ridge_esm,Ridge,9,deg,DEG Top-K@K,500,0.2804220183
+ed5_essential,Essential,ridge_esm,Ridge,9,celleval,CellEval@K,50,0.12
+ed5_essential,Essential,ridge_esm,Ridge,9,celleval,CellEval@K,100,0.150733945
+ed5_essential,Essential,ridge_esm,Ridge,9,celleval,CellEval@K,200,0.180733945
+ed5_essential,Essential,ridge_esm,Ridge,9,celleval,CellEval@K,500,0.07229357798
+ed5_rpe1,RPE1,ours,Ours,0,panel,Panel@K,50,0.7365906363
+ed5_rpe1,RPE1,ours,Ours,0,panel,Panel@K,100,0.7580962096
+ed5_rpe1,RPE1,ours,Ours,0,panel,Panel@K,200,0.7894912623
+ed5_rpe1,RPE1,ours,Ours,0,panel,Panel@K,500,0.8100027088
+ed5_rpe1,RPE1,ours,Ours,0,panel,Panel@K,1000,0.7890116288
+ed5_rpe1,RPE1,ours,Ours,0,deg,DEG Top-K@K,50,0.541
+ed5_rpe1,RPE1,ours,Ours,0,deg,DEG Top-K@K,100,0.5961666667
+ed5_rpe1,RPE1,ours,Ours,0,deg,DEG Top-K@K,200,0.6280833333
+ed5_rpe1,RPE1,ours,Ours,0,deg,DEG Top-K@K,500,0.6691666667
+ed5_rpe1,RPE1,ours,Ours,0,celleval,CellEval@K,50,0.1356666667
+ed5_rpe1,RPE1,ours,Ours,0,celleval,CellEval@K,100,0.235
+ed5_rpe1,RPE1,ours,Ours,0,celleval,CellEval@K,200,0.33325
+ed5_rpe1,RPE1,ours,Ours,0,celleval,CellEval@K,500,0.1333
+ed5_rpe1,RPE1,ours,Ours,1,panel,Panel@K,50,0.6814452994
+ed5_rpe1,RPE1,ours,Ours,1,panel,Panel@K,100,0.7092172168
+ed5_rpe1,RPE1,ours,Ours,1,panel,Panel@K,200,0.7383413766
+ed5_rpe1,RPE1,ours,Ours,1,panel,Panel@K,500,0.7552845036
+ed5_rpe1,RPE1,ours,Ours,1,panel,Panel@K,1000,0.731083231
+ed5_rpe1,RPE1,ours,Ours,1,deg,DEG Top-K@K,50,0.477704918
+ed5_rpe1,RPE1,ours,Ours,1,deg,DEG Top-K@K,100,0.5444262295
+ed5_rpe1,RPE1,ours,Ours,1,deg,DEG Top-K@K,200,0.5870491803
+ed5_rpe1,RPE1,ours,Ours,1,deg,DEG Top-K@K,500,0.631704918
+ed5_rpe1,RPE1,ours,Ours,1,celleval,CellEval@K,50,0.1055737705
+ed5_rpe1,RPE1,ours,Ours,1,celleval,CellEval@K,100,0.2049180328
+ed5_rpe1,RPE1,ours,Ours,1,celleval,CellEval@K,200,0.3064754098
+ed5_rpe1,RPE1,ours,Ours,1,celleval,CellEval@K,500,0.1225901639
+ed5_rpe1,RPE1,ours,Ours,2,panel,Panel@K,50,0.6774683207
+ed5_rpe1,RPE1,ours,Ours,2,panel,Panel@K,100,0.7070795413
+ed5_rpe1,RPE1,ours,Ours,2,panel,Panel@K,200,0.7228443419
+ed5_rpe1,RPE1,ours,Ours,2,panel,Panel@K,500,0.7346037971
+ed5_rpe1,RPE1,ours,Ours,2,panel,Panel@K,1000,0.7064842068
+ed5_rpe1,RPE1,ours,Ours,2,deg,DEG Top-K@K,50,0.5072222222
+ed5_rpe1,RPE1,ours,Ours,2,deg,DEG Top-K@K,100,0.5505555556
+ed5_rpe1,RPE1,ours,Ours,2,deg,DEG Top-K@K,200,0.5903472222
+ed5_rpe1,RPE1,ours,Ours,2,deg,DEG Top-K@K,500,0.6292222222
+ed5_rpe1,RPE1,ours,Ours,2,celleval,CellEval@K,50,0.1180555556
+ed5_rpe1,RPE1,ours,Ours,2,celleval,CellEval@K,100,0.2151388889
+ed5_rpe1,RPE1,ours,Ours,2,celleval,CellEval@K,200,0.3050694444
+ed5_rpe1,RPE1,ours,Ours,2,celleval,CellEval@K,500,0.1220277778
+ed5_rpe1,RPE1,ours,Ours,3,panel,Panel@K,50,0.6063695632
+ed5_rpe1,RPE1,ours,Ours,3,panel,Panel@K,100,0.6307939717
+ed5_rpe1,RPE1,ours,Ours,3,panel,Panel@K,200,0.6566274772
+ed5_rpe1,RPE1,ours,Ours,3,panel,Panel@K,500,0.6733200082
+ed5_rpe1,RPE1,ours,Ours,3,panel,Panel@K,1000,0.6504970679
+ed5_rpe1,RPE1,ours,Ours,3,deg,DEG Top-K@K,50,0.4424615385
+ed5_rpe1,RPE1,ours,Ours,3,deg,DEG Top-K@K,100,0.5007692308
+ed5_rpe1,RPE1,ours,Ours,3,deg,DEG Top-K@K,200,0.5551538462
+ed5_rpe1,RPE1,ours,Ours,3,deg,DEG Top-K@K,500,0.6061846154
+ed5_rpe1,RPE1,ours,Ours,3,celleval,CellEval@K,50,0.1086153846
+ed5_rpe1,RPE1,ours,Ours,3,celleval,CellEval@K,100,0.2033846154
+ed5_rpe1,RPE1,ours,Ours,3,celleval,CellEval@K,200,0.2934615385
+ed5_rpe1,RPE1,ours,Ours,3,celleval,CellEval@K,500,0.1173846154
+ed5_rpe1,RPE1,ours,Ours,4,panel,Panel@K,50,0.6081423115
+ed5_rpe1,RPE1,ours,Ours,4,panel,Panel@K,100,0.6345126149
+ed5_rpe1,RPE1,ours,Ours,4,panel,Panel@K,200,0.671446268
+ed5_rpe1,RPE1,ours,Ours,4,panel,Panel@K,500,0.6956567951
+ed5_rpe1,RPE1,ours,Ours,4,panel,Panel@K,1000,0.6706410872
+ed5_rpe1,RPE1,ours,Ours,4,deg,DEG Top-K@K,50,0.4254545455
+ed5_rpe1,RPE1,ours,Ours,4,deg,DEG Top-K@K,100,0.4867272727
+ed5_rpe1,RPE1,ours,Ours,4,deg,DEG Top-K@K,200,0.5423636364
+ed5_rpe1,RPE1,ours,Ours,4,deg,DEG Top-K@K,500,0.5908363636
+ed5_rpe1,RPE1,ours,Ours,4,celleval,CellEval@K,50,0.09090909091
+ed5_rpe1,RPE1,ours,Ours,4,celleval,CellEval@K,100,0.1750909091
+ed5_rpe1,RPE1,ours,Ours,4,celleval,CellEval@K,200,0.2655454545
+ed5_rpe1,RPE1,ours,Ours,4,celleval,CellEval@K,500,0.1062181818
+ed5_rpe1,RPE1,ours,Ours,5,panel,Panel@K,50,0.6695062025
+ed5_rpe1,RPE1,ours,Ours,5,panel,Panel@K,100,0.7072819282
+ed5_rpe1,RPE1,ours,Ours,5,panel,Panel@K,200,0.7338124203
+ed5_rpe1,RPE1,ours,Ours,5,panel,Panel@K,500,0.7536308625
+ed5_rpe1,RPE1,ours,Ours,5,panel,Panel@K,1000,0.7302446564
+ed5_rpe1,RPE1,ours,Ours,5,deg,DEG Top-K@K,50,0.4883333333
+ed5_rpe1,RPE1,ours,Ours,5,deg,DEG Top-K@K,100,0.5341666667
+ed5_rpe1,RPE1,ours,Ours,5,deg,DEG Top-K@K,200,0.586
+ed5_rpe1,RPE1,ours,Ours,5,deg,DEG Top-K@K,500,0.6259
+ed5_rpe1,RPE1,ours,Ours,5,celleval,CellEval@K,50,0.1193333333
+ed5_rpe1,RPE1,ours,Ours,5,celleval,CellEval@K,100,0.2181666667
+ed5_rpe1,RPE1,ours,Ours,5,celleval,CellEval@K,200,0.3119166667
+ed5_rpe1,RPE1,ours,Ours,5,celleval,CellEval@K,500,0.1247666667
+ed5_rpe1,RPE1,ours,Ours,6,panel,Panel@K,50,0.6846319068
+ed5_rpe1,RPE1,ours,Ours,6,panel,Panel@K,100,0.6931304482
+ed5_rpe1,RPE1,ours,Ours,6,panel,Panel@K,200,0.7124444125
+ed5_rpe1,RPE1,ours,Ours,6,panel,Panel@K,500,0.7276800644
+ed5_rpe1,RPE1,ours,Ours,6,panel,Panel@K,1000,0.7026677446
+ed5_rpe1,RPE1,ours,Ours,6,deg,DEG Top-K@K,50,0.47
+ed5_rpe1,RPE1,ours,Ours,6,deg,DEG Top-K@K,100,0.5281081081
+ed5_rpe1,RPE1,ours,Ours,6,deg,DEG Top-K@K,200,0.5783783784
+ed5_rpe1,RPE1,ours,Ours,6,deg,DEG Top-K@K,500,0.6245675676
+ed5_rpe1,RPE1,ours,Ours,6,celleval,CellEval@K,50,0.1018918919
+ed5_rpe1,RPE1,ours,Ours,6,celleval,CellEval@K,100,0.1886486486
+ed5_rpe1,RPE1,ours,Ours,6,celleval,CellEval@K,200,0.2921621622
+ed5_rpe1,RPE1,ours,Ours,6,celleval,CellEval@K,500,0.1168648649
+ed5_rpe1,RPE1,ours,Ours,7,panel,Panel@K,50,0.6866307086
+ed5_rpe1,RPE1,ours,Ours,7,panel,Panel@K,100,0.7068292745
+ed5_rpe1,RPE1,ours,Ours,7,panel,Panel@K,200,0.7248365857
+ed5_rpe1,RPE1,ours,Ours,7,panel,Panel@K,500,0.7411288408
+ed5_rpe1,RPE1,ours,Ours,7,panel,Panel@K,1000,0.7216406606
+ed5_rpe1,RPE1,ours,Ours,7,deg,DEG Top-K@K,50,0.5202816901
+ed5_rpe1,RPE1,ours,Ours,7,deg,DEG Top-K@K,100,0.5616901408
+ed5_rpe1,RPE1,ours,Ours,7,deg,DEG Top-K@K,200,0.6061971831
+ed5_rpe1,RPE1,ours,Ours,7,deg,DEG Top-K@K,500,0.6509295775
+ed5_rpe1,RPE1,ours,Ours,7,celleval,CellEval@K,50,0.1343661972
+ed5_rpe1,RPE1,ours,Ours,7,celleval,CellEval@K,100,0.2330985915
+ed5_rpe1,RPE1,ours,Ours,7,celleval,CellEval@K,200,0.3307746479
+ed5_rpe1,RPE1,ours,Ours,7,celleval,CellEval@K,500,0.1323098592
+ed5_rpe1,RPE1,ours,Ours,8,panel,Panel@K,50,0.6297038816
+ed5_rpe1,RPE1,ours,Ours,8,panel,Panel@K,100,0.658926726
+ed5_rpe1,RPE1,ours,Ours,8,panel,Panel@K,200,0.6854178438
+ed5_rpe1,RPE1,ours,Ours,8,panel,Panel@K,500,0.7041054684
+ed5_rpe1,RPE1,ours,Ours,8,panel,Panel@K,1000,0.6782329114
+ed5_rpe1,RPE1,ours,Ours,8,deg,DEG Top-K@K,50,0.4427777778
+ed5_rpe1,RPE1,ours,Ours,8,deg,DEG Top-K@K,100,0.5094444444
+ed5_rpe1,RPE1,ours,Ours,8,deg,DEG Top-K@K,200,0.5658333333
+ed5_rpe1,RPE1,ours,Ours,8,deg,DEG Top-K@K,500,0.6081944444
+ed5_rpe1,RPE1,ours,Ours,8,celleval,CellEval@K,50,0.08944444444
+ed5_rpe1,RPE1,ours,Ours,8,celleval,CellEval@K,100,0.1830555556
+ed5_rpe1,RPE1,ours,Ours,8,celleval,CellEval@K,200,0.2897916667
+ed5_rpe1,RPE1,ours,Ours,8,celleval,CellEval@K,500,0.1159166667
+ed5_rpe1,RPE1,ours,Ours,9,panel,Panel@K,50,0.6219817763
+ed5_rpe1,RPE1,ours,Ours,9,panel,Panel@K,100,0.6374555488
+ed5_rpe1,RPE1,ours,Ours,9,panel,Panel@K,200,0.6629580248
+ed5_rpe1,RPE1,ours,Ours,9,panel,Panel@K,500,0.6738345311
+ed5_rpe1,RPE1,ours,Ours,9,panel,Panel@K,1000,0.6423990086
+ed5_rpe1,RPE1,ours,Ours,9,deg,DEG Top-K@K,50,0.4383606557
+ed5_rpe1,RPE1,ours,Ours,9,deg,DEG Top-K@K,100,0.4909836066
+ed5_rpe1,RPE1,ours,Ours,9,deg,DEG Top-K@K,200,0.5445901639
+ed5_rpe1,RPE1,ours,Ours,9,deg,DEG Top-K@K,500,0.5947868852
+ed5_rpe1,RPE1,ours,Ours,9,celleval,CellEval@K,50,0.1049180328
+ed5_rpe1,RPE1,ours,Ours,9,celleval,CellEval@K,100,0.1872131148
+ed5_rpe1,RPE1,ours,Ours,9,celleval,CellEval@K,200,0.2728688525
+ed5_rpe1,RPE1,ours,Ours,9,celleval,CellEval@K,500,0.109147541
+ed5_rpe1,RPE1,gears,GEARS,0,panel,Panel@K,50,0.686887147
+ed5_rpe1,RPE1,gears,GEARS,0,panel,Panel@K,100,0.7029823767
+ed5_rpe1,RPE1,gears,GEARS,0,panel,Panel@K,200,0.7201333367
+ed5_rpe1,RPE1,gears,GEARS,0,panel,Panel@K,500,0.725290258
+ed5_rpe1,RPE1,gears,GEARS,0,panel,Panel@K,1000,0.6980117914
+ed5_rpe1,RPE1,gears,GEARS,0,deg,DEG Top-K@K,50,0.4126797386
+ed5_rpe1,RPE1,gears,GEARS,0,deg,DEG Top-K@K,100,0.4577777778
+ed5_rpe1,RPE1,gears,GEARS,0,deg,DEG Top-K@K,200,0.4655228758
+ed5_rpe1,RPE1,gears,GEARS,0,deg,DEG Top-K@K,500,0.451620915
+ed5_rpe1,RPE1,gears,GEARS,0,celleval,CellEval@K,50,0.1111111111
+ed5_rpe1,RPE1,gears,GEARS,0,celleval,CellEval@K,100,0.2033986928
+ed5_rpe1,RPE1,gears,GEARS,0,celleval,CellEval@K,200,0.3029084967
+ed5_rpe1,RPE1,gears,GEARS,0,celleval,CellEval@K,500,0.1211633987
+ed5_rpe1,RPE1,gears,GEARS,1,panel,Panel@K,50,0.6748201618
+ed5_rpe1,RPE1,gears,GEARS,1,panel,Panel@K,100,0.6850832096
+ed5_rpe1,RPE1,gears,GEARS,1,panel,Panel@K,200,0.6956238938
+ed5_rpe1,RPE1,gears,GEARS,1,panel,Panel@K,500,0.6923842359
+ed5_rpe1,RPE1,gears,GEARS,1,panel,Panel@K,1000,0.6603994146
+ed5_rpe1,RPE1,gears,GEARS,1,deg,DEG Top-K@K,50,0.3911688312
+ed5_rpe1,RPE1,gears,GEARS,1,deg,DEG Top-K@K,100,0.422987013
+ed5_rpe1,RPE1,gears,GEARS,1,deg,DEG Top-K@K,200,0.4422402597
+ed5_rpe1,RPE1,gears,GEARS,1,deg,DEG Top-K@K,500,0.4351948052
+ed5_rpe1,RPE1,gears,GEARS,1,celleval,CellEval@K,50,0.09675324675
+ed5_rpe1,RPE1,gears,GEARS,1,celleval,CellEval@K,100,0.1851298701
+ed5_rpe1,RPE1,gears,GEARS,1,celleval,CellEval@K,200,0.2835064935
+ed5_rpe1,RPE1,gears,GEARS,1,celleval,CellEval@K,500,0.1134025974
+ed5_rpe1,RPE1,gears,GEARS,2,panel,Panel@K,50,0.6781496599
+ed5_rpe1,RPE1,gears,GEARS,2,panel,Panel@K,100,0.6874986699
+ed5_rpe1,RPE1,gears,GEARS,2,panel,Panel@K,200,0.7038616065
+ed5_rpe1,RPE1,gears,GEARS,2,panel,Panel@K,500,0.7095901817
+ed5_rpe1,RPE1,gears,GEARS,2,panel,Panel@K,1000,0.6809382286
+ed5_rpe1,RPE1,gears,GEARS,2,deg,DEG Top-K@K,50,0.4049333333
+ed5_rpe1,RPE1,gears,GEARS,2,deg,DEG Top-K@K,100,0.4406666667
+ed5_rpe1,RPE1,gears,GEARS,2,deg,DEG Top-K@K,200,0.4514666667
+ed5_rpe1,RPE1,gears,GEARS,2,deg,DEG Top-K@K,500,0.4429733333
+ed5_rpe1,RPE1,gears,GEARS,2,celleval,CellEval@K,50,0.0956
+ed5_rpe1,RPE1,gears,GEARS,2,celleval,CellEval@K,100,0.1808666667
+ed5_rpe1,RPE1,gears,GEARS,2,celleval,CellEval@K,200,0.2847666667
+ed5_rpe1,RPE1,gears,GEARS,2,celleval,CellEval@K,500,0.1139066667
+ed5_rpe1,RPE1,gears,GEARS,3,panel,Panel@K,50,0.6199974727
+ed5_rpe1,RPE1,gears,GEARS,3,panel,Panel@K,100,0.6388188293
+ed5_rpe1,RPE1,gears,GEARS,3,panel,Panel@K,200,0.662295462
+ed5_rpe1,RPE1,gears,GEARS,3,panel,Panel@K,500,0.6721012741
+ed5_rpe1,RPE1,gears,GEARS,3,panel,Panel@K,1000,0.6489462234
+ed5_rpe1,RPE1,gears,GEARS,3,deg,DEG Top-K@K,50,0.4026315789
+ed5_rpe1,RPE1,gears,GEARS,3,deg,DEG Top-K@K,100,0.4406578947
+ed5_rpe1,RPE1,gears,GEARS,3,deg,DEG Top-K@K,200,0.4550328947
+ed5_rpe1,RPE1,gears,GEARS,3,deg,DEG Top-K@K,500,0.44375
+ed5_rpe1,RPE1,gears,GEARS,3,celleval,CellEval@K,50,0.1069736842
+ed5_rpe1,RPE1,gears,GEARS,3,celleval,CellEval@K,100,0.1954605263
+ed5_rpe1,RPE1,gears,GEARS,3,celleval,CellEval@K,200,0.2988815789
+ed5_rpe1,RPE1,gears,GEARS,3,celleval,CellEval@K,500,0.1195526316
+ed5_rpe1,RPE1,gears,GEARS,4,panel,Panel@K,50,0.6601873996
+ed5_rpe1,RPE1,gears,GEARS,4,panel,Panel@K,100,0.6864524375
+ed5_rpe1,RPE1,gears,GEARS,4,panel,Panel@K,200,0.7069263647
+ed5_rpe1,RPE1,gears,GEARS,4,panel,Panel@K,500,0.7126842041
+ed5_rpe1,RPE1,gears,GEARS,4,panel,Panel@K,1000,0.678575173
+ed5_rpe1,RPE1,gears,GEARS,4,deg,DEG Top-K@K,50,0.3931168831
+ed5_rpe1,RPE1,gears,GEARS,4,deg,DEG Top-K@K,100,0.4285064935
+ed5_rpe1,RPE1,gears,GEARS,4,deg,DEG Top-K@K,200,0.4416558442
+ed5_rpe1,RPE1,gears,GEARS,4,deg,DEG Top-K@K,500,0.4353376623
+ed5_rpe1,RPE1,gears,GEARS,4,celleval,CellEval@K,50,0.09194805195
+ed5_rpe1,RPE1,gears,GEARS,4,celleval,CellEval@K,100,0.1795454545
+ed5_rpe1,RPE1,gears,GEARS,4,celleval,CellEval@K,200,0.2768181818
+ed5_rpe1,RPE1,gears,GEARS,4,celleval,CellEval@K,500,0.1107272727
+ed5_rpe1,RPE1,gears,GEARS,5,panel,Panel@K,50,0.6471466481
+ed5_rpe1,RPE1,gears,GEARS,5,panel,Panel@K,100,0.6647156031
+ed5_rpe1,RPE1,gears,GEARS,5,panel,Panel@K,200,0.6929648537
+ed5_rpe1,RPE1,gears,GEARS,5,panel,Panel@K,500,0.7029233753
+ed5_rpe1,RPE1,gears,GEARS,5,panel,Panel@K,1000,0.6766944924
+ed5_rpe1,RPE1,gears,GEARS,5,deg,DEG Top-K@K,50,0.4002631579
+ed5_rpe1,RPE1,gears,GEARS,5,deg,DEG Top-K@K,100,0.4442105263
+ed5_rpe1,RPE1,gears,GEARS,5,deg,DEG Top-K@K,200,0.4562171053
+ed5_rpe1,RPE1,gears,GEARS,5,deg,DEG Top-K@K,500,0.444
+ed5_rpe1,RPE1,gears,GEARS,5,celleval,CellEval@K,50,0.1056578947
+ed5_rpe1,RPE1,gears,GEARS,5,celleval,CellEval@K,100,0.2041447368
+ed5_rpe1,RPE1,gears,GEARS,5,celleval,CellEval@K,200,0.3006578947
+ed5_rpe1,RPE1,gears,GEARS,5,celleval,CellEval@K,500,0.1202631579
+ed5_rpe1,RPE1,gears,GEARS,6,panel,Panel@K,50,0.6534274886
+ed5_rpe1,RPE1,gears,GEARS,6,panel,Panel@K,100,0.6624923669
+ed5_rpe1,RPE1,gears,GEARS,6,panel,Panel@K,200,0.6796024508
+ed5_rpe1,RPE1,gears,GEARS,6,panel,Panel@K,500,0.687336461
+ed5_rpe1,RPE1,gears,GEARS,6,panel,Panel@K,1000,0.659056489
+ed5_rpe1,RPE1,gears,GEARS,6,deg,DEG Top-K@K,50,0.3912418301
+ed5_rpe1,RPE1,gears,GEARS,6,deg,DEG Top-K@K,100,0.4279084967
+ed5_rpe1,RPE1,gears,GEARS,6,deg,DEG Top-K@K,200,0.439248366
+ed5_rpe1,RPE1,gears,GEARS,6,deg,DEG Top-K@K,500,0.4396470588
+ed5_rpe1,RPE1,gears,GEARS,6,celleval,CellEval@K,50,0.09241830065
+ed5_rpe1,RPE1,gears,GEARS,6,celleval,CellEval@K,100,0.1698039216
+ed5_rpe1,RPE1,gears,GEARS,6,celleval,CellEval@K,200,0.2629084967
+ed5_rpe1,RPE1,gears,GEARS,6,celleval,CellEval@K,500,0.1051633987
+ed5_rpe1,RPE1,gears,GEARS,7,panel,Panel@K,50,0.6469434527
+ed5_rpe1,RPE1,gears,GEARS,7,panel,Panel@K,100,0.6614449757
+ed5_rpe1,RPE1,gears,GEARS,7,panel,Panel@K,200,0.6677999223
+ed5_rpe1,RPE1,gears,GEARS,7,panel,Panel@K,500,0.6596072013
+ed5_rpe1,RPE1,gears,GEARS,7,panel,Panel@K,1000,0.6243649137
+ed5_rpe1,RPE1,gears,GEARS,7,deg,DEG Top-K@K,50,0.3515584416
+ed5_rpe1,RPE1,gears,GEARS,7,deg,DEG Top-K@K,100,0.4014285714
+ed5_rpe1,RPE1,gears,GEARS,7,deg,DEG Top-K@K,200,0.4287337662
+ed5_rpe1,RPE1,gears,GEARS,7,deg,DEG Top-K@K,500,0.4334545455
+ed5_rpe1,RPE1,gears,GEARS,7,celleval,CellEval@K,50,0.09896103896
+ed5_rpe1,RPE1,gears,GEARS,7,celleval,CellEval@K,100,0.1705844156
+ed5_rpe1,RPE1,gears,GEARS,7,celleval,CellEval@K,200,0.2681168831
+ed5_rpe1,RPE1,gears,GEARS,7,celleval,CellEval@K,500,0.1072467532
+ed5_rpe1,RPE1,gears,GEARS,8,panel,Panel@K,50,0.6307017352
+ed5_rpe1,RPE1,gears,GEARS,8,panel,Panel@K,100,0.6502435698
+ed5_rpe1,RPE1,gears,GEARS,8,panel,Panel@K,200,0.675134268
+ed5_rpe1,RPE1,gears,GEARS,8,panel,Panel@K,500,0.6804736397
+ed5_rpe1,RPE1,gears,GEARS,8,panel,Panel@K,1000,0.6498275002
+ed5_rpe1,RPE1,gears,GEARS,8,deg,DEG Top-K@K,50,0.3748051948
+ed5_rpe1,RPE1,gears,GEARS,8,deg,DEG Top-K@K,100,0.4217532468
+ed5_rpe1,RPE1,gears,GEARS,8,deg,DEG Top-K@K,200,0.4378246753
+ed5_rpe1,RPE1,gears,GEARS,8,deg,DEG Top-K@K,500,0.4345584416
+ed5_rpe1,RPE1,gears,GEARS,8,celleval,CellEval@K,50,0.09545454545
+ed5_rpe1,RPE1,gears,GEARS,8,celleval,CellEval@K,100,0.1785064935
+ed5_rpe1,RPE1,gears,GEARS,8,celleval,CellEval@K,200,0.2755519481
+ed5_rpe1,RPE1,gears,GEARS,8,celleval,CellEval@K,500,0.1102207792
+ed5_rpe1,RPE1,gears,GEARS,9,panel,Panel@K,50,0.6423605232
+ed5_rpe1,RPE1,gears,GEARS,9,panel,Panel@K,100,0.6543775167
+ed5_rpe1,RPE1,gears,GEARS,9,panel,Panel@K,200,0.6716857658
+ed5_rpe1,RPE1,gears,GEARS,9,panel,Panel@K,500,0.6726588159
+ed5_rpe1,RPE1,gears,GEARS,9,panel,Panel@K,1000,0.6355924297
+ed5_rpe1,RPE1,gears,GEARS,9,deg,DEG Top-K@K,50,0.3573684211
+ed5_rpe1,RPE1,gears,GEARS,9,deg,DEG Top-K@K,100,0.40625
+ed5_rpe1,RPE1,gears,GEARS,9,deg,DEG Top-K@K,200,0.4239473684
+ed5_rpe1,RPE1,gears,GEARS,9,deg,DEG Top-K@K,500,0.42275
+ed5_rpe1,RPE1,gears,GEARS,9,celleval,CellEval@K,50,0.08763157895
+ed5_rpe1,RPE1,gears,GEARS,9,celleval,CellEval@K,100,0.1720394737
+ed5_rpe1,RPE1,gears,GEARS,9,celleval,CellEval@K,200,0.2577302632
+ed5_rpe1,RPE1,gears,GEARS,9,celleval,CellEval@K,500,0.1030921053
+ed5_rpe1,RPE1,biolord,BIOLORD,0,panel,Panel@K,50,0.6963377559
+ed5_rpe1,RPE1,biolord,BIOLORD,0,panel,Panel@K,100,0.7147774518
+ed5_rpe1,RPE1,biolord,BIOLORD,0,panel,Panel@K,200,0.7362722023
+ed5_rpe1,RPE1,biolord,BIOLORD,0,panel,Panel@K,500,0.7478573677
+ed5_rpe1,RPE1,biolord,BIOLORD,0,panel,Panel@K,1000,0.7242598669
+ed5_rpe1,RPE1,biolord,BIOLORD,0,deg,DEG Top-K@K,50,0.441038961
+ed5_rpe1,RPE1,biolord,BIOLORD,0,deg,DEG Top-K@K,100,0.4714285714
+ed5_rpe1,RPE1,biolord,BIOLORD,0,deg,DEG Top-K@K,200,0.4880519481
+ed5_rpe1,RPE1,biolord,BIOLORD,0,deg,DEG Top-K@K,500,0.490961039
+ed5_rpe1,RPE1,biolord,BIOLORD,0,celleval,CellEval@K,50,0.1102597403
+ed5_rpe1,RPE1,biolord,BIOLORD,0,celleval,CellEval@K,100,0.2082467532
+ed5_rpe1,RPE1,biolord,BIOLORD,0,celleval,CellEval@K,200,0.3088961039
+ed5_rpe1,RPE1,biolord,BIOLORD,0,celleval,CellEval@K,500,0.1235584416
+ed5_rpe1,RPE1,biolord,BIOLORD,1,panel,Panel@K,50,0.682406573
+ed5_rpe1,RPE1,biolord,BIOLORD,1,panel,Panel@K,100,0.6964310457
+ed5_rpe1,RPE1,biolord,BIOLORD,1,panel,Panel@K,200,0.7145155025
+ed5_rpe1,RPE1,biolord,BIOLORD,1,panel,Panel@K,500,0.7207160295
+ed5_rpe1,RPE1,biolord,BIOLORD,1,panel,Panel@K,1000,0.6960420833
+ed5_rpe1,RPE1,biolord,BIOLORD,1,deg,DEG Top-K@K,50,0.4379220779
+ed5_rpe1,RPE1,biolord,BIOLORD,1,deg,DEG Top-K@K,100,0.4581818182
+ed5_rpe1,RPE1,biolord,BIOLORD,1,deg,DEG Top-K@K,200,0.4791233766
+ed5_rpe1,RPE1,biolord,BIOLORD,1,deg,DEG Top-K@K,500,0.4831688312
+ed5_rpe1,RPE1,biolord,BIOLORD,1,celleval,CellEval@K,50,0.1042857143
+ed5_rpe1,RPE1,biolord,BIOLORD,1,celleval,CellEval@K,100,0.1963636364
+ed5_rpe1,RPE1,biolord,BIOLORD,1,celleval,CellEval@K,200,0.2996753247
+ed5_rpe1,RPE1,biolord,BIOLORD,1,celleval,CellEval@K,500,0.1198701299
+ed5_rpe1,RPE1,biolord,BIOLORD,2,panel,Panel@K,50,0.6994309412
+ed5_rpe1,RPE1,biolord,BIOLORD,2,panel,Panel@K,100,0.7143355894
+ed5_rpe1,RPE1,biolord,BIOLORD,2,panel,Panel@K,200,0.7304645636
+ed5_rpe1,RPE1,biolord,BIOLORD,2,panel,Panel@K,500,0.7419570888
+ed5_rpe1,RPE1,biolord,BIOLORD,2,panel,Panel@K,1000,0.7170805239
+ed5_rpe1,RPE1,biolord,BIOLORD,2,deg,DEG Top-K@K,50,0.4477922078
+ed5_rpe1,RPE1,biolord,BIOLORD,2,deg,DEG Top-K@K,100,0.4646753247
+ed5_rpe1,RPE1,biolord,BIOLORD,2,deg,DEG Top-K@K,200,0.4867207792
+ed5_rpe1,RPE1,biolord,BIOLORD,2,deg,DEG Top-K@K,500,0.4882077922
+ed5_rpe1,RPE1,biolord,BIOLORD,2,celleval,CellEval@K,50,0.1022077922
+ed5_rpe1,RPE1,biolord,BIOLORD,2,celleval,CellEval@K,100,0.1981168831
+ed5_rpe1,RPE1,biolord,BIOLORD,2,celleval,CellEval@K,200,0.3011038961
+ed5_rpe1,RPE1,biolord,BIOLORD,2,celleval,CellEval@K,500,0.1204415584
+ed5_rpe1,RPE1,biolord,BIOLORD,3,panel,Panel@K,50,0.6308227187
+ed5_rpe1,RPE1,biolord,BIOLORD,3,panel,Panel@K,100,0.650740061
+ed5_rpe1,RPE1,biolord,BIOLORD,3,panel,Panel@K,200,0.676021394
+ed5_rpe1,RPE1,biolord,BIOLORD,3,panel,Panel@K,500,0.6916639743
+ed5_rpe1,RPE1,biolord,BIOLORD,3,panel,Panel@K,1000,0.6744210246
+ed5_rpe1,RPE1,biolord,BIOLORD,3,deg,DEG Top-K@K,50,0.4292207792
+ed5_rpe1,RPE1,biolord,BIOLORD,3,deg,DEG Top-K@K,100,0.4541558442
+ed5_rpe1,RPE1,biolord,BIOLORD,3,deg,DEG Top-K@K,200,0.4776623377
+ed5_rpe1,RPE1,biolord,BIOLORD,3,deg,DEG Top-K@K,500,0.4817142857
+ed5_rpe1,RPE1,biolord,BIOLORD,3,celleval,CellEval@K,50,0.1109090909
+ed5_rpe1,RPE1,biolord,BIOLORD,3,celleval,CellEval@K,100,0.2048051948
+ed5_rpe1,RPE1,biolord,BIOLORD,3,celleval,CellEval@K,200,0.3072077922
+ed5_rpe1,RPE1,biolord,BIOLORD,3,celleval,CellEval@K,500,0.1228831169
+ed5_rpe1,RPE1,biolord,BIOLORD,4,panel,Panel@K,50,0.6737893079
+ed5_rpe1,RPE1,biolord,BIOLORD,4,panel,Panel@K,100,0.6992851493
+ed5_rpe1,RPE1,biolord,BIOLORD,4,panel,Panel@K,200,0.7222563778
+ed5_rpe1,RPE1,biolord,BIOLORD,4,panel,Panel@K,500,0.7368828083
+ed5_rpe1,RPE1,biolord,BIOLORD,4,panel,Panel@K,1000,0.7139543096
+ed5_rpe1,RPE1,biolord,BIOLORD,4,deg,DEG Top-K@K,50,0.4415584416
+ed5_rpe1,RPE1,biolord,BIOLORD,4,deg,DEG Top-K@K,100,0.4564285714
+ed5_rpe1,RPE1,biolord,BIOLORD,4,deg,DEG Top-K@K,200,0.472012987
+ed5_rpe1,RPE1,biolord,BIOLORD,4,deg,DEG Top-K@K,500,0.4780779221
+ed5_rpe1,RPE1,biolord,BIOLORD,4,celleval,CellEval@K,50,0.09402597403
+ed5_rpe1,RPE1,biolord,BIOLORD,4,celleval,CellEval@K,100,0.188961039
+ed5_rpe1,RPE1,biolord,BIOLORD,4,celleval,CellEval@K,200,0.292012987
+ed5_rpe1,RPE1,biolord,BIOLORD,4,celleval,CellEval@K,500,0.1168051948
+ed5_rpe1,RPE1,biolord,BIOLORD,5,panel,Panel@K,50,0.663243791
+ed5_rpe1,RPE1,biolord,BIOLORD,5,panel,Panel@K,100,0.6865530449
+ed5_rpe1,RPE1,biolord,BIOLORD,5,panel,Panel@K,200,0.7122905183
+ed5_rpe1,RPE1,biolord,BIOLORD,5,panel,Panel@K,500,0.7259146204
+ed5_rpe1,RPE1,biolord,BIOLORD,5,panel,Panel@K,1000,0.7036106375
+ed5_rpe1,RPE1,biolord,BIOLORD,5,deg,DEG Top-K@K,50,0.4341558442
+ed5_rpe1,RPE1,biolord,BIOLORD,5,deg,DEG Top-K@K,100,0.4563636364
+ed5_rpe1,RPE1,biolord,BIOLORD,5,deg,DEG Top-K@K,200,0.4776298701
+ed5_rpe1,RPE1,biolord,BIOLORD,5,deg,DEG Top-K@K,500,0.4807012987
+ed5_rpe1,RPE1,biolord,BIOLORD,5,celleval,CellEval@K,50,0.1112987013
+ed5_rpe1,RPE1,biolord,BIOLORD,5,celleval,CellEval@K,100,0.2125324675
+ed5_rpe1,RPE1,biolord,BIOLORD,5,celleval,CellEval@K,200,0.3128246753
+ed5_rpe1,RPE1,biolord,BIOLORD,5,celleval,CellEval@K,500,0.1251298701
+ed5_rpe1,RPE1,biolord,BIOLORD,6,panel,Panel@K,50,0.6739339892
+ed5_rpe1,RPE1,biolord,BIOLORD,6,panel,Panel@K,100,0.6881043169
+ed5_rpe1,RPE1,biolord,BIOLORD,6,panel,Panel@K,200,0.7058249281
+ed5_rpe1,RPE1,biolord,BIOLORD,6,panel,Panel@K,500,0.7164337329
+ed5_rpe1,RPE1,biolord,BIOLORD,6,panel,Panel@K,1000,0.6905586394
+ed5_rpe1,RPE1,biolord,BIOLORD,6,deg,DEG Top-K@K,50,0.4238961039
+ed5_rpe1,RPE1,biolord,BIOLORD,6,deg,DEG Top-K@K,100,0.4432467532
+ed5_rpe1,RPE1,biolord,BIOLORD,6,deg,DEG Top-K@K,200,0.4664285714
+ed5_rpe1,RPE1,biolord,BIOLORD,6,deg,DEG Top-K@K,500,0.4744545455
+ed5_rpe1,RPE1,biolord,BIOLORD,6,celleval,CellEval@K,50,0.09636363636
+ed5_rpe1,RPE1,biolord,BIOLORD,6,celleval,CellEval@K,100,0.1798701299
+ed5_rpe1,RPE1,biolord,BIOLORD,6,celleval,CellEval@K,200,0.2805194805
+ed5_rpe1,RPE1,biolord,BIOLORD,6,celleval,CellEval@K,500,0.1122077922
+ed5_rpe1,RPE1,biolord,BIOLORD,7,panel,Panel@K,50,0.6514585055
+ed5_rpe1,RPE1,biolord,BIOLORD,7,panel,Panel@K,100,0.6684263232
+ed5_rpe1,RPE1,biolord,BIOLORD,7,panel,Panel@K,200,0.6848791934
+ed5_rpe1,RPE1,biolord,BIOLORD,7,panel,Panel@K,500,0.69736144
+ed5_rpe1,RPE1,biolord,BIOLORD,7,panel,Panel@K,1000,0.6767551735
+ed5_rpe1,RPE1,biolord,BIOLORD,7,deg,DEG Top-K@K,50,0.4285714286
+ed5_rpe1,RPE1,biolord,BIOLORD,7,deg,DEG Top-K@K,100,0.4452597403
+ed5_rpe1,RPE1,biolord,BIOLORD,7,deg,DEG Top-K@K,200,0.469025974
+ed5_rpe1,RPE1,biolord,BIOLORD,7,deg,DEG Top-K@K,500,0.4761558442
+ed5_rpe1,RPE1,biolord,BIOLORD,7,celleval,CellEval@K,50,0.1075324675
+ed5_rpe1,RPE1,biolord,BIOLORD,7,celleval,CellEval@K,100,0.1969480519
+ed5_rpe1,RPE1,biolord,BIOLORD,7,celleval,CellEval@K,200,0.3072402597
+ed5_rpe1,RPE1,biolord,BIOLORD,7,celleval,CellEval@K,500,0.1228961039
+ed5_rpe1,RPE1,biolord,BIOLORD,8,panel,Panel@K,50,0.6440067975
+ed5_rpe1,RPE1,biolord,BIOLORD,8,panel,Panel@K,100,0.6678447325
+ed5_rpe1,RPE1,biolord,BIOLORD,8,panel,Panel@K,200,0.6949469581
+ed5_rpe1,RPE1,biolord,BIOLORD,8,panel,Panel@K,500,0.7108157586
+ed5_rpe1,RPE1,biolord,BIOLORD,8,panel,Panel@K,1000,0.6891115662
+ed5_rpe1,RPE1,biolord,BIOLORD,8,deg,DEG Top-K@K,50,0.424025974
+ed5_rpe1,RPE1,biolord,BIOLORD,8,deg,DEG Top-K@K,100,0.4508441558
+ed5_rpe1,RPE1,biolord,BIOLORD,8,deg,DEG Top-K@K,200,0.4718831169
+ed5_rpe1,RPE1,biolord,BIOLORD,8,deg,DEG Top-K@K,500,0.4797142857
+ed5_rpe1,RPE1,biolord,BIOLORD,8,celleval,CellEval@K,50,0.09961038961
+ed5_rpe1,RPE1,biolord,BIOLORD,8,celleval,CellEval@K,100,0.1874675325
+ed5_rpe1,RPE1,biolord,BIOLORD,8,celleval,CellEval@K,200,0.2953246753
+ed5_rpe1,RPE1,biolord,BIOLORD,8,celleval,CellEval@K,500,0.1181298701
+ed5_rpe1,RPE1,biolord,BIOLORD,9,panel,Panel@K,50,0.6440304953
+ed5_rpe1,RPE1,biolord,BIOLORD,9,panel,Panel@K,100,0.6624428677
+ed5_rpe1,RPE1,biolord,BIOLORD,9,panel,Panel@K,200,0.6841701237
+ed5_rpe1,RPE1,biolord,BIOLORD,9,panel,Panel@K,500,0.6958143471
+ed5_rpe1,RPE1,biolord,BIOLORD,9,panel,Panel@K,1000,0.6663272124
+ed5_rpe1,RPE1,biolord,BIOLORD,9,deg,DEG Top-K@K,50,0.3981818182
+ed5_rpe1,RPE1,biolord,BIOLORD,9,deg,DEG Top-K@K,100,0.4242857143
+ed5_rpe1,RPE1,biolord,BIOLORD,9,deg,DEG Top-K@K,200,0.450974026
+ed5_rpe1,RPE1,biolord,BIOLORD,9,deg,DEG Top-K@K,500,0.4666363636
+ed5_rpe1,RPE1,biolord,BIOLORD,9,celleval,CellEval@K,50,0.08727272727
+ed5_rpe1,RPE1,biolord,BIOLORD,9,celleval,CellEval@K,100,0.1762337662
+ed5_rpe1,RPE1,biolord,BIOLORD,9,celleval,CellEval@K,200,0.271525974
+ed5_rpe1,RPE1,biolord,BIOLORD,9,celleval,CellEval@K,500,0.1086103896
+ed5_rpe1,RPE1,state,STATE,0,panel,Panel@K,50,0.5576451757
+ed5_rpe1,RPE1,state,STATE,0,panel,Panel@K,100,0.5941323544
+ed5_rpe1,RPE1,state,STATE,0,panel,Panel@K,200,0.6244059141
+ed5_rpe1,RPE1,state,STATE,0,panel,Panel@K,500,0.6385284672
+ed5_rpe1,RPE1,state,STATE,0,panel,Panel@K,1000,0.6048957543
+ed5_rpe1,RPE1,state,STATE,0,deg,DEG Top-K@K,50,0.3169934641
+ed5_rpe1,RPE1,state,STATE,0,deg,DEG Top-K@K,100,0.3480392157
+ed5_rpe1,RPE1,state,STATE,0,deg,DEG Top-K@K,200,0.3727124183
+ed5_rpe1,RPE1,state,STATE,0,deg,DEG Top-K@K,500,0.3913856209
+ed5_rpe1,RPE1,state,STATE,0,celleval,CellEval@K,50,0.1073202614
+ed5_rpe1,RPE1,state,STATE,0,celleval,CellEval@K,100,0.1836601307
+ed5_rpe1,RPE1,state,STATE,0,celleval,CellEval@K,200,0.2583006536
+ed5_rpe1,RPE1,state,STATE,0,celleval,CellEval@K,500,0.1033202614
+ed5_rpe1,RPE1,state,STATE,1,panel,Panel@K,50,0.5336292949
+ed5_rpe1,RPE1,state,STATE,1,panel,Panel@K,100,0.5741210984
+ed5_rpe1,RPE1,state,STATE,1,panel,Panel@K,200,0.6076351419
+ed5_rpe1,RPE1,state,STATE,1,panel,Panel@K,500,0.6423704434
+ed5_rpe1,RPE1,state,STATE,1,panel,Panel@K,1000,0.6306311729
+ed5_rpe1,RPE1,state,STATE,1,deg,DEG Top-K@K,50,0.3304575163
+ed5_rpe1,RPE1,state,STATE,1,deg,DEG Top-K@K,100,0.3669934641
+ed5_rpe1,RPE1,state,STATE,1,deg,DEG Top-K@K,200,0.4005228758
+ed5_rpe1,RPE1,state,STATE,1,deg,DEG Top-K@K,500,0.4320784314
+ed5_rpe1,RPE1,state,STATE,1,celleval,CellEval@K,50,0.1020915033
+ed5_rpe1,RPE1,state,STATE,1,celleval,CellEval@K,100,0.1932679739
+ed5_rpe1,RPE1,state,STATE,1,celleval,CellEval@K,200,0.2766993464
+ed5_rpe1,RPE1,state,STATE,1,celleval,CellEval@K,500,0.1106797386
+ed5_rpe1,RPE1,state,STATE,2,panel,Panel@K,50,0.5804643963
+ed5_rpe1,RPE1,state,STATE,2,panel,Panel@K,100,0.6193237482
+ed5_rpe1,RPE1,state,STATE,2,panel,Panel@K,200,0.6481147588
+ed5_rpe1,RPE1,state,STATE,2,panel,Panel@K,500,0.6799678923
+ed5_rpe1,RPE1,state,STATE,2,panel,Panel@K,1000,0.6640321793
+ed5_rpe1,RPE1,state,STATE,2,deg,DEG Top-K@K,50,0.3625
+ed5_rpe1,RPE1,state,STATE,2,deg,DEG Top-K@K,100,0.3830921053
+ed5_rpe1,RPE1,state,STATE,2,deg,DEG Top-K@K,200,0.4097697368
+ed5_rpe1,RPE1,state,STATE,2,deg,DEG Top-K@K,500,0.4381710526
+ed5_rpe1,RPE1,state,STATE,2,celleval,CellEval@K,50,0.09671052632
+ed5_rpe1,RPE1,state,STATE,2,celleval,CellEval@K,100,0.1832894737
+ed5_rpe1,RPE1,state,STATE,2,celleval,CellEval@K,200,0.2733552632
+ed5_rpe1,RPE1,state,STATE,2,celleval,CellEval@K,500,0.1093421053
+ed5_rpe1,RPE1,state,STATE,3,panel,Panel@K,50,0.4730796215
+ed5_rpe1,RPE1,state,STATE,3,panel,Panel@K,100,0.5107028105
+ed5_rpe1,RPE1,state,STATE,3,panel,Panel@K,200,0.5430465859
+ed5_rpe1,RPE1,state,STATE,3,panel,Panel@K,500,0.5744331989
+ed5_rpe1,RPE1,state,STATE,3,panel,Panel@K,1000,0.5541113653
+ed5_rpe1,RPE1,state,STATE,3,deg,DEG Top-K@K,50,0.3055844156
+ed5_rpe1,RPE1,state,STATE,3,deg,DEG Top-K@K,100,0.3447402597
+ed5_rpe1,RPE1,state,STATE,3,deg,DEG Top-K@K,200,0.374512987
+ed5_rpe1,RPE1,state,STATE,3,deg,DEG Top-K@K,500,0.4096103896
+ed5_rpe1,RPE1,state,STATE,3,celleval,CellEval@K,50,0.09623376623
+ed5_rpe1,RPE1,state,STATE,3,celleval,CellEval@K,100,0.1690909091
+ed5_rpe1,RPE1,state,STATE,3,celleval,CellEval@K,200,0.2415909091
+ed5_rpe1,RPE1,state,STATE,3,celleval,CellEval@K,500,0.09663636364
+ed5_rpe1,RPE1,state,STATE,4,panel,Panel@K,50,0.5234243308
+ed5_rpe1,RPE1,state,STATE,4,panel,Panel@K,100,0.5549766405
+ed5_rpe1,RPE1,state,STATE,4,panel,Panel@K,200,0.582799557
+ed5_rpe1,RPE1,state,STATE,4,panel,Panel@K,500,0.5848556951
+ed5_rpe1,RPE1,state,STATE,4,panel,Panel@K,1000,0.544033961
+ed5_rpe1,RPE1,state,STATE,4,deg,DEG Top-K@K,50,0.2603896104
+ed5_rpe1,RPE1,state,STATE,4,deg,DEG Top-K@K,100,0.2951948052
+ed5_rpe1,RPE1,state,STATE,4,deg,DEG Top-K@K,200,0.3260714286
+ed5_rpe1,RPE1,state,STATE,4,deg,DEG Top-K@K,500,0.361012987
+ed5_rpe1,RPE1,state,STATE,4,celleval,CellEval@K,50,0.07350649351
+ed5_rpe1,RPE1,state,STATE,4,celleval,CellEval@K,100,0.1387662338
+ed5_rpe1,RPE1,state,STATE,4,celleval,CellEval@K,200,0.2054220779
+ed5_rpe1,RPE1,state,STATE,4,celleval,CellEval@K,500,0.08216883117
+ed5_rpe1,RPE1,state,STATE,5,panel,Panel@K,50,0.5278339907
+ed5_rpe1,RPE1,state,STATE,5,panel,Panel@K,100,0.5748107278
+ed5_rpe1,RPE1,state,STATE,5,panel,Panel@K,200,0.6122243413
+ed5_rpe1,RPE1,state,STATE,5,panel,Panel@K,500,0.6477027417
+ed5_rpe1,RPE1,state,STATE,5,panel,Panel@K,1000,0.6347819505
+ed5_rpe1,RPE1,state,STATE,5,deg,DEG Top-K@K,50,0.3294805195
+ed5_rpe1,RPE1,state,STATE,5,deg,DEG Top-K@K,100,0.3707792208
+ed5_rpe1,RPE1,state,STATE,5,deg,DEG Top-K@K,200,0.3997402597
+ed5_rpe1,RPE1,state,STATE,5,deg,DEG Top-K@K,500,0.4297402597
+ed5_rpe1,RPE1,state,STATE,5,celleval,CellEval@K,50,0.111038961
+ed5_rpe1,RPE1,state,STATE,5,celleval,CellEval@K,100,0.2055844156
+ed5_rpe1,RPE1,state,STATE,5,celleval,CellEval@K,200,0.2847402597
+ed5_rpe1,RPE1,state,STATE,5,celleval,CellEval@K,500,0.1138961039
+ed5_rpe1,RPE1,state,STATE,6,panel,Panel@K,50,0.5292824581
+ed5_rpe1,RPE1,state,STATE,6,panel,Panel@K,100,0.5684224109
+ed5_rpe1,RPE1,state,STATE,6,panel,Panel@K,200,0.5952962746
+ed5_rpe1,RPE1,state,STATE,6,panel,Panel@K,500,0.6176808168
+ed5_rpe1,RPE1,state,STATE,6,panel,Panel@K,1000,0.594554517
+ed5_rpe1,RPE1,state,STATE,6,deg,DEG Top-K@K,50,0.2954248366
+ed5_rpe1,RPE1,state,STATE,6,deg,DEG Top-K@K,100,0.3316339869
+ed5_rpe1,RPE1,state,STATE,6,deg,DEG Top-K@K,200,0.3616993464
+ed5_rpe1,RPE1,state,STATE,6,deg,DEG Top-K@K,500,0.3968235294
+ed5_rpe1,RPE1,state,STATE,6,celleval,CellEval@K,50,0.08954248366
+ed5_rpe1,RPE1,state,STATE,6,celleval,CellEval@K,100,0.1632679739
+ed5_rpe1,RPE1,state,STATE,6,celleval,CellEval@K,200,0.2427777778
+ed5_rpe1,RPE1,state,STATE,6,celleval,CellEval@K,500,0.09711111111
+ed5_rpe1,RPE1,state,STATE,7,panel,Panel@K,50,0.5128962754
+ed5_rpe1,RPE1,state,STATE,7,panel,Panel@K,100,0.5605604716
+ed5_rpe1,RPE1,state,STATE,7,panel,Panel@K,200,0.5923361039
+ed5_rpe1,RPE1,state,STATE,7,panel,Panel@K,500,0.6155300551
+ed5_rpe1,RPE1,state,STATE,7,panel,Panel@K,1000,0.5966953448
+ed5_rpe1,RPE1,state,STATE,7,deg,DEG Top-K@K,50,0.337012987
+ed5_rpe1,RPE1,state,STATE,7,deg,DEG Top-K@K,100,0.3655194805
+ed5_rpe1,RPE1,state,STATE,7,deg,DEG Top-K@K,200,0.389512987
+ed5_rpe1,RPE1,state,STATE,7,deg,DEG Top-K@K,500,0.4181038961
+ed5_rpe1,RPE1,state,STATE,7,celleval,CellEval@K,50,0.1045454545
+ed5_rpe1,RPE1,state,STATE,7,celleval,CellEval@K,100,0.1796103896
+ed5_rpe1,RPE1,state,STATE,7,celleval,CellEval@K,200,0.2648376623
+ed5_rpe1,RPE1,state,STATE,7,celleval,CellEval@K,500,0.1059350649
+ed5_rpe1,RPE1,state,STATE,8,panel,Panel@K,50,0.5575824055
+ed5_rpe1,RPE1,state,STATE,8,panel,Panel@K,100,0.5984034482
+ed5_rpe1,RPE1,state,STATE,8,panel,Panel@K,200,0.6294494127
+ed5_rpe1,RPE1,state,STATE,8,panel,Panel@K,500,0.6553100452
+ed5_rpe1,RPE1,state,STATE,8,panel,Panel@K,1000,0.6375642942
+ed5_rpe1,RPE1,state,STATE,8,deg,DEG Top-K@K,50,0.3439215686
+ed5_rpe1,RPE1,state,STATE,8,deg,DEG Top-K@K,100,0.3720915033
+ed5_rpe1,RPE1,state,STATE,8,deg,DEG Top-K@K,200,0.4053594771
+ed5_rpe1,RPE1,state,STATE,8,deg,DEG Top-K@K,500,0.4298954248
+ed5_rpe1,RPE1,state,STATE,8,celleval,CellEval@K,50,0.09320261438
+ed5_rpe1,RPE1,state,STATE,8,celleval,CellEval@K,100,0.1699346405
+ed5_rpe1,RPE1,state,STATE,8,celleval,CellEval@K,200,0.263627451
+ed5_rpe1,RPE1,state,STATE,8,celleval,CellEval@K,500,0.1054509804
+ed5_rpe1,RPE1,state,STATE,9,panel,Panel@K,50,0.5058956214
+ed5_rpe1,RPE1,state,STATE,9,panel,Panel@K,100,0.5491802075
+ed5_rpe1,RPE1,state,STATE,9,panel,Panel@K,200,0.5845724893
+ed5_rpe1,RPE1,state,STATE,9,panel,Panel@K,500,0.6166442958
+ed5_rpe1,RPE1,state,STATE,9,panel,Panel@K,1000,0.6010663756
+ed5_rpe1,RPE1,state,STATE,9,deg,DEG Top-K@K,50,0.3289473684
+ed5_rpe1,RPE1,state,STATE,9,deg,DEG Top-K@K,100,0.3651973684
+ed5_rpe1,RPE1,state,STATE,9,deg,DEG Top-K@K,200,0.3914473684
+ed5_rpe1,RPE1,state,STATE,9,deg,DEG Top-K@K,500,0.4267236842
+ed5_rpe1,RPE1,state,STATE,9,celleval,CellEval@K,50,0.08486842105
+ed5_rpe1,RPE1,state,STATE,9,celleval,CellEval@K,100,0.1653289474
+ed5_rpe1,RPE1,state,STATE,9,celleval,CellEval@K,200,0.2475
+ed5_rpe1,RPE1,state,STATE,9,celleval,CellEval@K,500,0.099
+ed5_rpe1,RPE1,train_mean,Mean,0,panel,Panel@K,50,0.6944550288
+ed5_rpe1,RPE1,train_mean,Mean,0,panel,Panel@K,100,0.7143408107
+ed5_rpe1,RPE1,train_mean,Mean,0,panel,Panel@K,200,0.7363945917
+ed5_rpe1,RPE1,train_mean,Mean,0,panel,Panel@K,500,0.7491135147
+ed5_rpe1,RPE1,train_mean,Mean,0,panel,Panel@K,1000,0.7282515368
+ed5_rpe1,RPE1,train_mean,Mean,0,deg,DEG Top-K@K,50,0.4516883117
+ed5_rpe1,RPE1,train_mean,Mean,0,deg,DEG Top-K@K,100,0.4796103896
+ed5_rpe1,RPE1,train_mean,Mean,0,deg,DEG Top-K@K,200,0.491461039
+ed5_rpe1,RPE1,train_mean,Mean,0,deg,DEG Top-K@K,500,0.4922207792
+ed5_rpe1,RPE1,train_mean,Mean,0,celleval,CellEval@K,50,0.1176623377
+ed5_rpe1,RPE1,train_mean,Mean,0,celleval,CellEval@K,100,0.2113636364
+ed5_rpe1,RPE1,train_mean,Mean,0,celleval,CellEval@K,200,0.3088636364
+ed5_rpe1,RPE1,train_mean,Mean,0,celleval,CellEval@K,500,0.1235454545
+ed5_rpe1,RPE1,train_mean,Mean,1,panel,Panel@K,50,0.6815752795
+ed5_rpe1,RPE1,train_mean,Mean,1,panel,Panel@K,100,0.6942416839
+ed5_rpe1,RPE1,train_mean,Mean,1,panel,Panel@K,200,0.7132767053
+ed5_rpe1,RPE1,train_mean,Mean,1,panel,Panel@K,500,0.7233678724
+ed5_rpe1,RPE1,train_mean,Mean,1,panel,Panel@K,1000,0.7015891869
+ed5_rpe1,RPE1,train_mean,Mean,1,deg,DEG Top-K@K,50,0.4411688312
+ed5_rpe1,RPE1,train_mean,Mean,1,deg,DEG Top-K@K,100,0.4611688312
+ed5_rpe1,RPE1,train_mean,Mean,1,deg,DEG Top-K@K,200,0.4812337662
+ed5_rpe1,RPE1,train_mean,Mean,1,deg,DEG Top-K@K,500,0.4852207792
+ed5_rpe1,RPE1,train_mean,Mean,1,celleval,CellEval@K,50,0.1105194805
+ed5_rpe1,RPE1,train_mean,Mean,1,celleval,CellEval@K,100,0.2038311688
+ed5_rpe1,RPE1,train_mean,Mean,1,celleval,CellEval@K,200,0.3002272727
+ed5_rpe1,RPE1,train_mean,Mean,1,celleval,CellEval@K,500,0.1200909091
+ed5_rpe1,RPE1,train_mean,Mean,2,panel,Panel@K,50,0.6984811587
+ed5_rpe1,RPE1,train_mean,Mean,2,panel,Panel@K,100,0.7145339989
+ed5_rpe1,RPE1,train_mean,Mean,2,panel,Panel@K,200,0.7302220348
+ed5_rpe1,RPE1,train_mean,Mean,2,panel,Panel@K,500,0.7441382661
+ed5_rpe1,RPE1,train_mean,Mean,2,panel,Panel@K,1000,0.7216716337
+ed5_rpe1,RPE1,train_mean,Mean,2,deg,DEG Top-K@K,50,0.4554545455
+ed5_rpe1,RPE1,train_mean,Mean,2,deg,DEG Top-K@K,100,0.4703246753
+ed5_rpe1,RPE1,train_mean,Mean,2,deg,DEG Top-K@K,200,0.4892207792
+ed5_rpe1,RPE1,train_mean,Mean,2,deg,DEG Top-K@K,500,0.4895064935
+ed5_rpe1,RPE1,train_mean,Mean,2,celleval,CellEval@K,50,0.1050649351
+ed5_rpe1,RPE1,train_mean,Mean,2,celleval,CellEval@K,100,0.2030519481
+ed5_rpe1,RPE1,train_mean,Mean,2,celleval,CellEval@K,200,0.3004220779
+ed5_rpe1,RPE1,train_mean,Mean,2,celleval,CellEval@K,500,0.1201688312
+ed5_rpe1,RPE1,train_mean,Mean,3,panel,Panel@K,50,0.6278230773
+ed5_rpe1,RPE1,train_mean,Mean,3,panel,Panel@K,100,0.6475369095
+ed5_rpe1,RPE1,train_mean,Mean,3,panel,Panel@K,200,0.6733140796
+ed5_rpe1,RPE1,train_mean,Mean,3,panel,Panel@K,500,0.6919599747
+ed5_rpe1,RPE1,train_mean,Mean,3,panel,Panel@K,1000,0.6773449394
+ed5_rpe1,RPE1,train_mean,Mean,3,deg,DEG Top-K@K,50,0.4309090909
+ed5_rpe1,RPE1,train_mean,Mean,3,deg,DEG Top-K@K,100,0.4587662338
+ed5_rpe1,RPE1,train_mean,Mean,3,deg,DEG Top-K@K,200,0.4779220779
+ed5_rpe1,RPE1,train_mean,Mean,3,deg,DEG Top-K@K,500,0.4844935065
+ed5_rpe1,RPE1,train_mean,Mean,3,celleval,CellEval@K,50,0.1133766234
+ed5_rpe1,RPE1,train_mean,Mean,3,celleval,CellEval@K,100,0.2105844156
+ed5_rpe1,RPE1,train_mean,Mean,3,celleval,CellEval@K,200,0.3053571429
+ed5_rpe1,RPE1,train_mean,Mean,3,celleval,CellEval@K,500,0.1221428571
+ed5_rpe1,RPE1,train_mean,Mean,4,panel,Panel@K,50,0.673890959
+ed5_rpe1,RPE1,train_mean,Mean,4,panel,Panel@K,100,0.6998560635
+ed5_rpe1,RPE1,train_mean,Mean,4,panel,Panel@K,200,0.7235747842
+ed5_rpe1,RPE1,train_mean,Mean,4,panel,Panel@K,500,0.7407606042
+ed5_rpe1,RPE1,train_mean,Mean,4,panel,Panel@K,1000,0.7198550641
+ed5_rpe1,RPE1,train_mean,Mean,4,deg,DEG Top-K@K,50,0.4457142857
+ed5_rpe1,RPE1,train_mean,Mean,4,deg,DEG Top-K@K,100,0.4627922078
+ed5_rpe1,RPE1,train_mean,Mean,4,deg,DEG Top-K@K,200,0.4794480519
+ed5_rpe1,RPE1,train_mean,Mean,4,deg,DEG Top-K@K,500,0.4838181818
+ed5_rpe1,RPE1,train_mean,Mean,4,celleval,CellEval@K,50,0.09571428571
+ed5_rpe1,RPE1,train_mean,Mean,4,celleval,CellEval@K,100,0.1918831169
+ed5_rpe1,RPE1,train_mean,Mean,4,celleval,CellEval@K,200,0.2903896104
+ed5_rpe1,RPE1,train_mean,Mean,4,celleval,CellEval@K,500,0.1161558442
+ed5_rpe1,RPE1,train_mean,Mean,5,panel,Panel@K,50,0.6624025194
+ed5_rpe1,RPE1,train_mean,Mean,5,panel,Panel@K,100,0.6863644546
+ed5_rpe1,RPE1,train_mean,Mean,5,panel,Panel@K,200,0.7136573544
+ed5_rpe1,RPE1,train_mean,Mean,5,panel,Panel@K,500,0.7294654508
+ed5_rpe1,RPE1,train_mean,Mean,5,panel,Panel@K,1000,0.7087537442
+ed5_rpe1,RPE1,train_mean,Mean,5,deg,DEG Top-K@K,50,0.4390909091
+ed5_rpe1,RPE1,train_mean,Mean,5,deg,DEG Top-K@K,100,0.4637662338
+ed5_rpe1,RPE1,train_mean,Mean,5,deg,DEG Top-K@K,200,0.4827597403
+ed5_rpe1,RPE1,train_mean,Mean,5,deg,DEG Top-K@K,500,0.4868831169
+ed5_rpe1,RPE1,train_mean,Mean,5,celleval,CellEval@K,50,0.1150649351
+ed5_rpe1,RPE1,train_mean,Mean,5,celleval,CellEval@K,100,0.2162987013
+ed5_rpe1,RPE1,train_mean,Mean,5,celleval,CellEval@K,200,0.309512987
+ed5_rpe1,RPE1,train_mean,Mean,5,celleval,CellEval@K,500,0.1238051948
+ed5_rpe1,RPE1,train_mean,Mean,6,panel,Panel@K,50,0.6711295427
+ed5_rpe1,RPE1,train_mean,Mean,6,panel,Panel@K,100,0.6859044346
+ed5_rpe1,RPE1,train_mean,Mean,6,panel,Panel@K,200,0.7043770802
+ed5_rpe1,RPE1,train_mean,Mean,6,panel,Panel@K,500,0.7186660317
+ed5_rpe1,RPE1,train_mean,Mean,6,panel,Panel@K,1000,0.6959710153
+ed5_rpe1,RPE1,train_mean,Mean,6,deg,DEG Top-K@K,50,0.4255844156
+ed5_rpe1,RPE1,train_mean,Mean,6,deg,DEG Top-K@K,100,0.4485064935
+ed5_rpe1,RPE1,train_mean,Mean,6,deg,DEG Top-K@K,200,0.4671753247
+ed5_rpe1,RPE1,train_mean,Mean,6,deg,DEG Top-K@K,500,0.4777402597
+ed5_rpe1,RPE1,train_mean,Mean,6,celleval,CellEval@K,50,0.1002597403
+ed5_rpe1,RPE1,train_mean,Mean,6,celleval,CellEval@K,100,0.1836363636
+ed5_rpe1,RPE1,train_mean,Mean,6,celleval,CellEval@K,200,0.277987013
+ed5_rpe1,RPE1,train_mean,Mean,6,celleval,CellEval@K,500,0.1111948052
+ed5_rpe1,RPE1,train_mean,Mean,7,panel,Panel@K,50,0.6514778379
+ed5_rpe1,RPE1,train_mean,Mean,7,panel,Panel@K,100,0.6700916066
+ed5_rpe1,RPE1,train_mean,Mean,7,panel,Panel@K,200,0.6876527043
+ed5_rpe1,RPE1,train_mean,Mean,7,panel,Panel@K,500,0.7008937231
+ed5_rpe1,RPE1,train_mean,Mean,7,panel,Panel@K,1000,0.6808179666
+ed5_rpe1,RPE1,train_mean,Mean,7,deg,DEG Top-K@K,50,0.4375324675
+ed5_rpe1,RPE1,train_mean,Mean,7,deg,DEG Top-K@K,100,0.4575974026
+ed5_rpe1,RPE1,train_mean,Mean,7,deg,DEG Top-K@K,200,0.4789935065
+ed5_rpe1,RPE1,train_mean,Mean,7,deg,DEG Top-K@K,500,0.4848831169
+ed5_rpe1,RPE1,train_mean,Mean,7,celleval,CellEval@K,50,0.108961039
+ed5_rpe1,RPE1,train_mean,Mean,7,celleval,CellEval@K,100,0.197987013
+ed5_rpe1,RPE1,train_mean,Mean,7,celleval,CellEval@K,200,0.3017857143
+ed5_rpe1,RPE1,train_mean,Mean,7,celleval,CellEval@K,500,0.1207142857
+ed5_rpe1,RPE1,train_mean,Mean,8,panel,Panel@K,50,0.643257199
+ed5_rpe1,RPE1,train_mean,Mean,8,panel,Panel@K,100,0.6666958904
+ed5_rpe1,RPE1,train_mean,Mean,8,panel,Panel@K,200,0.6943616512
+ed5_rpe1,RPE1,train_mean,Mean,8,panel,Panel@K,500,0.7123023569
+ed5_rpe1,RPE1,train_mean,Mean,8,panel,Panel@K,1000,0.6933552512
+ed5_rpe1,RPE1,train_mean,Mean,8,deg,DEG Top-K@K,50,0.4276623377
+ed5_rpe1,RPE1,train_mean,Mean,8,deg,DEG Top-K@K,100,0.4542857143
+ed5_rpe1,RPE1,train_mean,Mean,8,deg,DEG Top-K@K,200,0.4744480519
+ed5_rpe1,RPE1,train_mean,Mean,8,deg,DEG Top-K@K,500,0.4824675325
+ed5_rpe1,RPE1,train_mean,Mean,8,celleval,CellEval@K,50,0.1022077922
+ed5_rpe1,RPE1,train_mean,Mean,8,celleval,CellEval@K,100,0.1880519481
+ed5_rpe1,RPE1,train_mean,Mean,8,celleval,CellEval@K,200,0.2934415584
+ed5_rpe1,RPE1,train_mean,Mean,8,celleval,CellEval@K,500,0.1173766234
+ed5_rpe1,RPE1,train_mean,Mean,9,panel,Panel@K,50,0.6426828394
+ed5_rpe1,RPE1,train_mean,Mean,9,panel,Panel@K,100,0.6611803258
+ed5_rpe1,RPE1,train_mean,Mean,9,panel,Panel@K,200,0.6826262345
+ed5_rpe1,RPE1,train_mean,Mean,9,panel,Panel@K,500,0.69662423
+ed5_rpe1,RPE1,train_mean,Mean,9,panel,Panel@K,1000,0.6703496558
+ed5_rpe1,RPE1,train_mean,Mean,9,deg,DEG Top-K@K,50,0.4025974026
+ed5_rpe1,RPE1,train_mean,Mean,9,deg,DEG Top-K@K,100,0.4277272727
+ed5_rpe1,RPE1,train_mean,Mean,9,deg,DEG Top-K@K,200,0.4529545455
+ed5_rpe1,RPE1,train_mean,Mean,9,deg,DEG Top-K@K,500,0.4662207792
+ed5_rpe1,RPE1,train_mean,Mean,9,celleval,CellEval@K,50,0.09298701299
+ed5_rpe1,RPE1,train_mean,Mean,9,celleval,CellEval@K,100,0.1803896104
+ed5_rpe1,RPE1,train_mean,Mean,9,celleval,CellEval@K,200,0.2713961039
+ed5_rpe1,RPE1,train_mean,Mean,9,celleval,CellEval@K,500,0.1085584416
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,panel,Panel@K,50,0.3784431175
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,panel,Panel@K,100,0.3939363547
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,panel,Panel@K,200,0.4062033953
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,panel,Panel@K,500,0.4037974922
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,panel,Panel@K,1000,0.3791528737
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,deg,DEG Top-K@K,50,0.2701298701
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,deg,DEG Top-K@K,100,0.3154545455
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,deg,DEG Top-K@K,200,0.3491883117
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,deg,DEG Top-K@K,500,0.3897532468
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,celleval,CellEval@K,50,0.08090909091
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,celleval,CellEval@K,100,0.1435714286
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,celleval,CellEval@K,200,0.2093506494
+ed5_rpe1,RPE1,ridge_esm,Ridge,0,celleval,CellEval@K,500,0.08374025974
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,panel,Panel@K,50,0.4048162642
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,panel,Panel@K,100,0.4126729556
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,panel,Panel@K,200,0.4186450765
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,panel,Panel@K,500,0.4122375025
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,panel,Panel@K,1000,0.3858638939
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,deg,DEG Top-K@K,50,0.2764935065
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,deg,DEG Top-K@K,100,0.3128571429
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,deg,DEG Top-K@K,200,0.3524675325
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,deg,DEG Top-K@K,500,0.388025974
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,celleval,CellEval@K,50,0.08194805195
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,celleval,CellEval@K,100,0.1415584416
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,celleval,CellEval@K,200,0.2117207792
+ed5_rpe1,RPE1,ridge_esm,Ridge,1,celleval,CellEval@K,500,0.08468831169
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,panel,Panel@K,50,0.3529212204
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,panel,Panel@K,100,0.3580808211
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,panel,Panel@K,200,0.3548937555
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,panel,Panel@K,500,0.3511516589
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,panel,Panel@K,1000,0.3292546183
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,deg,DEG Top-K@K,50,0.2476623377
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,deg,DEG Top-K@K,100,0.2835714286
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,deg,DEG Top-K@K,200,0.3278571429
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,deg,DEG Top-K@K,500,0.3714155844
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,celleval,CellEval@K,50,0.06792207792
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,celleval,CellEval@K,100,0.1187012987
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,celleval,CellEval@K,200,0.1879545455
+ed5_rpe1,RPE1,ridge_esm,Ridge,2,celleval,CellEval@K,500,0.07518181818
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,panel,Panel@K,50,0.3474701049
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,panel,Panel@K,100,0.3598975222
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,panel,Panel@K,200,0.368096881
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,panel,Panel@K,500,0.3642010971
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,panel,Panel@K,1000,0.3407505265
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,deg,DEG Top-K@K,50,0.2435064935
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,deg,DEG Top-K@K,100,0.2892207792
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,deg,DEG Top-K@K,200,0.3289935065
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,deg,DEG Top-K@K,500,0.3776233766
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,celleval,CellEval@K,50,0.07428571429
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,celleval,CellEval@K,100,0.1281818182
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,celleval,CellEval@K,200,0.1987987013
+ed5_rpe1,RPE1,ridge_esm,Ridge,3,celleval,CellEval@K,500,0.07951948052
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,panel,Panel@K,50,0.3235234873
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,panel,Panel@K,100,0.3345377395
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,panel,Panel@K,200,0.3426363744
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,panel,Panel@K,500,0.3471143665
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,panel,Panel@K,1000,0.3268307045
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,deg,DEG Top-K@K,50,0.2520779221
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,deg,DEG Top-K@K,100,0.2902597403
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,deg,DEG Top-K@K,200,0.331038961
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,deg,DEG Top-K@K,500,0.3782857143
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,celleval,CellEval@K,50,0.06571428571
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,celleval,CellEval@K,100,0.119025974
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,celleval,CellEval@K,200,0.1912012987
+ed5_rpe1,RPE1,ridge_esm,Ridge,4,celleval,CellEval@K,500,0.07648051948
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,panel,Panel@K,50,0.354858203
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,panel,Panel@K,100,0.3647947912
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,panel,Panel@K,200,0.3792143992
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,panel,Panel@K,500,0.3814227955
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,panel,Panel@K,1000,0.359216577
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,deg,DEG Top-K@K,50,0.2615584416
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,deg,DEG Top-K@K,100,0.2990909091
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,deg,DEG Top-K@K,200,0.3410714286
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,deg,DEG Top-K@K,500,0.379961039
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,celleval,CellEval@K,50,0.07831168831
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,celleval,CellEval@K,100,0.1381818182
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,celleval,CellEval@K,200,0.2075974026
+ed5_rpe1,RPE1,ridge_esm,Ridge,5,celleval,CellEval@K,500,0.08303896104
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,panel,Panel@K,50,0.3950284529
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,panel,Panel@K,100,0.4043781001
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,panel,Panel@K,200,0.4084484255
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,panel,Panel@K,500,0.4002411311
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,panel,Panel@K,1000,0.3711134528
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,deg,DEG Top-K@K,50,0.2648051948
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,deg,DEG Top-K@K,100,0.304025974
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,deg,DEG Top-K@K,200,0.3407467532
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,deg,DEG Top-K@K,500,0.3786233766
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,celleval,CellEval@K,50,0.07181818182
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,celleval,CellEval@K,100,0.1246103896
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,celleval,CellEval@K,200,0.1900974026
+ed5_rpe1,RPE1,ridge_esm,Ridge,6,celleval,CellEval@K,500,0.07603896104
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,panel,Panel@K,50,0.4382906409
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,panel,Panel@K,100,0.4541225291
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,panel,Panel@K,200,0.4555128131
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,panel,Panel@K,500,0.4455352787
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,panel,Panel@K,1000,0.4151736003
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,deg,DEG Top-K@K,50,0.2893506494
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,deg,DEG Top-K@K,100,0.3261038961
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,deg,DEG Top-K@K,200,0.3648701299
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,deg,DEG Top-K@K,500,0.3970519481
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,celleval,CellEval@K,50,0.08285714286
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,celleval,CellEval@K,100,0.1431818182
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,celleval,CellEval@K,200,0.2175
+ed5_rpe1,RPE1,ridge_esm,Ridge,7,celleval,CellEval@K,500,0.087
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,panel,Panel@K,50,0.3447411172
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,panel,Panel@K,100,0.3597796143
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,panel,Panel@K,200,0.3749753614
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,panel,Panel@K,500,0.3804028027
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,panel,Panel@K,1000,0.3560134282
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,deg,DEG Top-K@K,50,0.2520779221
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,deg,DEG Top-K@K,100,0.2922727273
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,deg,DEG Top-K@K,200,0.3372077922
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,deg,DEG Top-K@K,500,0.3798831169
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,celleval,CellEval@K,50,0.08012987013
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,celleval,CellEval@K,100,0.1317532468
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,celleval,CellEval@K,200,0.2034090909
+ed5_rpe1,RPE1,ridge_esm,Ridge,8,celleval,CellEval@K,500,0.08136363636
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,panel,Panel@K,50,0.3532573549
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,panel,Panel@K,100,0.3627503789
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,panel,Panel@K,200,0.3651588725
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,panel,Panel@K,500,0.359394217
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,panel,Panel@K,1000,0.3309418491
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,deg,DEG Top-K@K,50,0.2445454545
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,deg,DEG Top-K@K,100,0.2815584416
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,deg,DEG Top-K@K,200,0.3242207792
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,deg,DEG Top-K@K,500,0.3675064935
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,celleval,CellEval@K,50,0.0738961039
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,celleval,CellEval@K,100,0.119025974
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,celleval,CellEval@K,200,0.1816883117
+ed5_rpe1,RPE1,ridge_esm,Ridge,9,celleval,CellEval@K,500,0.07267532468
+norman,Norman,ours,Ours,0,panel,Panel@K,50,0.6490138913
+norman,Norman,ours,Ours,0,panel,Panel@K,100,0.6351849471
+norman,Norman,ours,Ours,0,panel,Panel@K,200,0.6292423739
+norman,Norman,ours,Ours,0,panel,Panel@K,500,0.5854930665
+norman,Norman,ours,Ours,0,panel,Panel@K,1000,0.5209207909
+norman,Norman,ours,Ours,0,deg,DEG Top-K@K,50,0.4485714286
+norman,Norman,ours,Ours,0,deg,DEG Top-K@K,100,0.5157142857
+norman,Norman,ours,Ours,0,deg,DEG Top-K@K,200,0.5725
+norman,Norman,ours,Ours,0,deg,DEG Top-K@K,500,0.6704285714
+norman,Norman,ours,Ours,0,celleval,CellEval@K,50,0.454
+norman,Norman,ours,Ours,0,celleval,CellEval@K,100,0.51
+norman,Norman,ours,Ours,0,celleval,CellEval@K,200,0.5625
+norman,Norman,ours,Ours,0,celleval,CellEval@K,500,0.6606
+norman,Norman,ours,Ours,1,panel,Panel@K,50,0.7140696279
+norman,Norman,ours,Ours,1,panel,Panel@K,100,0.7128322832
+norman,Norman,ours,Ours,1,panel,Panel@K,200,0.6858582715
+norman,Norman,ours,Ours,1,panel,Panel@K,500,0.6201293765
+norman,Norman,ours,Ours,1,panel,Panel@K,1000,0.5507787568
+norman,Norman,ours,Ours,1,deg,DEG Top-K@K,50,0.485
+norman,Norman,ours,Ours,1,deg,DEG Top-K@K,100,0.545
+norman,Norman,ours,Ours,1,deg,DEG Top-K@K,200,0.5766666667
+norman,Norman,ours,Ours,1,deg,DEG Top-K@K,500,0.6755
+norman,Norman,ours,Ours,1,celleval,CellEval@K,50,0.46
+norman,Norman,ours,Ours,1,celleval,CellEval@K,100,0.525
+norman,Norman,ours,Ours,1,celleval,CellEval@K,200,0.559
+norman,Norman,ours,Ours,1,celleval,CellEval@K,500,0.6622
+norman,Norman,ours,Ours,2,panel,Panel@K,50,0.7246029841
+norman,Norman,ours,Ours,2,panel,Panel@K,100,0.7131224551
+norman,Norman,ours,Ours,2,panel,Panel@K,200,0.6977695514
+norman,Norman,ours,Ours,2,panel,Panel@K,500,0.631067562
+norman,Norman,ours,Ours,2,panel,Panel@K,1000,0.5325823417
+norman,Norman,ours,Ours,2,deg,DEG Top-K@K,50,0.4585714286
+norman,Norman,ours,Ours,2,deg,DEG Top-K@K,100,0.4985714286
+norman,Norman,ours,Ours,2,deg,DEG Top-K@K,200,0.5646428571
+norman,Norman,ours,Ours,2,deg,DEG Top-K@K,500,0.6604285714
+norman,Norman,ours,Ours,2,celleval,CellEval@K,50,0.472
+norman,Norman,ours,Ours,2,celleval,CellEval@K,100,0.504
+norman,Norman,ours,Ours,2,celleval,CellEval@K,200,0.573
+norman,Norman,ours,Ours,2,celleval,CellEval@K,500,0.6608
+norman,Norman,ours,Ours,3,panel,Panel@K,50,0.7715108901
+norman,Norman,ours,Ours,3,panel,Panel@K,100,0.7552535254
+norman,Norman,ours,Ours,3,panel,Panel@K,200,0.770064073
+norman,Norman,ours,Ours,3,panel,Panel@K,500,0.7339436306
+norman,Norman,ours,Ours,3,panel,Panel@K,1000,0.654156535
+norman,Norman,ours,Ours,3,deg,DEG Top-K@K,50,0.5628571429
+norman,Norman,ours,Ours,3,deg,DEG Top-K@K,100,0.6021428571
+norman,Norman,ours,Ours,3,deg,DEG Top-K@K,200,0.6307142857
+norman,Norman,ours,Ours,3,deg,DEG Top-K@K,500,0.7001428571
+norman,Norman,ours,Ours,3,celleval,CellEval@K,50,0.522
+norman,Norman,ours,Ours,3,celleval,CellEval@K,100,0.571
+norman,Norman,ours,Ours,3,celleval,CellEval@K,200,0.604
+norman,Norman,ours,Ours,3,celleval,CellEval@K,500,0.6814
+norman,Norman,ours,Ours,4,panel,Panel@K,50,0.7985994398
+norman,Norman,ours,Ours,4,panel,Panel@K,100,0.7940414041
+norman,Norman,ours,Ours,4,panel,Panel@K,200,0.8079090727
+norman,Norman,ours,Ours,4,panel,Panel@K,500,0.7673602054
+norman,Norman,ours,Ours,4,panel,Panel@K,1000,0.686972474
+norman,Norman,ours,Ours,4,deg,DEG Top-K@K,50,0.57
+norman,Norman,ours,Ours,4,deg,DEG Top-K@K,100,0.625
+norman,Norman,ours,Ours,4,deg,DEG Top-K@K,200,0.6416666667
+norman,Norman,ours,Ours,4,deg,DEG Top-K@K,500,0.7133333333
+norman,Norman,ours,Ours,4,celleval,CellEval@K,50,0.56
+norman,Norman,ours,Ours,4,celleval,CellEval@K,100,0.635
+norman,Norman,ours,Ours,4,celleval,CellEval@K,200,0.6465
+norman,Norman,ours,Ours,4,celleval,CellEval@K,500,0.7146
+norman,Norman,ours,Ours,5,panel,Panel@K,50,0.6381656663
+norman,Norman,ours,Ours,5,panel,Panel@K,100,0.6749306931
+norman,Norman,ours,Ours,5,panel,Panel@K,200,0.673559539
+norman,Norman,ours,Ours,5,panel,Panel@K,500,0.610607396
+norman,Norman,ours,Ours,5,panel,Panel@K,1000,0.5259997532
+norman,Norman,ours,Ours,5,deg,DEG Top-K@K,50,0.4373333333
+norman,Norman,ours,Ours,5,deg,DEG Top-K@K,100,0.4966666667
+norman,Norman,ours,Ours,5,deg,DEG Top-K@K,200,0.5606666667
+norman,Norman,ours,Ours,5,deg,DEG Top-K@K,500,0.6673333333
+norman,Norman,ours,Ours,5,celleval,CellEval@K,50,0.454
+norman,Norman,ours,Ours,5,celleval,CellEval@K,100,0.511
+norman,Norman,ours,Ours,5,celleval,CellEval@K,200,0.5775
+norman,Norman,ours,Ours,5,celleval,CellEval@K,500,0.6688
+norman,Norman,ours,Ours,6,panel,Panel@K,50,0.7048163265
+norman,Norman,ours,Ours,6,panel,Panel@K,100,0.7043984398
+norman,Norman,ours,Ours,6,panel,Panel@K,200,0.7127466187
+norman,Norman,ours,Ours,6,panel,Panel@K,500,0.6319810815
+norman,Norman,ours,Ours,6,panel,Panel@K,1000,0.5336576105
+norman,Norman,ours,Ours,6,deg,DEG Top-K@K,50,0.416
+norman,Norman,ours,Ours,6,deg,DEG Top-K@K,100,0.5006666667
+norman,Norman,ours,Ours,6,deg,DEG Top-K@K,200,0.5543333333
+norman,Norman,ours,Ours,6,deg,DEG Top-K@K,500,0.6526666667
+norman,Norman,ours,Ours,6,celleval,CellEval@K,50,0.442
+norman,Norman,ours,Ours,6,celleval,CellEval@K,100,0.532
+norman,Norman,ours,Ours,6,celleval,CellEval@K,200,0.588
+norman,Norman,ours,Ours,6,celleval,CellEval@K,500,0.663
+norman,Norman,ours,Ours,7,panel,Panel@K,50,0.7799464401
+norman,Norman,ours,Ours,7,panel,Panel@K,100,0.8180507281
+norman,Norman,ours,Ours,7,panel,Panel@K,200,0.818050182
+norman,Norman,ours,Ours,7,panel,Panel@K,500,0.7670550239
+norman,Norman,ours,Ours,7,panel,Panel@K,1000,0.695403772
+norman,Norman,ours,Ours,7,deg,DEG Top-K@K,50,0.6
+norman,Norman,ours,Ours,7,deg,DEG Top-K@K,100,0.6315384615
+norman,Norman,ours,Ours,7,deg,DEG Top-K@K,200,0.6488461538
+norman,Norman,ours,Ours,7,deg,DEG Top-K@K,500,0.7106153846
+norman,Norman,ours,Ours,7,celleval,CellEval@K,50,0.584
+norman,Norman,ours,Ours,7,celleval,CellEval@K,100,0.628
+norman,Norman,ours,Ours,7,celleval,CellEval@K,200,0.632
+norman,Norman,ours,Ours,7,celleval,CellEval@K,500,0.7002
+norman,Norman,ours,Ours,8,panel,Panel@K,50,0.7252037657
+norman,Norman,ours,Ours,8,panel,Panel@K,100,0.7452416821
+norman,Norman,ours,Ours,8,panel,Panel@K,200,0.7426498557
+norman,Norman,ours,Ours,8,panel,Panel@K,500,0.6802950547
+norman,Norman,ours,Ours,8,panel,Panel@K,1000,0.6018618505
+norman,Norman,ours,Ours,8,deg,DEG Top-K@K,50,0.5452631579
+norman,Norman,ours,Ours,8,deg,DEG Top-K@K,100,0.5810526316
+norman,Norman,ours,Ours,8,deg,DEG Top-K@K,200,0.6160526316
+norman,Norman,ours,Ours,8,deg,DEG Top-K@K,500,0.7043157895
+norman,Norman,ours,Ours,8,celleval,CellEval@K,50,0.512
+norman,Norman,ours,Ours,8,celleval,CellEval@K,100,0.581
+norman,Norman,ours,Ours,8,celleval,CellEval@K,200,0.6055
+norman,Norman,ours,Ours,8,celleval,CellEval@K,500,0.696
+norman,Norman,ours,Ours,9,panel,Panel@K,50,0.672656755
+norman,Norman,ours,Ours,9,panel,Panel@K,100,0.674316047
+norman,Norman,ours,Ours,9,panel,Panel@K,200,0.6651791679
+norman,Norman,ours,Ours,9,panel,Panel@K,500,0.6185431166
+norman,Norman,ours,Ours,9,panel,Panel@K,1000,0.5406625502
+norman,Norman,ours,Ours,9,deg,DEG Top-K@K,50,0.4415384615
+norman,Norman,ours,Ours,9,deg,DEG Top-K@K,100,0.5315384615
+norman,Norman,ours,Ours,9,deg,DEG Top-K@K,200,0.5819230769
+norman,Norman,ours,Ours,9,deg,DEG Top-K@K,500,0.6766153846
+norman,Norman,ours,Ours,9,celleval,CellEval@K,50,0.394
+norman,Norman,ours,Ours,9,celleval,CellEval@K,100,0.481
+norman,Norman,ours,Ours,9,celleval,CellEval@K,200,0.549
+norman,Norman,ours,Ours,9,celleval,CellEval@K,500,0.6562
+norman,Norman,gears,GEARS,0,panel,Panel@K,50,0.6764465786
+norman,Norman,gears,GEARS,0,panel,Panel@K,100,0.6741048391
+norman,Norman,gears,GEARS,0,panel,Panel@K,200,0.68314365
+norman,Norman,gears,GEARS,0,panel,Panel@K,500,0.6025641977
+norman,Norman,gears,GEARS,0,panel,Panel@K,1000,0.5008646309
+norman,Norman,gears,GEARS,0,deg,DEG Top-K@K,50,0.42
+norman,Norman,gears,GEARS,0,deg,DEG Top-K@K,100,0.4635714286
+norman,Norman,gears,GEARS,0,deg,DEG Top-K@K,200,0.4578571429
+norman,Norman,gears,GEARS,0,deg,DEG Top-K@K,500,0.5178571429
+norman,Norman,gears,GEARS,0,celleval,CellEval@K,50,0.404
+norman,Norman,gears,GEARS,0,celleval,CellEval@K,100,0.442
+norman,Norman,gears,GEARS,0,celleval,CellEval@K,200,0.4395
+norman,Norman,gears,GEARS,0,celleval,CellEval@K,500,0.5116
+norman,Norman,gears,GEARS,1,panel,Panel@K,50,0.5526242497
+norman,Norman,gears,GEARS,1,panel,Panel@K,100,0.5642844284
+norman,Norman,gears,GEARS,1,panel,Panel@K,200,0.5466154654
+norman,Norman,gears,GEARS,1,panel,Panel@K,500,0.4597764055
+norman,Norman,gears,GEARS,1,panel,Panel@K,1000,0.3874383814
+norman,Norman,gears,GEARS,1,deg,DEG Top-K@K,50,0.308
+norman,Norman,gears,GEARS,1,deg,DEG Top-K@K,100,0.366
+norman,Norman,gears,GEARS,1,deg,DEG Top-K@K,200,0.401
+norman,Norman,gears,GEARS,1,deg,DEG Top-K@K,500,0.4988
+norman,Norman,gears,GEARS,1,celleval,CellEval@K,50,0.3025
+norman,Norman,gears,GEARS,1,celleval,CellEval@K,100,0.35625
+norman,Norman,gears,GEARS,1,celleval,CellEval@K,200,0.386875
+norman,Norman,gears,GEARS,1,celleval,CellEval@K,500,0.4945
+norman,Norman,gears,GEARS,2,panel,Panel@K,50,0.4174309724
+norman,Norman,gears,GEARS,2,panel,Panel@K,100,0.4531837799
+norman,Norman,gears,GEARS,2,panel,Panel@K,200,0.4652032839
+norman,Norman,gears,GEARS,2,panel,Panel@K,500,0.4148677862
+norman,Norman,gears,GEARS,2,panel,Panel@K,1000,0.3401309718
+norman,Norman,gears,GEARS,2,deg,DEG Top-K@K,50,0.3123076923
+norman,Norman,gears,GEARS,2,deg,DEG Top-K@K,100,0.3553846154
+norman,Norman,gears,GEARS,2,deg,DEG Top-K@K,200,0.3976923077
+norman,Norman,gears,GEARS,2,deg,DEG Top-K@K,500,0.4741538462
+norman,Norman,gears,GEARS,2,celleval,CellEval@K,50,0.3155555556
+norman,Norman,gears,GEARS,2,celleval,CellEval@K,100,0.3522222222
+norman,Norman,gears,GEARS,2,celleval,CellEval@K,200,0.3977777778
+norman,Norman,gears,GEARS,2,celleval,CellEval@K,500,0.4708888889
+norman,Norman,gears,GEARS,3,panel,Panel@K,50,0.5383364774
+norman,Norman,gears,GEARS,3,panel,Panel@K,100,0.5795679568
+norman,Norman,gears,GEARS,3,panel,Panel@K,200,0.6178105881
+norman,Norman,gears,GEARS,3,panel,Panel@K,500,0.5631854367
+norman,Norman,gears,GEARS,3,panel,Panel@K,1000,0.4778676827
+norman,Norman,gears,GEARS,3,deg,DEG Top-K@K,50,0.3757142857
+norman,Norman,gears,GEARS,3,deg,DEG Top-K@K,100,0.42
+norman,Norman,gears,GEARS,3,deg,DEG Top-K@K,200,0.4378571429
+norman,Norman,gears,GEARS,3,deg,DEG Top-K@K,500,0.5247142857
+norman,Norman,gears,GEARS,3,celleval,CellEval@K,50,0.354
+norman,Norman,gears,GEARS,3,celleval,CellEval@K,100,0.407
+norman,Norman,gears,GEARS,3,celleval,CellEval@K,200,0.426
+norman,Norman,gears,GEARS,3,celleval,CellEval@K,500,0.5206
+norman,Norman,gears,GEARS,4,panel,Panel@K,50,0.497294918
+norman,Norman,gears,GEARS,4,panel,Panel@K,100,0.5362986299
+norman,Norman,gears,GEARS,4,panel,Panel@K,200,0.5412926573
+norman,Norman,gears,GEARS,4,panel,Panel@K,500,0.4883542334
+norman,Norman,gears,GEARS,4,panel,Panel@K,1000,0.406954637
+norman,Norman,gears,GEARS,4,deg,DEG Top-K@K,50,0.3633333333
+norman,Norman,gears,GEARS,4,deg,DEG Top-K@K,100,0.3758333333
+norman,Norman,gears,GEARS,4,deg,DEG Top-K@K,200,0.4029166667
+norman,Norman,gears,GEARS,4,deg,DEG Top-K@K,500,0.4858333333
+norman,Norman,gears,GEARS,4,celleval,CellEval@K,50,0.384
+norman,Norman,gears,GEARS,4,celleval,CellEval@K,100,0.389
+norman,Norman,gears,GEARS,4,celleval,CellEval@K,200,0.411
+norman,Norman,gears,GEARS,4,celleval,CellEval@K,500,0.4918
+norman,Norman,gears,GEARS,5,panel,Panel@K,50,0.3023641457
+norman,Norman,gears,GEARS,5,panel,Panel@K,100,0.3386362636
+norman,Norman,gears,GEARS,5,panel,Panel@K,200,0.346599365
+norman,Norman,gears,GEARS,5,panel,Panel@K,500,0.2993896968
+norman,Norman,gears,GEARS,5,panel,Panel@K,1000,0.2519351439
+norman,Norman,gears,GEARS,5,deg,DEG Top-K@K,50,0.264
+norman,Norman,gears,GEARS,5,deg,DEG Top-K@K,100,0.332
+norman,Norman,gears,GEARS,5,deg,DEG Top-K@K,200,0.383
+norman,Norman,gears,GEARS,5,deg,DEG Top-K@K,500,0.4882666667
+norman,Norman,gears,GEARS,5,celleval,CellEval@K,50,0.296
+norman,Norman,gears,GEARS,5,celleval,CellEval@K,100,0.353
+norman,Norman,gears,GEARS,5,celleval,CellEval@K,200,0.402
+norman,Norman,gears,GEARS,5,celleval,CellEval@K,500,0.4964
+norman,Norman,gears,GEARS,6,panel,Panel@K,50,0.4756558623
+norman,Norman,gears,GEARS,6,panel,Panel@K,100,0.5061274127
+norman,Norman,gears,GEARS,6,panel,Panel@K,200,0.5023168579
+norman,Norman,gears,GEARS,6,panel,Panel@K,500,0.3961807015
+norman,Norman,gears,GEARS,6,panel,Panel@K,1000,0.2848420264
+norman,Norman,gears,GEARS,6,deg,DEG Top-K@K,50,0.2613333333
+norman,Norman,gears,GEARS,6,deg,DEG Top-K@K,100,0.326
+norman,Norman,gears,GEARS,6,deg,DEG Top-K@K,200,0.3686666667
+norman,Norman,gears,GEARS,6,deg,DEG Top-K@K,500,0.4692
+norman,Norman,gears,GEARS,6,celleval,CellEval@K,50,0.262
+norman,Norman,gears,GEARS,6,celleval,CellEval@K,100,0.331
+norman,Norman,gears,GEARS,6,celleval,CellEval@K,200,0.387
+norman,Norman,gears,GEARS,6,celleval,CellEval@K,500,0.4748
+norman,Norman,gears,GEARS,7,panel,Panel@K,50,0.6169551457
+norman,Norman,gears,GEARS,7,panel,Panel@K,100,0.6620003819
+norman,Norman,gears,GEARS,7,panel,Panel@K,200,0.6618655012
+norman,Norman,gears,GEARS,7,panel,Panel@K,500,0.5633343726
+norman,Norman,gears,GEARS,7,panel,Panel@K,1000,0.4542520041
+norman,Norman,gears,GEARS,7,deg,DEG Top-K@K,50,0.3272727273
+norman,Norman,gears,GEARS,7,deg,DEG Top-K@K,100,0.3854545455
+norman,Norman,gears,GEARS,7,deg,DEG Top-K@K,200,0.4159090909
+norman,Norman,gears,GEARS,7,deg,DEG Top-K@K,500,0.4910909091
+norman,Norman,gears,GEARS,7,celleval,CellEval@K,50,0.3155555556
+norman,Norman,gears,GEARS,7,celleval,CellEval@K,100,0.37
+norman,Norman,gears,GEARS,7,celleval,CellEval@K,200,0.4044444444
+norman,Norman,gears,GEARS,7,celleval,CellEval@K,500,0.4884444444
+norman,Norman,gears,GEARS,8,panel,Panel@K,50,0.5631890403
+norman,Norman,gears,GEARS,8,panel,Panel@K,100,0.5441958313
+norman,Norman,gears,GEARS,8,panel,Panel@K,200,0.5296410057
+norman,Norman,gears,GEARS,8,panel,Panel@K,500,0.44087462
+norman,Norman,gears,GEARS,8,panel,Panel@K,1000,0.3645849074
+norman,Norman,gears,GEARS,8,deg,DEG Top-K@K,50,0.3258823529
+norman,Norman,gears,GEARS,8,deg,DEG Top-K@K,100,0.3876470588
+norman,Norman,gears,GEARS,8,deg,DEG Top-K@K,200,0.4373529412
+norman,Norman,gears,GEARS,8,deg,DEG Top-K@K,500,0.5355294118
+norman,Norman,gears,GEARS,8,celleval,CellEval@K,50,0.3222222222
+norman,Norman,gears,GEARS,8,celleval,CellEval@K,100,0.38
+norman,Norman,gears,GEARS,8,celleval,CellEval@K,200,0.435
+norman,Norman,gears,GEARS,8,celleval,CellEval@K,500,0.5366666667
+norman,Norman,gears,GEARS,9,panel,Panel@K,50,0.2814036384
+norman,Norman,gears,GEARS,9,panel,Panel@K,100,0.3079203305
+norman,Norman,gears,GEARS,9,panel,Panel@K,200,0.3425639103
+norman,Norman,gears,GEARS,9,panel,Panel@K,500,0.3127517569
+norman,Norman,gears,GEARS,9,panel,Panel@K,1000,0.2543022355
+norman,Norman,gears,GEARS,9,deg,DEG Top-K@K,50,0.2707692308
+norman,Norman,gears,GEARS,9,deg,DEG Top-K@K,100,0.3453846154
+norman,Norman,gears,GEARS,9,deg,DEG Top-K@K,200,0.3930769231
+norman,Norman,gears,GEARS,9,deg,DEG Top-K@K,500,0.5041538462
+norman,Norman,gears,GEARS,9,celleval,CellEval@K,50,0.262
+norman,Norman,gears,GEARS,9,celleval,CellEval@K,100,0.339
+norman,Norman,gears,GEARS,9,celleval,CellEval@K,200,0.3915
+norman,Norman,gears,GEARS,9,celleval,CellEval@K,500,0.5026
+norman,Norman,biolord,BIOLORD,0,panel,Panel@K,50,0.5937986623
+norman,Norman,biolord,BIOLORD,0,panel,Panel@K,100,0.6153632506
+norman,Norman,biolord,BIOLORD,0,panel,Panel@K,200,0.6197613869
+norman,Norman,biolord,BIOLORD,0,panel,Panel@K,500,0.5454168902
+norman,Norman,biolord,BIOLORD,0,panel,Panel@K,1000,0.426424719
+norman,Norman,biolord,BIOLORD,0,deg,DEG Top-K@K,50,0.4342857143
+norman,Norman,biolord,BIOLORD,0,deg,DEG Top-K@K,100,0.4871428571
+norman,Norman,biolord,BIOLORD,0,deg,DEG Top-K@K,200,0.5003571429
+norman,Norman,biolord,BIOLORD,0,deg,DEG Top-K@K,500,0.5268571429
+norman,Norman,biolord,BIOLORD,0,celleval,CellEval@K,50,0.432
+norman,Norman,biolord,BIOLORD,0,celleval,CellEval@K,100,0.476
+norman,Norman,biolord,BIOLORD,0,celleval,CellEval@K,200,0.4875
+norman,Norman,biolord,BIOLORD,0,celleval,CellEval@K,500,0.518
+norman,Norman,biolord,BIOLORD,1,panel,Panel@K,50,0.5673389356
+norman,Norman,biolord,BIOLORD,1,panel,Panel@K,100,0.5920892089
+norman,Norman,biolord,BIOLORD,1,panel,Panel@K,200,0.5677801945
+norman,Norman,biolord,BIOLORD,1,panel,Panel@K,500,0.4775932944
+norman,Norman,biolord,BIOLORD,1,panel,Panel@K,1000,0.3782054512
+norman,Norman,biolord,BIOLORD,1,deg,DEG Top-K@K,50,0.4083333333
+norman,Norman,biolord,BIOLORD,1,deg,DEG Top-K@K,100,0.43
+norman,Norman,biolord,BIOLORD,1,deg,DEG Top-K@K,200,0.4658333333
+norman,Norman,biolord,BIOLORD,1,deg,DEG Top-K@K,500,0.509
+norman,Norman,biolord,BIOLORD,1,celleval,CellEval@K,50,0.436
+norman,Norman,biolord,BIOLORD,1,celleval,CellEval@K,100,0.445
+norman,Norman,biolord,BIOLORD,1,celleval,CellEval@K,200,0.467
+norman,Norman,biolord,BIOLORD,1,celleval,CellEval@K,500,0.5082
+norman,Norman,biolord,BIOLORD,2,panel,Panel@K,50,0.4123340765
+norman,Norman,biolord,BIOLORD,2,panel,Panel@K,100,0.4453559642
+norman,Norman,biolord,BIOLORD,2,panel,Panel@K,200,0.467307647
+norman,Norman,biolord,BIOLORD,2,panel,Panel@K,500,0.4141089844
+norman,Norman,biolord,BIOLORD,2,panel,Panel@K,1000,0.3190339219
+norman,Norman,biolord,BIOLORD,2,deg,DEG Top-K@K,50,0.4
+norman,Norman,biolord,BIOLORD,2,deg,DEG Top-K@K,100,0.415
+norman,Norman,biolord,BIOLORD,2,deg,DEG Top-K@K,200,0.4560714286
+norman,Norman,biolord,BIOLORD,2,deg,DEG Top-K@K,500,0.504
+norman,Norman,biolord,BIOLORD,2,celleval,CellEval@K,50,0.398
+norman,Norman,biolord,BIOLORD,2,celleval,CellEval@K,100,0.407
+norman,Norman,biolord,BIOLORD,2,celleval,CellEval@K,200,0.446
+norman,Norman,biolord,BIOLORD,2,celleval,CellEval@K,500,0.5046
+norman,Norman,biolord,BIOLORD,3,panel,Panel@K,50,0.5591905334
+norman,Norman,biolord,BIOLORD,3,panel,Panel@K,100,0.6153092452
+norman,Norman,biolord,BIOLORD,3,panel,Panel@K,200,0.6519756565
+norman,Norman,biolord,BIOLORD,3,panel,Panel@K,500,0.590437004
+norman,Norman,biolord,BIOLORD,3,panel,Panel@K,1000,0.4642855249
+norman,Norman,biolord,BIOLORD,3,deg,DEG Top-K@K,50,0.45
+norman,Norman,biolord,BIOLORD,3,deg,DEG Top-K@K,100,0.4835714286
+norman,Norman,biolord,BIOLORD,3,deg,DEG Top-K@K,200,0.5132142857
+norman,Norman,biolord,BIOLORD,3,deg,DEG Top-K@K,500,0.5245714286
+norman,Norman,biolord,BIOLORD,3,celleval,CellEval@K,50,0.438
+norman,Norman,biolord,BIOLORD,3,celleval,CellEval@K,100,0.469
+norman,Norman,biolord,BIOLORD,3,celleval,CellEval@K,200,0.4965
+norman,Norman,biolord,BIOLORD,3,celleval,CellEval@K,500,0.522
+norman,Norman,biolord,BIOLORD,4,panel,Panel@K,50,0.5380312125
+norman,Norman,biolord,BIOLORD,4,panel,Panel@K,100,0.5606510651
+norman,Norman,biolord,BIOLORD,4,panel,Panel@K,200,0.5532748319
+norman,Norman,biolord,BIOLORD,4,panel,Panel@K,500,0.4996713987
+norman,Norman,biolord,BIOLORD,4,panel,Panel@K,1000,0.3871951562
+norman,Norman,biolord,BIOLORD,4,deg,DEG Top-K@K,50,0.4333333333
+norman,Norman,biolord,BIOLORD,4,deg,DEG Top-K@K,100,0.4608333333
+norman,Norman,biolord,BIOLORD,4,deg,DEG Top-K@K,200,0.4933333333
+norman,Norman,biolord,BIOLORD,4,deg,DEG Top-K@K,500,0.5168333333
+norman,Norman,biolord,BIOLORD,4,celleval,CellEval@K,50,0.464
+norman,Norman,biolord,BIOLORD,4,celleval,CellEval@K,100,0.481
+norman,Norman,biolord,BIOLORD,4,celleval,CellEval@K,200,0.5025
+norman,Norman,biolord,BIOLORD,4,celleval,CellEval@K,500,0.5168
+norman,Norman,biolord,BIOLORD,5,panel,Panel@K,50,0.3097270908
+norman,Norman,biolord,BIOLORD,5,panel,Panel@K,100,0.3443040304
+norman,Norman,biolord,BIOLORD,5,panel,Panel@K,200,0.3490556264
+norman,Norman,biolord,BIOLORD,5,panel,Panel@K,500,0.3047456286
+norman,Norman,biolord,BIOLORD,5,panel,Panel@K,1000,0.2432722633
+norman,Norman,biolord,BIOLORD,5,deg,DEG Top-K@K,50,0.3066666667
+norman,Norman,biolord,BIOLORD,5,deg,DEG Top-K@K,100,0.3753333333
+norman,Norman,biolord,BIOLORD,5,deg,DEG Top-K@K,200,0.4433333333
+norman,Norman,biolord,BIOLORD,5,deg,DEG Top-K@K,500,0.5146666667
+norman,Norman,biolord,BIOLORD,5,celleval,CellEval@K,50,0.328
+norman,Norman,biolord,BIOLORD,5,celleval,CellEval@K,100,0.397
+norman,Norman,biolord,BIOLORD,5,celleval,CellEval@K,200,0.4645
+norman,Norman,biolord,BIOLORD,5,celleval,CellEval@K,500,0.5184
+norman,Norman,biolord,BIOLORD,6,panel,Panel@K,50,0.6083553421
+norman,Norman,biolord,BIOLORD,6,panel,Panel@K,100,0.6301334133
+norman,Norman,biolord,BIOLORD,6,panel,Panel@K,200,0.6414954374
+norman,Norman,biolord,BIOLORD,6,panel,Panel@K,500,0.5512123104
+norman,Norman,biolord,BIOLORD,6,panel,Panel@K,1000,0.4141090461
+norman,Norman,biolord,BIOLORD,6,deg,DEG Top-K@K,50,0.416
+norman,Norman,biolord,BIOLORD,6,deg,DEG Top-K@K,100,0.454
+norman,Norman,biolord,BIOLORD,6,deg,DEG Top-K@K,200,0.48
+norman,Norman,biolord,BIOLORD,6,deg,DEG Top-K@K,500,0.5221333333
+norman,Norman,biolord,BIOLORD,6,celleval,CellEval@K,50,0.426
+norman,Norman,biolord,BIOLORD,6,celleval,CellEval@K,100,0.468
+norman,Norman,biolord,BIOLORD,6,celleval,CellEval@K,200,0.4945
+norman,Norman,biolord,BIOLORD,6,celleval,CellEval@K,500,0.528
+norman,Norman,biolord,BIOLORD,7,panel,Panel@K,50,0.6704626466
+norman,Norman,biolord,BIOLORD,7,panel,Panel@K,100,0.7439543954
+norman,Norman,biolord,BIOLORD,7,panel,Panel@K,200,0.7225595255
+norman,Norman,biolord,BIOLORD,7,panel,Panel@K,500,0.6370385875
+norman,Norman,biolord,BIOLORD,7,panel,Panel@K,1000,0.5094331097
+norman,Norman,biolord,BIOLORD,7,deg,DEG Top-K@K,50,0.5
+norman,Norman,biolord,BIOLORD,7,deg,DEG Top-K@K,100,0.52
+norman,Norman,biolord,BIOLORD,7,deg,DEG Top-K@K,200,0.5342307692
+norman,Norman,biolord,BIOLORD,7,deg,DEG Top-K@K,500,0.5313846154
+norman,Norman,biolord,BIOLORD,7,celleval,CellEval@K,50,0.51
+norman,Norman,biolord,BIOLORD,7,celleval,CellEval@K,100,0.526
+norman,Norman,biolord,BIOLORD,7,celleval,CellEval@K,200,0.5335
+norman,Norman,biolord,BIOLORD,7,celleval,CellEval@K,500,0.533
+norman,Norman,biolord,BIOLORD,8,panel,Panel@K,50,0.5442320086
+norman,Norman,biolord,BIOLORD,8,panel,Panel@K,100,0.5493524089
+norman,Norman,biolord,BIOLORD,8,panel,Panel@K,200,0.5475122668
+norman,Norman,biolord,BIOLORD,8,panel,Panel@K,500,0.4761980766
+norman,Norman,biolord,BIOLORD,8,panel,Panel@K,1000,0.3785577103
+norman,Norman,biolord,BIOLORD,8,deg,DEG Top-K@K,50,0.4073684211
+norman,Norman,biolord,BIOLORD,8,deg,DEG Top-K@K,100,0.4657894737
+norman,Norman,biolord,BIOLORD,8,deg,DEG Top-K@K,200,0.5047368421
+norman,Norman,biolord,BIOLORD,8,deg,DEG Top-K@K,500,0.5189473684
+norman,Norman,biolord,BIOLORD,8,celleval,CellEval@K,50,0.4
+norman,Norman,biolord,BIOLORD,8,celleval,CellEval@K,100,0.45
+norman,Norman,biolord,BIOLORD,8,celleval,CellEval@K,200,0.495
+norman,Norman,biolord,BIOLORD,8,celleval,CellEval@K,500,0.516
+norman,Norman,biolord,BIOLORD,9,panel,Panel@K,50,0.1795068797
+norman,Norman,biolord,BIOLORD,9,panel,Panel@K,100,0.2233155623
+norman,Norman,biolord,BIOLORD,9,panel,Panel@K,200,0.2633192368
+norman,Norman,biolord,BIOLORD,9,panel,Panel@K,500,0.2542491302
+norman,Norman,biolord,BIOLORD,9,panel,Panel@K,1000,0.2041479583
+norman,Norman,biolord,BIOLORD,9,deg,DEG Top-K@K,50,0.3492307692
+norman,Norman,biolord,BIOLORD,9,deg,DEG Top-K@K,100,0.4292307692
+norman,Norman,biolord,BIOLORD,9,deg,DEG Top-K@K,200,0.4673076923
+norman,Norman,biolord,BIOLORD,9,deg,DEG Top-K@K,500,0.5347692308
+norman,Norman,biolord,BIOLORD,9,celleval,CellEval@K,50,0.342
+norman,Norman,biolord,BIOLORD,9,celleval,CellEval@K,100,0.424
+norman,Norman,biolord,BIOLORD,9,celleval,CellEval@K,200,0.4585
+norman,Norman,biolord,BIOLORD,9,celleval,CellEval@K,500,0.5294
+norman,Norman,state,STATE,0,panel,Panel@K,50,0.4571332533
+norman,Norman,state,STATE,0,panel,Panel@K,100,0.4798091809
+norman,Norman,state,STATE,0,panel,Panel@K,200,0.4735334883
+norman,Norman,state,STATE,0,panel,Panel@K,500,0.380739251
+norman,Norman,state,STATE,0,panel,Panel@K,1000,0.277151268
+norman,Norman,state,STATE,0,deg,DEG Top-K@K,50,0.318
+norman,Norman,state,STATE,0,deg,DEG Top-K@K,100,0.391
+norman,Norman,state,STATE,0,deg,DEG Top-K@K,200,0.4445
+norman,Norman,state,STATE,0,deg,DEG Top-K@K,500,0.6036
+norman,Norman,state,STATE,0,celleval,CellEval@K,50,0.32
+norman,Norman,state,STATE,0,celleval,CellEval@K,100,0.395
+norman,Norman,state,STATE,0,celleval,CellEval@K,200,0.4505
+norman,Norman,state,STATE,0,celleval,CellEval@K,500,0.603
+norman,Norman,state,STATE,1,panel,Panel@K,50,0.5192220888
+norman,Norman,state,STATE,1,panel,Panel@K,100,0.5127236724
+norman,Norman,state,STATE,1,panel,Panel@K,200,0.4769877747
+norman,Norman,state,STATE,1,panel,Panel@K,500,0.4011358861
+norman,Norman,state,STATE,1,panel,Panel@K,1000,0.3045107385
+norman,Norman,state,STATE,1,deg,DEG Top-K@K,50,0.266
+norman,Norman,state,STATE,1,deg,DEG Top-K@K,100,0.322
+norman,Norman,state,STATE,1,deg,DEG Top-K@K,200,0.412
+norman,Norman,state,STATE,1,deg,DEG Top-K@K,500,0.6238
+norman,Norman,state,STATE,1,celleval,CellEval@K,50,0.268
+norman,Norman,state,STATE,1,celleval,CellEval@K,100,0.326
+norman,Norman,state,STATE,1,celleval,CellEval@K,200,0.412
+norman,Norman,state,STATE,1,celleval,CellEval@K,500,0.6212
+norman,Norman,state,STATE,2,panel,Panel@K,50,0.2944164332
+norman,Norman,state,STATE,2,panel,Panel@K,100,0.3732546588
+norman,Norman,state,STATE,2,panel,Panel@K,200,0.3946960341
+norman,Norman,state,STATE,2,panel,Panel@K,500,0.3845560769
+norman,Norman,state,STATE,2,panel,Panel@K,1000,0.3071539432
+norman,Norman,state,STATE,2,deg,DEG Top-K@K,50,0.2977777778
+norman,Norman,state,STATE,2,deg,DEG Top-K@K,100,0.3755555556
+norman,Norman,state,STATE,2,deg,DEG Top-K@K,200,0.4655555556
+norman,Norman,state,STATE,2,deg,DEG Top-K@K,500,0.626
+norman,Norman,state,STATE,2,celleval,CellEval@K,50,0.2977777778
+norman,Norman,state,STATE,2,celleval,CellEval@K,100,0.3733333333
+norman,Norman,state,STATE,2,celleval,CellEval@K,200,0.4666666667
+norman,Norman,state,STATE,2,celleval,CellEval@K,500,0.6284444444
+norman,Norman,state,STATE,3,panel,Panel@K,50,0.2033997599
+norman,Norman,state,STATE,3,panel,Panel@K,100,0.3110267027
+norman,Norman,state,STATE,3,panel,Panel@K,200,0.3407893197
+norman,Norman,state,STATE,3,panel,Panel@K,500,0.3190300697
+norman,Norman,state,STATE,3,panel,Panel@K,1000,0.2567818776
+norman,Norman,state,STATE,3,deg,DEG Top-K@K,50,0.254
+norman,Norman,state,STATE,3,deg,DEG Top-K@K,100,0.323
+norman,Norman,state,STATE,3,deg,DEG Top-K@K,200,0.4125
+norman,Norman,state,STATE,3,deg,DEG Top-K@K,500,0.6084
+norman,Norman,state,STATE,3,celleval,CellEval@K,50,0.256
+norman,Norman,state,STATE,3,celleval,CellEval@K,100,0.328
+norman,Norman,state,STATE,3,celleval,CellEval@K,200,0.42
+norman,Norman,state,STATE,3,celleval,CellEval@K,500,0.6104
+norman,Norman,state,STATE,4,panel,Panel@K,50,0.36169988
+norman,Norman,state,STATE,4,panel,Panel@K,100,0.3990123012
+norman,Norman,state,STATE,4,panel,Panel@K,200,0.4236528913
+norman,Norman,state,STATE,4,panel,Panel@K,500,0.3908888148
+norman,Norman,state,STATE,4,panel,Panel@K,1000,0.335355711
+norman,Norman,state,STATE,4,deg,DEG Top-K@K,50,0.27
+norman,Norman,state,STATE,4,deg,DEG Top-K@K,100,0.332
+norman,Norman,state,STATE,4,deg,DEG Top-K@K,200,0.4065
+norman,Norman,state,STATE,4,deg,DEG Top-K@K,500,0.6376
+norman,Norman,state,STATE,4,celleval,CellEval@K,50,0.274
+norman,Norman,state,STATE,4,celleval,CellEval@K,100,0.331
+norman,Norman,state,STATE,4,celleval,CellEval@K,200,0.403
+norman,Norman,state,STATE,4,celleval,CellEval@K,500,0.6364
+norman,Norman,state,STATE,5,panel,Panel@K,50,0.2571812725
+norman,Norman,state,STATE,5,panel,Panel@K,100,0.276450045
+norman,Norman,state,STATE,5,panel,Panel@K,200,0.3126157654
+norman,Norman,state,STATE,5,panel,Panel@K,500,0.2899633327
+norman,Norman,state,STATE,5,panel,Panel@K,1000,0.238355372
+norman,Norman,state,STATE,5,deg,DEG Top-K@K,50,0.238
+norman,Norman,state,STATE,5,deg,DEG Top-K@K,100,0.325
+norman,Norman,state,STATE,5,deg,DEG Top-K@K,200,0.417
+norman,Norman,state,STATE,5,deg,DEG Top-K@K,500,0.614
+norman,Norman,state,STATE,5,celleval,CellEval@K,50,0.238
+norman,Norman,state,STATE,5,celleval,CellEval@K,100,0.329
+norman,Norman,state,STATE,5,celleval,CellEval@K,200,0.427
+norman,Norman,state,STATE,5,celleval,CellEval@K,500,0.608
+norman,Norman,state,STATE,6,panel,Panel@K,50,0.5335030012
+norman,Norman,state,STATE,6,panel,Panel@K,100,0.5705418542
+norman,Norman,state,STATE,6,panel,Panel@K,200,0.5712333308
+norman,Norman,state,STATE,6,panel,Panel@K,500,0.4780032304
+norman,Norman,state,STATE,6,panel,Panel@K,1000,0.3596232692
+norman,Norman,state,STATE,6,deg,DEG Top-K@K,50,0.328
+norman,Norman,state,STATE,6,deg,DEG Top-K@K,100,0.397
+norman,Norman,state,STATE,6,deg,DEG Top-K@K,200,0.4575
+norman,Norman,state,STATE,6,deg,DEG Top-K@K,500,0.6148
+norman,Norman,state,STATE,6,celleval,CellEval@K,50,0.294
+norman,Norman,state,STATE,6,celleval,CellEval@K,100,0.395
+norman,Norman,state,STATE,6,celleval,CellEval@K,200,0.4645
+norman,Norman,state,STATE,6,celleval,CellEval@K,500,0.615
+norman,Norman,state,STATE,7,panel,Panel@K,50,0.5076110444
+norman,Norman,state,STATE,7,panel,Panel@K,100,0.545989799
+norman,Norman,state,STATE,7,panel,Panel@K,200,0.5442266557
+norman,Norman,state,STATE,7,panel,Panel@K,500,0.4678356569
+norman,Norman,state,STATE,7,panel,Panel@K,1000,0.3770806611
+norman,Norman,state,STATE,7,deg,DEG Top-K@K,50,0.268
+norman,Norman,state,STATE,7,deg,DEG Top-K@K,100,0.335
+norman,Norman,state,STATE,7,deg,DEG Top-K@K,200,0.4315
+norman,Norman,state,STATE,7,deg,DEG Top-K@K,500,0.6142
+norman,Norman,state,STATE,7,celleval,CellEval@K,50,0.272
+norman,Norman,state,STATE,7,celleval,CellEval@K,100,0.336
+norman,Norman,state,STATE,7,celleval,CellEval@K,200,0.4275
+norman,Norman,state,STATE,7,celleval,CellEval@K,500,0.6136
+norman,Norman,state,STATE,8,panel,Panel@K,50,0.5174069628
+norman,Norman,state,STATE,8,panel,Panel@K,100,0.4937341734
+norman,Norman,state,STATE,8,panel,Panel@K,200,0.4810461262
+norman,Norman,state,STATE,8,panel,Panel@K,500,0.3730504266
+norman,Norman,state,STATE,8,panel,Panel@K,1000,0.2845350109
+norman,Norman,state,STATE,8,deg,DEG Top-K@K,50,0.226
+norman,Norman,state,STATE,8,deg,DEG Top-K@K,100,0.293
+norman,Norman,state,STATE,8,deg,DEG Top-K@K,200,0.3705
+norman,Norman,state,STATE,8,deg,DEG Top-K@K,500,0.5912
+norman,Norman,state,STATE,8,celleval,CellEval@K,50,0.198
+norman,Norman,state,STATE,8,celleval,CellEval@K,100,0.29
+norman,Norman,state,STATE,8,celleval,CellEval@K,200,0.3775
+norman,Norman,state,STATE,8,celleval,CellEval@K,500,0.5976
+norman,Norman,state,STATE,9,panel,Panel@K,50,0.1377190876
+norman,Norman,state,STATE,9,panel,Panel@K,100,0.1695313531
+norman,Norman,state,STATE,9,panel,Panel@K,200,0.2376653416
+norman,Norman,state,STATE,9,panel,Panel@K,500,0.2351159613
+norman,Norman,state,STATE,9,panel,Panel@K,1000,0.1908488712
+norman,Norman,state,STATE,9,deg,DEG Top-K@K,50,0.292
+norman,Norman,state,STATE,9,deg,DEG Top-K@K,100,0.4
+norman,Norman,state,STATE,9,deg,DEG Top-K@K,200,0.491
+norman,Norman,state,STATE,9,deg,DEG Top-K@K,500,0.6256
+norman,Norman,state,STATE,9,celleval,CellEval@K,50,0.29
+norman,Norman,state,STATE,9,celleval,CellEval@K,100,0.397
+norman,Norman,state,STATE,9,celleval,CellEval@K,200,0.4835
+norman,Norman,state,STATE,9,celleval,CellEval@K,500,0.6206
+norman,Norman,train_mean,Mean,0,panel,Panel@K,50,0.5683553421
+norman,Norman,train_mean,Mean,0,panel,Panel@K,100,0.6016057606
+norman,Norman,train_mean,Mean,0,panel,Panel@K,200,0.6011412285
+norman,Norman,train_mean,Mean,0,panel,Panel@K,500,0.5504158977
+norman,Norman,train_mean,Mean,0,panel,Panel@K,1000,0.4679643492
+norman,Norman,train_mean,Mean,0,deg,DEG Top-K@K,50,0.434
+norman,Norman,train_mean,Mean,0,deg,DEG Top-K@K,100,0.474
+norman,Norman,train_mean,Mean,0,deg,DEG Top-K@K,200,0.5185
+norman,Norman,train_mean,Mean,0,deg,DEG Top-K@K,500,0.6612
+norman,Norman,train_mean,Mean,0,celleval,CellEval@K,50,0.426
+norman,Norman,train_mean,Mean,0,celleval,CellEval@K,100,0.479
+norman,Norman,train_mean,Mean,0,celleval,CellEval@K,200,0.5245
+norman,Norman,train_mean,Mean,0,celleval,CellEval@K,500,0.661
+norman,Norman,train_mean,Mean,1,panel,Panel@K,50,0.5701992797
+norman,Norman,train_mean,Mean,1,panel,Panel@K,100,0.5841212121
+norman,Norman,train_mean,Mean,1,panel,Panel@K,200,0.5679095477
+norman,Norman,train_mean,Mean,1,panel,Panel@K,500,0.5181949048
+norman,Norman,train_mean,Mean,1,panel,Panel@K,1000,0.4504596677
+norman,Norman,train_mean,Mean,1,deg,DEG Top-K@K,50,0.43
+norman,Norman,train_mean,Mean,1,deg,DEG Top-K@K,100,0.452
+norman,Norman,train_mean,Mean,1,deg,DEG Top-K@K,200,0.516
+norman,Norman,train_mean,Mean,1,deg,DEG Top-K@K,500,0.6606
+norman,Norman,train_mean,Mean,1,celleval,CellEval@K,50,0.44
+norman,Norman,train_mean,Mean,1,celleval,CellEval@K,100,0.46
+norman,Norman,train_mean,Mean,1,celleval,CellEval@K,200,0.5145
+norman,Norman,train_mean,Mean,1,celleval,CellEval@K,500,0.6646
+norman,Norman,train_mean,Mean,2,panel,Panel@K,50,0.4105642257
+norman,Norman,train_mean,Mean,2,panel,Panel@K,100,0.4256105611
+norman,Norman,train_mean,Mean,2,panel,Panel@K,200,0.4508941724
+norman,Norman,train_mean,Mean,2,panel,Panel@K,500,0.4256753603
+norman,Norman,train_mean,Mean,2,panel,Panel@K,1000,0.3607350667
+norman,Norman,train_mean,Mean,2,deg,DEG Top-K@K,50,0.402
+norman,Norman,train_mean,Mean,2,deg,DEG Top-K@K,100,0.425
+norman,Norman,train_mean,Mean,2,deg,DEG Top-K@K,200,0.486
+norman,Norman,train_mean,Mean,2,deg,DEG Top-K@K,500,0.6434
+norman,Norman,train_mean,Mean,2,celleval,CellEval@K,50,0.414
+norman,Norman,train_mean,Mean,2,celleval,CellEval@K,100,0.43
+norman,Norman,train_mean,Mean,2,celleval,CellEval@K,200,0.482
+norman,Norman,train_mean,Mean,2,celleval,CellEval@K,500,0.6434
+norman,Norman,train_mean,Mean,3,panel,Panel@K,50,0.5644273709
+norman,Norman,train_mean,Mean,3,panel,Panel@K,100,0.6197575758
+norman,Norman,train_mean,Mean,3,panel,Panel@K,200,0.6622508063
+norman,Norman,train_mean,Mean,3,panel,Panel@K,500,0.6209745383
+norman,Norman,train_mean,Mean,3,panel,Panel@K,1000,0.5346721831
+norman,Norman,train_mean,Mean,3,deg,DEG Top-K@K,50,0.46
+norman,Norman,train_mean,Mean,3,deg,DEG Top-K@K,100,0.494
+norman,Norman,train_mean,Mean,3,deg,DEG Top-K@K,200,0.548
+norman,Norman,train_mean,Mean,3,deg,DEG Top-K@K,500,0.6666
+norman,Norman,train_mean,Mean,3,celleval,CellEval@K,50,0.452
+norman,Norman,train_mean,Mean,3,celleval,CellEval@K,100,0.495
+norman,Norman,train_mean,Mean,3,celleval,CellEval@K,200,0.5475
+norman,Norman,train_mean,Mean,3,celleval,CellEval@K,500,0.6648
+norman,Norman,train_mean,Mean,4,panel,Panel@K,50,0.5290948379
+norman,Norman,train_mean,Mean,4,panel,Panel@K,100,0.5594083408
+norman,Norman,train_mean,Mean,4,panel,Panel@K,200,0.570081902
+norman,Norman,train_mean,Mean,4,panel,Panel@K,500,0.5430878332
+norman,Norman,train_mean,Mean,4,panel,Panel@K,1000,0.4680469416
+norman,Norman,train_mean,Mean,4,deg,DEG Top-K@K,50,0.462
+norman,Norman,train_mean,Mean,4,deg,DEG Top-K@K,100,0.503
+norman,Norman,train_mean,Mean,4,deg,DEG Top-K@K,200,0.562
+norman,Norman,train_mean,Mean,4,deg,DEG Top-K@K,500,0.6792
+norman,Norman,train_mean,Mean,4,celleval,CellEval@K,50,0.474
+norman,Norman,train_mean,Mean,4,celleval,CellEval@K,100,0.507
+norman,Norman,train_mean,Mean,4,celleval,CellEval@K,200,0.563
+norman,Norman,train_mean,Mean,4,celleval,CellEval@K,500,0.6812
+norman,Norman,train_mean,Mean,5,panel,Panel@K,50,0.3353853541
+norman,Norman,train_mean,Mean,5,panel,Panel@K,100,0.3702682268
+norman,Norman,train_mean,Mean,5,panel,Panel@K,200,0.3850918773
+norman,Norman,train_mean,Mean,5,panel,Panel@K,500,0.3588161329
+norman,Norman,train_mean,Mean,5,panel,Panel@K,1000,0.3116657769
+norman,Norman,train_mean,Mean,5,deg,DEG Top-K@K,50,0.32
+norman,Norman,train_mean,Mean,5,deg,DEG Top-K@K,100,0.396
+norman,Norman,train_mean,Mean,5,deg,DEG Top-K@K,200,0.4945
+norman,Norman,train_mean,Mean,5,deg,DEG Top-K@K,500,0.6464
+norman,Norman,train_mean,Mean,5,celleval,CellEval@K,50,0.332
+norman,Norman,train_mean,Mean,5,celleval,CellEval@K,100,0.402
+norman,Norman,train_mean,Mean,5,celleval,CellEval@K,200,0.507
+norman,Norman,train_mean,Mean,5,celleval,CellEval@K,500,0.6458
+norman,Norman,train_mean,Mean,6,panel,Panel@K,50,0.6119567827
+norman,Norman,train_mean,Mean,6,panel,Panel@K,100,0.6591059106
+norman,Norman,train_mean,Mean,6,panel,Panel@K,200,0.6829670742
+norman,Norman,train_mean,Mean,6,panel,Panel@K,500,0.622394
+norman,Norman,train_mean,Mean,6,panel,Panel@K,1000,0.5227065727
+norman,Norman,train_mean,Mean,6,deg,DEG Top-K@K,50,0.442
+norman,Norman,train_mean,Mean,6,deg,DEG Top-K@K,100,0.482
+norman,Norman,train_mean,Mean,6,deg,DEG Top-K@K,200,0.534
+norman,Norman,train_mean,Mean,6,deg,DEG Top-K@K,500,0.672
+norman,Norman,train_mean,Mean,6,celleval,CellEval@K,50,0.432
+norman,Norman,train_mean,Mean,6,celleval,CellEval@K,100,0.486
+norman,Norman,train_mean,Mean,6,celleval,CellEval@K,200,0.5425
+norman,Norman,train_mean,Mean,6,celleval,CellEval@K,500,0.6624
+norman,Norman,train_mean,Mean,7,panel,Panel@K,50,0.682785114
+norman,Norman,train_mean,Mean,7,panel,Panel@K,100,0.7459837984
+norman,Norman,train_mean,Mean,7,panel,Panel@K,200,0.7377113928
+norman,Norman,train_mean,Mean,7,panel,Panel@K,500,0.6864338977
+norman,Norman,train_mean,Mean,7,panel,Panel@K,1000,0.6061901834
+norman,Norman,train_mean,Mean,7,deg,DEG Top-K@K,50,0.494
+norman,Norman,train_mean,Mean,7,deg,DEG Top-K@K,100,0.537
+norman,Norman,train_mean,Mean,7,deg,DEG Top-K@K,200,0.585
+norman,Norman,train_mean,Mean,7,deg,DEG Top-K@K,500,0.6848
+norman,Norman,train_mean,Mean,7,celleval,CellEval@K,50,0.5
+norman,Norman,train_mean,Mean,7,celleval,CellEval@K,100,0.537
+norman,Norman,train_mean,Mean,7,celleval,CellEval@K,200,0.593
+norman,Norman,train_mean,Mean,7,celleval,CellEval@K,500,0.6874
+norman,Norman,train_mean,Mean,8,panel,Panel@K,50,0.5281056423
+norman,Norman,train_mean,Mean,8,panel,Panel@K,100,0.5641464146
+norman,Norman,train_mean,Mean,8,panel,Panel@K,200,0.5732661817
+norman,Norman,train_mean,Mean,8,panel,Panel@K,500,0.5230931804
+norman,Norman,train_mean,Mean,8,panel,Panel@K,1000,0.4610442422
+norman,Norman,train_mean,Mean,8,deg,DEG Top-K@K,50,0.424
+norman,Norman,train_mean,Mean,8,deg,DEG Top-K@K,100,0.48
+norman,Norman,train_mean,Mean,8,deg,DEG Top-K@K,200,0.548
+norman,Norman,train_mean,Mean,8,deg,DEG Top-K@K,500,0.6746
+norman,Norman,train_mean,Mean,8,celleval,CellEval@K,50,0.414
+norman,Norman,train_mean,Mean,8,celleval,CellEval@K,100,0.484
+norman,Norman,train_mean,Mean,8,celleval,CellEval@K,200,0.5585
+norman,Norman,train_mean,Mean,8,celleval,CellEval@K,500,0.6706
+norman,Norman,train_mean,Mean,9,panel,Panel@K,50,0.1810036014
+norman,Norman,train_mean,Mean,9,panel,Panel@K,100,0.2234215422
+norman,Norman,train_mean,Mean,9,panel,Panel@K,200,0.2724521113
+norman,Norman,train_mean,Mean,9,panel,Panel@K,500,0.2672047904
+norman,Norman,train_mean,Mean,9,panel,Panel@K,1000,0.2273446361
+norman,Norman,train_mean,Mean,9,deg,DEG Top-K@K,50,0.34
+norman,Norman,train_mean,Mean,9,deg,DEG Top-K@K,100,0.422
+norman,Norman,train_mean,Mean,9,deg,DEG Top-K@K,200,0.497
+norman,Norman,train_mean,Mean,9,deg,DEG Top-K@K,500,0.6574
+norman,Norman,train_mean,Mean,9,celleval,CellEval@K,50,0.342
+norman,Norman,train_mean,Mean,9,celleval,CellEval@K,100,0.43
+norman,Norman,train_mean,Mean,9,celleval,CellEval@K,200,0.498
+norman,Norman,train_mean,Mean,9,celleval,CellEval@K,500,0.6554
+norman,Norman,ridge_esm,Ridge,0,panel,Panel@K,50,0.3820696279
+norman,Norman,ridge_esm,Ridge,0,panel,Panel@K,100,0.3839915992
+norman,Norman,ridge_esm,Ridge,0,panel,Panel@K,200,0.3632061802
+norman,Norman,ridge_esm,Ridge,0,panel,Panel@K,500,0.3262732315
+norman,Norman,ridge_esm,Ridge,0,panel,Panel@K,1000,0.2812911917
+norman,Norman,ridge_esm,Ridge,0,deg,DEG Top-K@K,50,0.39
+norman,Norman,ridge_esm,Ridge,0,deg,DEG Top-K@K,100,0.43
+norman,Norman,ridge_esm,Ridge,0,deg,DEG Top-K@K,200,0.4975
+norman,Norman,ridge_esm,Ridge,0,deg,DEG Top-K@K,500,0.6162
+norman,Norman,ridge_esm,Ridge,0,celleval,CellEval@K,50,0.386
+norman,Norman,ridge_esm,Ridge,0,celleval,CellEval@K,100,0.43
+norman,Norman,ridge_esm,Ridge,0,celleval,CellEval@K,200,0.4965
+norman,Norman,ridge_esm,Ridge,0,celleval,CellEval@K,500,0.6192
+norman,Norman,ridge_esm,Ridge,1,panel,Panel@K,50,0.4022761104
+norman,Norman,ridge_esm,Ridge,1,panel,Panel@K,100,0.4239075908
+norman,Norman,ridge_esm,Ridge,1,panel,Panel@K,200,0.4127450686
+norman,Norman,ridge_esm,Ridge,1,panel,Panel@K,500,0.3806930364
+norman,Norman,ridge_esm,Ridge,1,panel,Panel@K,1000,0.3372462816
+norman,Norman,ridge_esm,Ridge,1,deg,DEG Top-K@K,50,0.332
+norman,Norman,ridge_esm,Ridge,1,deg,DEG Top-K@K,100,0.389
+norman,Norman,ridge_esm,Ridge,1,deg,DEG Top-K@K,200,0.473
+norman,Norman,ridge_esm,Ridge,1,deg,DEG Top-K@K,500,0.616
+norman,Norman,ridge_esm,Ridge,1,celleval,CellEval@K,50,0.33
+norman,Norman,ridge_esm,Ridge,1,celleval,CellEval@K,100,0.395
+norman,Norman,ridge_esm,Ridge,1,celleval,CellEval@K,200,0.473
+norman,Norman,ridge_esm,Ridge,1,celleval,CellEval@K,500,0.613
+norman,Norman,ridge_esm,Ridge,2,panel,Panel@K,50,0.4492581032
+norman,Norman,ridge_esm,Ridge,2,panel,Panel@K,100,0.4300570057
+norman,Norman,ridge_esm,Ridge,2,panel,Panel@K,200,0.4292852321
+norman,Norman,ridge_esm,Ridge,2,panel,Panel@K,500,0.4099010572
+norman,Norman,ridge_esm,Ridge,2,panel,Panel@K,1000,0.3406109338
+norman,Norman,ridge_esm,Ridge,2,deg,DEG Top-K@K,50,0.326
+norman,Norman,ridge_esm,Ridge,2,deg,DEG Top-K@K,100,0.41
+norman,Norman,ridge_esm,Ridge,2,deg,DEG Top-K@K,200,0.478
+norman,Norman,ridge_esm,Ridge,2,deg,DEG Top-K@K,500,0.6198
+norman,Norman,ridge_esm,Ridge,2,celleval,CellEval@K,50,0.334
+norman,Norman,ridge_esm,Ridge,2,celleval,CellEval@K,100,0.419
+norman,Norman,ridge_esm,Ridge,2,celleval,CellEval@K,200,0.481
+norman,Norman,ridge_esm,Ridge,2,celleval,CellEval@K,500,0.6232
+norman,Norman,ridge_esm,Ridge,3,panel,Panel@K,50,0.4963265306
+norman,Norman,ridge_esm,Ridge,3,panel,Panel@K,100,0.509290129
+norman,Norman,ridge_esm,Ridge,3,panel,Panel@K,200,0.5230030751
+norman,Norman,ridge_esm,Ridge,3,panel,Panel@K,500,0.4703450878
+norman,Norman,ridge_esm,Ridge,3,panel,Panel@K,1000,0.393211112
+norman,Norman,ridge_esm,Ridge,3,deg,DEG Top-K@K,50,0.336
+norman,Norman,ridge_esm,Ridge,3,deg,DEG Top-K@K,100,0.395
+norman,Norman,ridge_esm,Ridge,3,deg,DEG Top-K@K,200,0.4865
+norman,Norman,ridge_esm,Ridge,3,deg,DEG Top-K@K,500,0.6252
+norman,Norman,ridge_esm,Ridge,3,celleval,CellEval@K,50,0.338
+norman,Norman,ridge_esm,Ridge,3,celleval,CellEval@K,100,0.403
+norman,Norman,ridge_esm,Ridge,3,celleval,CellEval@K,200,0.482
+norman,Norman,ridge_esm,Ridge,3,celleval,CellEval@K,500,0.621
+norman,Norman,ridge_esm,Ridge,4,panel,Panel@K,50,0.2842160864
+norman,Norman,ridge_esm,Ridge,4,panel,Panel@K,100,0.3154779478
+norman,Norman,ridge_esm,Ridge,4,panel,Panel@K,200,0.3387155179
+norman,Norman,ridge_esm,Ridge,4,panel,Panel@K,500,0.3174618074
+norman,Norman,ridge_esm,Ridge,4,panel,Panel@K,1000,0.2487222279
+norman,Norman,ridge_esm,Ridge,4,deg,DEG Top-K@K,50,0.306
+norman,Norman,ridge_esm,Ridge,4,deg,DEG Top-K@K,100,0.383
+norman,Norman,ridge_esm,Ridge,4,deg,DEG Top-K@K,200,0.4785
+norman,Norman,ridge_esm,Ridge,4,deg,DEG Top-K@K,500,0.6208
+norman,Norman,ridge_esm,Ridge,4,celleval,CellEval@K,50,0.306
+norman,Norman,ridge_esm,Ridge,4,celleval,CellEval@K,100,0.384
+norman,Norman,ridge_esm,Ridge,4,celleval,CellEval@K,200,0.477
+norman,Norman,ridge_esm,Ridge,4,celleval,CellEval@K,500,0.62
+norman,Norman,ridge_esm,Ridge,5,panel,Panel@K,50,0.1048355342
+norman,Norman,ridge_esm,Ridge,5,panel,Panel@K,100,0.1492577258
+norman,Norman,ridge_esm,Ridge,5,panel,Panel@K,200,0.1675831396
+norman,Norman,ridge_esm,Ridge,5,panel,Panel@K,500,0.1535758751
+norman,Norman,ridge_esm,Ridge,5,panel,Panel@K,1000,0.1260531937
+norman,Norman,ridge_esm,Ridge,5,deg,DEG Top-K@K,50,0.306
+norman,Norman,ridge_esm,Ridge,5,deg,DEG Top-K@K,100,0.376
+norman,Norman,ridge_esm,Ridge,5,deg,DEG Top-K@K,200,0.455
+norman,Norman,ridge_esm,Ridge,5,deg,DEG Top-K@K,500,0.6072
+norman,Norman,ridge_esm,Ridge,5,celleval,CellEval@K,50,0.318
+norman,Norman,ridge_esm,Ridge,5,celleval,CellEval@K,100,0.379
+norman,Norman,ridge_esm,Ridge,5,celleval,CellEval@K,200,0.4585
+norman,Norman,ridge_esm,Ridge,5,celleval,CellEval@K,500,0.6044
+norman,Norman,ridge_esm,Ridge,6,panel,Panel@K,50,0.4468091236
+norman,Norman,ridge_esm,Ridge,6,panel,Panel@K,100,0.4651509151
+norman,Norman,ridge_esm,Ridge,6,panel,Panel@K,200,0.4916858921
+norman,Norman,ridge_esm,Ridge,6,panel,Panel@K,500,0.4118508922
+norman,Norman,ridge_esm,Ridge,6,panel,Panel@K,1000,0.3209888982
+norman,Norman,ridge_esm,Ridge,6,deg,DEG Top-K@K,50,0.316
+norman,Norman,ridge_esm,Ridge,6,deg,DEG Top-K@K,100,0.381
+norman,Norman,ridge_esm,Ridge,6,deg,DEG Top-K@K,200,0.454
+norman,Norman,ridge_esm,Ridge,6,deg,DEG Top-K@K,500,0.615
+norman,Norman,ridge_esm,Ridge,6,celleval,CellEval@K,50,0.31
+norman,Norman,ridge_esm,Ridge,6,celleval,CellEval@K,100,0.376
+norman,Norman,ridge_esm,Ridge,6,celleval,CellEval@K,200,0.458
+norman,Norman,ridge_esm,Ridge,6,celleval,CellEval@K,500,0.6088
+norman,Norman,ridge_esm,Ridge,7,panel,Panel@K,50,0.4989771909
+norman,Norman,ridge_esm,Ridge,7,panel,Panel@K,100,0.5592307231
+norman,Norman,ridge_esm,Ridge,7,panel,Panel@K,200,0.560960024
+norman,Norman,ridge_esm,Ridge,7,panel,Panel@K,500,0.4806702939
+norman,Norman,ridge_esm,Ridge,7,panel,Panel@K,1000,0.3876922273
+norman,Norman,ridge_esm,Ridge,7,deg,DEG Top-K@K,50,0.378
+norman,Norman,ridge_esm,Ridge,7,deg,DEG Top-K@K,100,0.447
+norman,Norman,ridge_esm,Ridge,7,deg,DEG Top-K@K,200,0.4995
+norman,Norman,ridge_esm,Ridge,7,deg,DEG Top-K@K,500,0.6264
+norman,Norman,ridge_esm,Ridge,7,celleval,CellEval@K,50,0.398
+norman,Norman,ridge_esm,Ridge,7,celleval,CellEval@K,100,0.459
+norman,Norman,ridge_esm,Ridge,7,celleval,CellEval@K,200,0.502
+norman,Norman,ridge_esm,Ridge,7,celleval,CellEval@K,500,0.6274
+norman,Norman,ridge_esm,Ridge,8,panel,Panel@K,50,0.4269963986
+norman,Norman,ridge_esm,Ridge,8,panel,Panel@K,100,0.45509991
+norman,Norman,ridge_esm,Ridge,8,panel,Panel@K,200,0.4562304058
+norman,Norman,ridge_esm,Ridge,8,panel,Panel@K,500,0.4107123948
+norman,Norman,ridge_esm,Ridge,8,panel,Panel@K,1000,0.3587088035
+norman,Norman,ridge_esm,Ridge,8,deg,DEG Top-K@K,50,0.402
+norman,Norman,ridge_esm,Ridge,8,deg,DEG Top-K@K,100,0.452
+norman,Norman,ridge_esm,Ridge,8,deg,DEG Top-K@K,200,0.524
+norman,Norman,ridge_esm,Ridge,8,deg,DEG Top-K@K,500,0.6426
+norman,Norman,ridge_esm,Ridge,8,celleval,CellEval@K,50,0.384
+norman,Norman,ridge_esm,Ridge,8,celleval,CellEval@K,100,0.441
+norman,Norman,ridge_esm,Ridge,8,celleval,CellEval@K,200,0.5245
+norman,Norman,ridge_esm,Ridge,8,celleval,CellEval@K,500,0.6408
+norman,Norman,ridge_esm,Ridge,9,panel,Panel@K,50,0.2172773109
+norman,Norman,ridge_esm,Ridge,9,panel,Panel@K,100,0.2538349835
+norman,Norman,ridge_esm,Ridge,9,panel,Panel@K,200,0.279558539
+norman,Norman,ridge_esm,Ridge,9,panel,Panel@K,500,0.2572751539
+norman,Norman,ridge_esm,Ridge,9,panel,Panel@K,1000,0.2209922786
+norman,Norman,ridge_esm,Ridge,9,deg,DEG Top-K@K,50,0.302
+norman,Norman,ridge_esm,Ridge,9,deg,DEG Top-K@K,100,0.355
+norman,Norman,ridge_esm,Ridge,9,deg,DEG Top-K@K,200,0.4705
+norman,Norman,ridge_esm,Ridge,9,deg,DEG Top-K@K,500,0.6206
+norman,Norman,ridge_esm,Ridge,9,celleval,CellEval@K,50,0.316
+norman,Norman,ridge_esm,Ridge,9,celleval,CellEval@K,100,0.362
+norman,Norman,ridge_esm,Ridge,9,celleval,CellEval@K,200,0.4705
+norman,Norman,ridge_esm,Ridge,9,celleval,CellEval@K,500,0.619

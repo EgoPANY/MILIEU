@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use MILIEU, please cite the manuscript when available."
+title: "MILIEU: Towards virtual tissue through context-aware modelling of perturbation responses"
+version: 0.1.0
+authors:
+  - name: "EgoPANY"
+license: MIT
+repository-code: "https://github.com/EgoPANY/MILIEU"
+keywords:
+  - perturbation prediction
+  - single-cell RNA sequencing
+  - spatial transcriptomics
+  - Perturb-seq
+  - milieu intérieur

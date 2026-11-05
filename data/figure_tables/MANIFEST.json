@@ -1,0 +1,134 @@
+{
+  "files": [
+    {
+      "file": "data/figure_tables/main_fig2/Fig2B_ed5_essential_multiseed_plot_data.csv",
+      "sha256": "00f47c5e7b0290ba6ed3c8ccd05000c7ded4da14a42bee495f6e147161497e69",
+      "bytes": 39272
+    },
+    {
+      "file": "data/figure_tables/main_fig2/Fig2B_ed5_rpe1_multiseed_plot_data.csv",
+      "sha256": "15b41a4651d8904c979b9d126a0517c98fb2176911b55986774ae858a7d4cbdd",
+      "bytes": 34619
+    },
+    {
+      "file": "data/figure_tables/main_fig2/Fig2B_norman_multiseed_plot_data.csv",
+      "sha256": "5c6329dc5dc2da17819e0c7b34bc55fee6d3e16d15cb7ce50c5e5e461f5cd207",
+      "bytes": 34021
+    },
+    {
+      "file": "data/figure_tables/main_fig2/Fig2C_gene_ood_tier_multiseed_plot_data.csv",
+      "sha256": "ffe658acefba805d0d96f32894b64ae0c5ef4bece6eea2fbc007d09f680a74b1",
+      "bytes": 154718
+    },
+    {
+      "file": "data/figure_tables/main_fig2/Fig2D_v2_adversarial_multiseed_pearson_plot_data.csv",
+      "sha256": "61198c9bc31cf3a80da00012918ca52703851b5f2690c12b89f0c6f45d5c66a3",
+      "bytes": 5139
+    },
+    {
+      "file": "data/figure_tables/main_fig3/Fig3A_spatial_mmd_multiseed_plot_data.csv",
+      "sha256": "c976e990ca91f561dac3b7bb10a4bd652bea0c034dd1ed6b51280bd110ab6f7f",
+      "bytes": 11280
+    },
+    {
+      "file": "data/figure_tables/main_fig3/Fig3A_d3_spatial_mmd_multiseed_plot_data.csv",
+      "sha256": "11a859e271aa6a7d7a489768563b2f95c9c838febada78ae8aa46fca207eb6de",
+      "bytes": 5627
+    },
+    {
+      "file": "data/figure_tables/main_fig3/Fig3A_d4_spot_spatial_mmd_multiseed_plot_data.csv",
+      "sha256": "fb7d88d128d92940a0a2e5aa6c7fb97304040137bfde7503172377942a0ea48c",
+      "bytes": 5752
+    },
+    {
+      "file": "data/figure_tables/main_fig3/Fig3B_d4_spatial_plot_data.csv",
+      "sha256": "a31e730c224bf374de52a68491e4d450f1c1453d0f5c6258723fbf407e90b3b6",
+      "bytes": 52065
+    },
+    {
+      "file": "data/figure_tables/main_fig3/Fig3B_d4_spot_per_spot_plot_data.csv",
+      "sha256": "8959a4c324781dcd1ab4c5322dfa4dcf2dd410189caeed8ae9f8c2520bf27271",
+      "bytes": 1837932
+    },
+    {
+      "file": "data/figure_tables/main_fig3/Fig3C_d3_spatial_plot_data.csv",
+      "sha256": "56be2c8e27205f8d982a83341e7657983d67cd8fcde3354efd87de09112bf86c",
+      "bytes": 87600
+    },
+    {
+      "file": "data/figure_tables/main_fig3/Fig3C_d3_spot_per_spot_plot_data.csv",
+      "sha256": "444edb264ee9364d1abbe1c1ddd94c78eaa5d5b8e6eda29068f8cf9acbc595f6",
+      "bytes": 5117742
+    },
+    {
+      "file": "data/figure_tables/main_fig3/Fig3D_vcc_probe_multiseed_plot_data.csv",
+      "sha256": "0f0f5d46452a1c44548f6e0b332413fced8037dfcd8dbfbd467c96dbeafdfc5b",
+      "bytes": 124811
+    },
+    {
+      "file": "data/figure_tables/main_fig4/Fig5B_v3_multiseed_plot_data.csv",
+      "sha256": "f4638c1be538b63daf1d8c9e4e3766dff5121aa47597eb19ede8594dafdfc3d2",
+      "bytes": 232730
+    },
+    {
+      "file": "data/figure_tables/main_fig4/Fig5H_v3_tgfbr2_rho_plot_data.csv",
+      "sha256": "437080e8d20bfd93b2f2f38e06599de8137f2354c30d7f5f91adac3ff2217578",
+      "bytes": 932
+    },
+    {
+      "file": "data/figure_tables/main_fig4/Fig5H_v3_tgfbr2_bubbles_plot_data.csv",
+      "sha256": "c8de7f0bd95718a88f43d10534a3233b027cf8f6163dc95b61ddc323806f5c82",
+      "bytes": 5287
+    },
+    {
+      "file": "data/figure_tables/main_fig4/volcano_obs_tgfbr2_plot_data.csv",
+      "sha256": "01176215fc0dfe425f4d9aeeca35a74e97a4df46f12a3f944444f4f9361690cd",
+      "bytes": 1903227
+    },
+    {
+      "file": "data/figure_tables/main_fig4/volcano_ours_gene_level_tgfbr2_plot_data.csv",
+      "sha256": "771184b374dfb356e4bb0120d257af96eaa3f6283ee9a25b6ad3b5370822b64e",
+      "bytes": 2145396
+    },
+    {
+      "file": "data/figure_tables/main_fig4/Fig5H_v3_tgfbr2_go_bar_plot_data.csv",
+      "sha256": "7ffd3ccd1bc98e9ce3a2460e98a68fd009961ee72a3509635e38c5f8b12673db",
+      "bytes": 6021
+    },
+    {
+      "file": "data/figure_tables/main_fig4/Fig5H_v3_tgfbr2_kegg_bar_plot_data.csv",
+      "sha256": "9f077ce0b60de707b1aafbc92a488de10cdb7e29e1c6581d1a598a63269607b5",
+      "bytes": 5131
+    },
+    {
+      "file": "data/figure_tables/supp_fig1/Fig2B_adamson_multiseed_plot_data.csv",
+      "sha256": "7a1dfe610d4f05fd915ee0ac153a54f2ec595a9a4b3773ee9c781bf373706d99",
+      "bytes": 35341
+    },
+    {
+      "file": "data/figure_tables/supp_fig1/Fig2B_jurkat_multiseed_plot_data.csv",
+      "sha256": "00bacf5c0bcb40e462e75bf12b2835d443e48889e91a81f2dc357bec2af603a9",
+      "bytes": 34614
+    },
+    {
+      "file": "data/figure_tables/supp_fig1/Fig2B_hepg2_multiseed_plot_data.csv",
+      "sha256": "ec5f406e42deaefce7437cd7c6174fe2aea88f1f22ed26aba96f99dbf9676b89",
+      "bytes": 33640
+    },
+    {
+      "file": "data/figure_tables/supp_fig1/SuppTable1_extended_sc_gene_ood_mean_sd_display.csv",
+      "sha256": "3af0efae364b19fbd4e0dc6fca3bdfe696bc2433a5fb599beb96ead2b680c349",
+      "bytes": 928
+    },
+    {
+      "file": "data/figure_tables/supp_fig2/Spatial_tier_multiseed_plot_data.csv",
+      "sha256": "f5a0c2806495dfb34f12921ab22b9fa4d2696dc224aabc2b264adab6b70c832c",
+      "bytes": 121536
+    },
+    {
+      "file": "data/figure_tables/supp_fig3/SuppMaterialROI_unified_plot_data.csv",
+      "sha256": "02a4620d120ab65364e6a09b44f35c8ef3e624d459a7b1b10101269ed576091f",
+      "bytes": 9702122
+    }
+  ]
+}

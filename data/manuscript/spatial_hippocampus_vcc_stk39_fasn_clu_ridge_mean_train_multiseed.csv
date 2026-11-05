@@ -1,0 +1,976 @@
+panel,ko,method,seed,metric_key,metric_label,better,value,n_real_sig,probe_version,main_figure_ko,main_figure_method
+VCC,Stk39,_ko_summary,,n_real_sig,Reference Wilcoxon+BH sig genes (val),,37,37,d3_pack_l1_pseudobulk,yes,
+VCC,Fasn,_ko_summary,,n_real_sig,Reference Wilcoxon+BH sig genes (val),,55,55,d3_pack_l1_pseudobulk,yes,
+VCC,Clu,_ko_summary,,n_real_sig,Reference Wilcoxon+BH sig genes (val),,152,152,d3_pack_l1_pseudobulk,no,
+VCC,Stk39,Ours,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.8935810811,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0.02307871794,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.8547297297,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0.05571764359,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,0.9886302708,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0.002261318962,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8918918919,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8108108108,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9914285347,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8918918919,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9859809987,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.7837837838,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9898122694,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.7567567568,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9913108756,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8918918919,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8378378378,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.989901646,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8918918919,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9895875801,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.7567567568,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9938638853,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9860269348,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9864048675,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8918918919,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9867011874,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8918918919,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9870531482,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9876493927,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8918918919,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9877458862,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8918918919,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8918918919,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9875738801,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8108108108,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9896454392,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ours,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9873978073,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_train,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,1,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_train,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9933260544,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Mean_control,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5135135135,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4324324324,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Mean_control,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000336248,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2702702703,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Celcomen,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,1.002013301,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,3.141652844e-05,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001991795,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001975713,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.00202664,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001971369,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001991056,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.002000483,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.002062686,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.002074794,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.002011667,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001992349,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001985417,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.002003903,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001998819,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.002033294,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.002045125,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1891891892,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.05405405405,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,CONCERT,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.002047713,37,d3_pack_l1_pseudobulk,yes,yes
+VCC,Stk39,Ridge,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9189189189,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8648648649,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Stk39,Ridge,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878961719,37,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ours,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.8852272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0.037390796,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.9159090909,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0.01609202188,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,0.9848631257,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0.001791984022,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9869114538,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8909090909,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9871781294,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8181818182,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9454545455,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9835457832,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8363636364,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9858376909,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8909090909,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8909090909,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9874030256,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9869198744,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8545454545,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8909090909,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9861872775,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8545454545,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9832016375,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8545454545,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9835945582,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9835935218,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8909090909,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9842519522,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8909090909,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9852930689,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9857670221,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9832742495,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9454545455,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9814962608,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ours,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9833545048,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_train,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8727272727,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_train,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.991653124,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Mean_control,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.6,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.4,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Mean_control,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000320633,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.1636363636,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Celcomen,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.2715909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0.004545454545,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,1.003601655,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,4.535071829e-05,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003561418,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003550731,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003670887,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003580592,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003627747,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003657932,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.00359536,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003582405,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003598145,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003490944,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.00361544,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003627682,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2545454545,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003584608,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003643682,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003645107,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2727272727,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.09090909091,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,CONCERT,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.003593806,55,d3_pack_l1_pseudobulk,yes,yes
+VCC,Fasn,Ridge,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9272727273,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9818181818,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Fasn,Ridge,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9755529633,55,d3_pack_l1_pseudobulk,yes,no
+VCC,Clu,Ours,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.9033717105,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0.01793190638,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.8680098684,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0.0266934253,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,0.9859306661,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0.00207019048,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8552631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9877806138,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9210526316,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9846072067,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8684210526,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9876457665,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8157894737,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9878108523,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8815789474,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8421052632,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9882120085,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8486842105,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.987306605,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.875,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9877880858,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8881578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9829655718,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8355263158,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9859078121,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9210526316,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8815789474,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9838907062,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9210526316,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9815342053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8881578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8881578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.98342487,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9210526316,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.875,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9876953856,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8881578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9862342477,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9276315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8552631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9864265365,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.8947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.8684210526,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ours,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9856601833,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_train,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9605263158,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_train,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9911939441,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Mean_control,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.5526315789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.3618421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Mean_control,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.000425907,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.03947368421,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Celcomen,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.2331414474,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0.003370707489,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.02713815789,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0.002247138326,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,1.001410227,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,1.565452366e-05,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2302631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001396108,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2368421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.00138093,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2302631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001419458,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2368421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001421326,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2368421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.03289473684,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001401712,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2302631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001400077,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2368421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001436854,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2368421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.03289473684,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001416656,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2302631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001424595,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2302631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001386301,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2368421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001406849,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2368421053,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001415955,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2302631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001421793,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2302631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001430199,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2302631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001404163,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.2302631579,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.02631578947,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,CONCERT,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,1.001400661,152,d3_pack_l1_pseudobulk,no,yes
+VCC,Clu,Ridge,multiseed_summary,dir_fidelity_mean,VCC direction fidelity yield (↑) · mean over seeds,high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,multiseed_summary,dir_fidelity_sd,VCC direction fidelity yield (↑) · SD over seeds,high,0,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,multiseed_summary,dir_match_mean,VCC direction match on ref sig (↑) · mean over seeds,high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,multiseed_summary,dir_match_sd,VCC direction match on ref sig (↑) · SD over seeds,high,0,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,multiseed_summary,lfc_nmae_mean,VCC log2FC NMAE on ref sig (↓) · mean over seeds,low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,multiseed_summary,lfc_nmae_sd,VCC log2FC NMAE on ref sig (↓) · SD over seeds,low,0,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,23,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,23,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,23,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,0,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,0,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,0,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,1,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,1,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,1,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,2,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,2,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,2,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,3,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,3,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,3,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,4,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,4,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,4,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,5,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,5,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,5,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,6,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,6,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,6,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,7,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,7,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,7,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,8,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,8,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,8,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,9,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,9,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,9,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,10,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,10,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,10,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,11,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,11,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,11,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,12,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,12,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,12,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,13,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,13,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,13,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,14,direction_fidelity_yield,VCC direction fidelity yield (↑),high,0.9144736842,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,14,direction_match_on_real_sig,VCC direction match on ref sig (↑),high,0.9078947368,152,d3_pack_l1_pseudobulk,no,no
+VCC,Clu,Ridge,14,lfc_nmae,VCC log2FC NMAE on ref sig (↓),low,0.9766192245,152,d3_pack_l1_pseudobulk,no,no

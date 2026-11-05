@@ -1,0 +1,10 @@
+MILIEU — context-aware perturbation response modelling for Perturb-seq and spatial transcriptomics (Python package milieu).
+
+Paste into GitHub → Settings → General → Description (replaces any STARS text).
+
+Suggested Description (≤350 chars):
+MILIEU: context-aware modelling of perturbation responses in single-cell Perturb-seq and spatial transcriptomics. Unified Python package (train, infer, benchmarks).
+
+Suggested website: https://github.com/EgoPANY/MILIEU
+
+Topics (optional): perturbation-prediction, single-cell, spatial-transcriptomics, perturb-seq, deep-learning
