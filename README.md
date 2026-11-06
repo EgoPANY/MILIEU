@@ -44,6 +44,13 @@ docs/DEMO.md
 requirements-demo.txt
 ```
 
+## Contact
+
+Manuscript under review. For questions about the code:
+
+- Open an issue on GitHub
+- Email co-first authors **Yao Pan** (3200101597@zju.edu.cn) and **Shuhui Wang** (shuhui.wang@genesight.cn), or corresponding author **Yixuan Wang** (yixuan.wang@genesight.cn)
+
 ## License
 
 MIT — [LICENSE](LICENSE). Citation: [CITATION.cff](CITATION.cff).
